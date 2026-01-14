@@ -13,5 +13,6 @@
    (3) run `python score.py --file soap-note`  
 
 ## ETC.
-- soap-note must be a `.csv` file  
+- soap-note must be a `.csv` file
+- soap-note must be under the `dataset` folder
 - soap-note must have the following columns: `transcription`, `SOAP`
