@@ -14,5 +14,5 @@
 
 ## ETC.
 - soap-note must be a `.csv` file
-- soap-note must be under the `dataset` folder
+- soap-note must be under the `data` folder
 - soap-note must have the following columns: `transcription`, `SOAP`
