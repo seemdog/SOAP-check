@@ -1,0 +1,3687 @@
+transcription,SOAP,reference_unit
+"S1: 아 아.
+S1: 녹음 테스트 중.
+S1: 어 위염으로 의심이 되고 명치 부위 통증, 속쓰림, 구역감 등이 있으며 현재 당뇨 약을 복용 중이시고 과거에는 위장 질환은 따로 없었음. 약 처방하고 지켜봐야 될 것 같습니다.","S (Subjective):
+- 주호소: 명치 부위 통증, 속쓰림, 구역감
+- 현병력: 증상 발생 시점 불명확
+- 과거력: 위장질환 없음
+- 투약력: 당뇨약 복용 중
+
+O (Objective):
+- 제공된 정보 없음
+
+A (Assessment):
+- 제공된 정보 없음
+
+P (Plan):
+- 약물 처방
+- 경과 관찰 예정","The patient is suspected to have gastritis.
+
+The patient has epigastric pain.
+
+The patient has heartburn.
+
+The patient has nausea.
+
+The patient is currently taking diabetes medication.
+
+The patient has no past history of gastrointestinal disease."
+"S1: 네, 사장님 안녕하세요. 보니까 1개월 이내부터 머리가 계속 아프시다고 했는데, 머리가 술을 많이 드시면 아프신 건가요?
+S2: 어, 술을 먹을 때도 아프긴 한데 한 달 전부터 유독 그 두통이 술을 안 먹을 때도 아픕니다.
+S1: 네. 혹시 다른 뭐 고혈압이나 뭐 당뇨나 이런 것들이 있으세요?
+S2: 혈압은 잘 안 재긴 하는데 다른 병원에서 한번 측정해 봤더니 160 정도 나왔다고 들었습니다.
+S1: 네. 당뇨는 없으세요?
+S2: 어, 당뇨는 없습니다.
+S1: 아, 네. 부모님 중에서 혹시나 뇌종양이나 뭐 다른 뭐 그런 것들 있는 분도 안 계시고요?
+S2: 어, 부모님은 아니고 할머니가 뇌출혈로 돌아가신 가족 이력이 있습니다.
+S1: 아, 네. 그 검진 같은 거 최근에 1년 이내에 검진 해 보신 적 있으세요? 머리 쪽 사진을 찍은 경험이.
+S2: 최근에 건강 검진을 소홀히 해서 못 받았습니다.
+S1: 아, 네. 네, 잘 알겠습니다. 일단 뭐 요 정도만 가볍게 한번 해 보고.","S (Subjective):
+- 주호소: 1개월 전부터 지속되는 두통
+- 현병력: 음주 시에도 통증이 있으나, 최근 1개월간 음주 없이도 통증이 발생함
+- 과거력: 고혈압(타 병원에서 160 mmHg 측정), 당뇨 없음
+- 가족력: 할머니 뇌출혈로 사망
+
+O (Objective):
+- 제공된 정보 없음
+
+A (Assessment):
+- 제공된 정보 없음
+
+P (Plan):
+- 제공된 정보 없음","The patient has been experiencing persistent headaches for about one month.  
+The patient reports that headaches occur even when not drinking alcohol.  
+The patient reports that the blood pressure was measured as about 160 at another hospital.  
+The patient reports not having diabetes.  
+The patient’s grandmother died from cerebral hemorrhage.  
+The patient has not undergone a health checkup including head imaging within the past year."
+"S1: 아, 여기 앉으시면 돼요.
+S2: 안녕하세요.
+S1: 아, 네, 안녕하세요. 네.
+S1: 음 이하영 님, 저희 병원 처음이시죠?
+S2: 네.
+S1: 네. 어리시네요.
+S2: 네.
+S1: 어디가 목이 많이 아프신가요?
+S2: 목보다는 열나는 게 더 힘들어요.
+S1: 언제 열이 나셨나요?
+S2: 어제 저녁에
+S1: 어제 저녁에. 어제 저녁 몇 시경부터요?
+S2: 한 4시 경부터요.
+S1: 저녁 오후?
+S2: 네. 오후.
+S1: 오후 4시?
+S2: 네.
+S1: 오후 4시면은 12시간 지났고. 음. 12시간 8시간 7시간. 아 24시간 이내네요. 음.
+S1: 열만 나시는 거예요?
+S2: 목도 아파요.
+S1: 목 좀 잠깐 볼게요. 아 해보세요. 아 소리 내볼까요?
+S2: 아.
+S1: 아, 예, 목에 염증 보이네요.
+S1: 음 인두염. 목에 염증 좀 있네요.
+S1: 콧물은 없으시고요?
+S2: 콧물은 없어요.
+S1: 네. 약물 알러지는 없나요?
+S2: 네, 없습니다.
+S1: 편도가 부어있는 건 아닌 거 같고요. 인두염이 좀 있는 거 같고. 일단 목만 많이 아픈 거죠?
+S2: 기침이 나요. 예.
+S1: 기침도 나시고요?
+S2: 네.
+S1: 음.
+S1: 그럼 바이러스 질환인 거 같습니다. 근데 바이러스 질환에는 빨리 조치를 취하는 게 좋거든요. 과거에 독감 앓으신 적 있으세요?
+S2: 아니요, 거의 없어요.
+S1: 거의 없으세요?
+S2: 네.
+S1: 음.
+S2: 코로나는 한번 앓아봤어요.
+S1: 응, 코로나 앓으신 적 있죠?
+S2: 네.
+S1: 코로나 앓으면 며칠 정도 갔죠? 그때 뭐 따로 치료 약을 드셨나요? 아니면 그냥
+S2: 그냥 약국에서 주는 테라플루? 플루?
+S1: 그건 그냥 감기 일반 감기약 아닌가요?
+S2: 그걸로 먹었어요.
+S1: 한 3일 정도 아팠어요.
+S2: 3일 정도?
+S1: 3일 정도는 갈 겁니다. 제가 핸드폰으로 제 블로그에 있는 내용 보내드렸는데요. 이거 한번 좀 참고하시고요. 어, 그 이게 바이러스 질환이면 항바이러스 효과가 있는 영양제를 그냥 집중 투하를 하면 많이 먹으면은 증상이 한 한 하루 이틀 안에 좋아지거든요, 효과가 있으면. 근데 그래서 지금 혹시 먹고 있는 영양제가 있어요?
+S2: 비타민 C
+S1: 비타민 C 있어요?
+S2: 네.
+S1: 집에 많이 있어요?
+S2: 네.
+S1: 음, 그럼 이제 잘 안 처방 안 해드릴게요. 그거는 심하면은 12알, 12알까지 먹거든요.
+S2: 네.
+S1: 예. 두 알씩
+S2: 두 알만 먹는데
+S1: 두 알씩 세 번. 그러니까 세 시간 간격으로 두 알씩만 먹으면 하루 여섯 번이거든요. 예, 3 6 18 깨어 있을 때만. 2 6 12, 12알, 12알을 먹잖아요, 두 알씩 세 시간 간격으로 계속 드시고요, 오늘 하루 정도는.
+S2: 네.
+S1: 비타민 D 있으세요?
+S2: 비타민 D 있어요.
+S1: 있어요? 몇 단위 짜리 있으세요?
+S2: 5천
+S1: 5천 단위?
+S2: 네.
+S1: 아침 저녁으로 드세요. 제가 그걸 안 드릴게요.
+S2: 점심에만 먹는데
+S1: 하루에 두 번 드세요.
+S2: 네.
+S1: 아플 때는.
+S2: 네.
+S1: 원래 더 드셔도 되는데 일단 만 단위 정도. 아연 보충제 있어요?
+S2: 없어요.
+S1: 그럼 아연만 제가 껴드릴게요. 약에다가.","S (Subjective):
+- 주호소: 인후통, 발열
+- 현병력: 어제 오후 4시경부터 발열 시작, 목이 많이 아픔, 기침 없음
+- 과거력: 코로나19 감염(약 1년 전), 독감 이력 거의 없음, 약물 알레르기 없음
+- 사회력: 현재 비타민 C 5000IU 복용 중
+
+O (Objective):
+- 신체검진: 인후두 염증 관찰, 편도 부종 없음
+
+A (Assessment):
+- 바이러스 질환
+- 인후염
+
+P (Plan):
+- 항바이러스 효과 영양제 집중 투하 권고(하루 2알씩 3시간 간격으로 12알 섭취)
+- 비타민 D 5000IU 아침/저녁 2회 복용
+- 철분 보충제 추가 처방
+- 환자 교육: 블로그 내용 전송하여 참고하도록 안내","The patient reports that fever is more bothersome than throat pain.
+
+The patient reports that the fever started yesterday afternoon around 4 PM.
+
+The patient reports throat pain.
+
+The patient reports cough.
+
+The doctor observed inflammation in the patient’s throat.
+
+The doctor assessed that the patient has pharyngitis.
+
+The patient reports no runny nose.
+
+The patient reports no medication allergies.
+
+The doctor assessed that the patient’s condition seems to be a viral illness.
+
+The patient reports almost never having had influenza in the past.
+
+The patient reports having had COVID-19 once.
+
+The patient reports taking an over-the-counter medication called Theraflu during the prior COVID-19 illness.
+
+The doctor stated that the prior COVID-19 illness lasted about three days.
+
+The patient has vitamin C at home.
+
+The patient has been taking only two vitamin C tablets.
+
+The doctor instructed the patient to take vitamin C two tablets at a time every three hours, up to twelve tablets in one day while awake.
+
+The patient has vitamin D 5000 IU at home.
+
+The patient has been taking vitamin D only at lunchtime.
+
+The doctor instructed the patient to take vitamin D twice a day in the morning and evening while sick.
+
+The patient does not have a zinc supplement at home.
+
+The doctor plans to add zinc to the patient’s prescribed medications."
+"S1: 2일 전부터 열이 나셨고요.
+S2: 가래 색깔은 누렇진 않은데.
+S1: 네.
+S2: 저는 누르면 나오거든요. 하얘요.
+S1: 하얘요. 맑은 가래.
+S2: 예. 시작도 안 된 거 같지, 그냥.
+S1: 네. 열은 그러니까 어제부터 나셨다?
+S2: 예.
+S1: 지금
+S2: 열도 좀 며칠 났어요.
+S1: 며칠 났어요?
+S2: 예. 어휴.
+S1: 해열제를 먹고 오셨나요?
+S2: 예. 아스피린이요.
+S1: 원래 드시는 약이 있으세요?
+S2: 예, 아스피린하고 에피피드를 자주 먹어요.
+S1: 아, 원래 기침을 많이 하셨어요? 콧물? 많이.
+S2: 예. 예.
+S1: 네, 비염이 좀 있으세요?
+S2: 예.
+S1: 지금은 막 그 며칠 전에는요, 그 기침을 하니까요,
+S2: 예.
+S1: 갈비뼈가 나간 것처럼 아프더라고요.
+S2: 아, 네, 네.
+S1: 근데 지금은 그 증상은 없고 이 배로 내려왔어요. 그래서 여기만 아파요, 지금은. 마치 흉통만 있어요.
+S2: 기침할 때?
+S1: 예.
+S2: 기침할 때만 그런 거죠?
+S1: 예.
+S2: 예. 지금 고혈압, 당뇨, 고지혈증은 없으시고요?
+S1: 예.
+S2: 음. 지금 먹고 있는 영양제 따로 있으세요?
+S1: 없습니다.
+S2: 없으시고요. 운동은 평소에?
+S1: 많이 하죠.
+S2: 무슨 운동 하세요?
+S1: 제가 갖고 파크 골프라고요.
+S2: 파크 골프요.
+S1: 네.
+S2: 매일해요.
+S1: 매일?
+S2: 네.
+S1: 뭐 일주일에 한 6일?
+S2: 5일 정도요. 엄청 건강한 사람인데.
+S1: 네.
+S2: 아휴, 이번에.
+S1: 몇 가지만 확인할게요. 물 자주 드세요?
+S2: 예.
+S1: 어 하루에 얼마나?
+S2: 엄청 먹어요.
+S1: 2L?
+S2: 예.
+S1: 2L 이상?
+S2: 예, 지금은 못 먹죠. 아프니까. 전에는 물 많이 먹었죠.
+S1: 커피도 마셔요?
+S2: 예. 커피도 한두 잔 정도.
+S1: 한두 잔 정도요? 식사는 규칙적으로 하시는 편?
+S2: 예.
+S1: 세 끼?
+S2: 예.
+S1: 네. 술, 담배?
+S2: 안 먹었죠.
+S1: 전혀 안 하시고요. 변비는 없으시고요.
+S2: 예.
+S1: 약물 알레르기는 없으신가요?
+S2: 예.
+S1: 제가 외투 좀 벗어 보시겠어요? 예. 목은 안 아프시고 그냥 가래만
+S2: 예.
+S1: 좀 보여주실래요? 숨 한번 크게 들이쉬고 내쉬고 한번 해보세요.
+S1: 마스크를 벗고 숨 쉬어 보세요. 숨 한번 크게 들이쉬고 내쉬고.
+S1: 네. 됐습니다. 입 벌려서 아 해볼까요? 아. 목 상태 좀 확인할게요. 가슴 사진도 한번 찍어 보겠습니다.
+S2: 네.
+S1: 네, 잠깐만 대기하시겠어요?
+S2: 네.
+S1: 사진 찍고 다시 좀 말씀드릴게요.
+S2: 네. 그 가슴 사진은 자세하게는 안 나오죠? 왜냐면 제가 폐결핵을 아기 때 앓았는데 네. 그거 건강 그런 거 할 때에는 나오더라고, 그게.
+S1: 네, 맞아요. 네.
+S2: 예, 그래서 오해를 많이 하시더라고요.
+S1: 아, 예예.
+S2: 예.
+S1: 자, 그냥 잠깐 앉아 계세요. 네, 바로 좀 준비해드릴. 엑스레이 준비 좀 해 주실까요?
+S2: 네.
+S3: 네. 환자분 이쪽으로 안내해드릴게요.","S (Subjective):
+- 주호소: 발열, 가래
+- 현병력: 2일 전부터 발열 시작, 어제부터 지속됨
+- 가래 양상: 맑은 가래
+- 동반증상: 기침, 흉통(기침 시 발생, 현재는 호전됨), 콧물, 비염
+- 투약력: 아스피린, 에피피드 복용 중
+- 과거력: 고혈압, 당뇨, 고지혈증 없음
+- 사회력: 파크 골프 주 5-6회, 금주, 금연, 수분 섭취 2L 이상, 커피 1-2잔/일
+- 특이사항: 약물 알레르기 없음
+
+O (Objective):
+- 신체검진: 흉부 청진 시행
+- 시진: 인후두 시진 시행
+
+A (Assessment):
+- 제공된 정보 없음
+
+P (Plan):
+- 흉부 X-ray 촬영 예정
+- 검사 결과 확인 후 재진료 예정","The patient has had a fever for about two days.  
+The patient has sputum that is white and clear.  
+The patient has been taking aspirin as an antipyretic.  
+The patient frequently takes aspirin.  
+The patient frequently takes a medication called Epipid.  
+The patient has a history of frequent coughing.  
+The patient has a history of frequent rhinorrhea.  
+The patient has rhinitis.  
+The patient previously had rib area pain when coughing.  
+The patient currently has pain that has moved to the abdomen.  
+The patient currently has chest pain only when coughing.  
+The patient does not have hypertension.  
+The patient does not have diabetes mellitus.  
+The patient does not have hyperlipidemia.  
+The patient does not take any nutritional supplements.  
+The patient exercises frequently.  
+The patient plays park golf about five days a week.  
+The patient usually drinks about 2 liters or more of water per day.  
+The patient is currently drinking less water because of illness.  
+The patient drinks one to two cups of coffee per day.  
+The patient eats three regular meals per day.  
+The patient does not drink alcohol.  
+The patient does not smoke.  
+The patient does not have constipation.  
+The patient has no known drug allergies.  
+The patient does not have a sore throat.  
+The patient had pulmonary tuberculosis in infancy."
+"S1: 안녕하세요.
+S2: 아, 네, 안녕하세요. 네.
+S1: 안녕하세요.
+S2: 네, 어디가 불편해서 오셨나요? 네.
+S1: 지금 제가 네. 한 번씩 극심한 스트레스를 받으면 네. 시체 놀이를 해요. 토하고.
+S2: 네, 스트레스를 받으면요?
+S1: 네, 네. 그래서 이제 저기 서울에 병원에 가서 여기 귀에다 물도 넣어서 해보고 이제 이제 아침에 이제 딱 증상이 오면 눈을 딱 뜨면 요 천장이 뱅글뱅글 돌면서 이 좀 못 가 좀 안 좋다 싶으면은 그러니까 이제 뭐 귀도 해보고 다 해봤는데 이석증이나 뭐 이런 거 멀쩡해요. 네. 제가 생각했을 적에는 스트레스를 받으면 그냥 그런데 이제 물도 못 먹어. 물도 못 먹고 어지러우니까 한쪽으로 누워 있어야 되는데 중간에 좀 괜찮을까 싶어서 이제 물이라도 조금 먹거나 안 그러면 이제 이걸 온몸에 땀이 나면서 구토를 하는데 구토가 처음에 이제 맑은 물 나왔다. 위 색깔이 나왔다. 요런 색이 나왔다. 나중에 이제 뭐 커피색 정도의 그 담즙까지 다 빠져야 거짓말처럼 이제 안 아파서 활동을 해요. 근데 그게 이제 어 최 장으로는 4, 5일까지도 한번 해 봤고. 요번엔 이제 토요일 저녁부터 이제 아무것도 못 먹었는데 그냥 이제 조금 괜찮아질 것 같은데 그래도 이게 되게 웃겨서 어저께 일요일만 아니었으면 제가 아침에 병원에를 와서, 어저께 진료 안 보셨죠?
+S2: 아 예, 일요일이요.
+S1: 네, 네. 그래서 이제 어저께 같았으면은 이제 일요일이 아니었으면 아침에 제가 여기를 왔다 가면 그래도 토하는 거랑 조금 이제 어지럽고 머리 아픈 게 좀 나섰을 텐데 이러다 낫으니까 그냥 좀 있어 보자 했는데 이 그랬는데 전에 없던 이제 가슴 두근거림까지 이번에는 생겼어요.
+S2: 네.
+S1: 두근두근 두근하네. 다 토해야 되는데 아직 담즙은 안 나왔어요.
+S2: 음.
+S1: 눈 감고 있으면 제일 편해요.
+S2: 언제부터 이러셨어요?
+S1: 토요일 날 밤에.
+S2: 아 전에도 이러셨어요? 그 전에 과거에 이런...
+S1: 10년 전에부터 그랬지. 아, 10년도 넘었어. 스트레스를 받으면 내 마음을 잘 다스려야지 다스려야지 하는데 안 다스려지네요.
+S2: 네. 지금 오늘도 토하셨나요?
+S1: 오늘은 안 토했어요.
+S2: 오늘은 안 토했어요?
+S1: 네. 근데도 울렁거려.
+S2: 울렁거림이 있다고요?
+S1: 네.
+S2: 아. 머리도 살짝 아프고. 물은 많이 마셨어요?
+S1: 물도 못 마셔요.
+S2: 아예 토요일 밤부터 오늘까지 물은 한 모금도 못 먹…
+S1: 물을 먹으면…
+S2: 그래서 이제 혈색이 내려올까? 아우, 많이 안 좋으시네.
+S3: 네, 뭐 이렇게…
+S2: 어떻게 해요. 수액을 좀 놔드릴까요?
+S3: 아, 수액 맞아야 될 것 같아요.
+S2: 네.
+S1: 내 인생에 수액은 안 맞아 봤는데.
+S2: 아, 수술할 때 빼놓고.
+S3: 여사님 이렇게 탈수 오래 했을 때는 맞는 게 맞아요.
+S2: 네, 네, 네, 네.
+S1: 물 먹으면 되지. 아이.
+S3: 아니에요. 병원에서 고집 부리는 거 아니…
+S1: 아이고, 내가요, 이렇게 소도 때려잡게 생긴 체격에 수액이라니.
+S2: 어머니, 어머니 키 몸무게가 소도 때려잡을 몸은 아니잖아요.
+S1: 아니야, 때려잡을 몸이야. 내가 아침에 10시부터 밤 10시까지 일하는데.
+S2: 무슨 일 하시는데요?
+S1: 우리 식당하지.
+S2: 아, 식당에요? 예.
+S1: 그게 하루 종일 하는 건 아니고 더러더러 방에 가서 쉬고 직원들이 하지 뭐.
+S2: 아, 그러니까. 네.
+S1: 근데 신경 쓸 일은 많아요.
+S2: 몇 가지만 확인해 볼게요, 어머니. 먹고 있는 다른 약 없으세요?
+S1: 없어요.
+S2: 고혈압, 당뇨, 고지혈증 없으시고요?
+S1: 없어요.
+S2: 약물 알러지는 없으시고요?
+S1: 네, 네.
+S2: 음, 영양제 같은 거 챙겨 드시나요?
+S1: 안 먹어요.
+S2: 안 드시고. 운동하세요?
+S1: 운동은 걷기 운동 조금 하는데 하루에 한...
+S2: 몇 분?
+S1: 40분.
+S2: 40분 걸어요?
+S1: 아, 그것도 어쩌다가 요새 못 걷는데.
+S2: 아, 예. 물은 평소에 하루에 얼마나 마셔요?
+S1: 평소에 그래도 1리터에서 2리터는 먹으려고 하죠.
+S2: 네, 네, 네. 커피 마셔요?
+S1: 커피 안 마셔요.
+S2: 안 마시고. 하루 규칙적으로 식사하시나요? 세 끼?
+S1: 두 끼.
+S2: 네, 두 끼 먹고.
+S1: 두 끼.
+S2: 어, 두세, 세 끼 먹어?
+S1: 세 끼.
+S2: 아, 술, 담배?
+S1: 전혀.
+S2: 안 하시고.
+S1: 네.
+S2: 변비 없으시고?
+S1: 네.
+S2: 네. 혈압은 괜찮으신데 탈수가 조금 너무 되신 것 같습니다.
+S1: 네, 네.
+S2: 식사도 못 하셨고요.
+S1: 네.
+S2: 언제부터 못 하셨어요, 식사는?
+S1: 토요일 점심 먹고 끝이에요.
+S2: 아, 토요일 점심 이후.
+S1: 네. 점심에 그냥 카레밥 한 그릇 먹고 배가 고팠는데 아버지가 식사를 하고 오신 거야. 그래서 직원들은 먹을 시간이 안 돼서 내가 치킨 한 마리씩 시켜서 돌려보내고. 그리고 나는 그때부터 굶었어.
+S2: 어머니 좀 누워 보실래요?","S (Subjective):
+- 주호소: 극심한 스트레스로 인한 어지럼증, 구토, 가슴 두근거림
+- 현병력: 토요일 저녁부터 증상 시작, 토요일 점심부터 식사 및 수분 섭취 불가능, 맑은 물에서 담즙, 커피색 담즙으로 변화하는 구토 지속, 눈 감고 누워 있는 자세가 가장 편안함, 평소 걷기 운동 40분/일 시행
+- 과거력: 10년 전 유사 증상 경험, 고혈압/당뇨/고지혈증 없음, 약물 알레르기 없음
+- 사회력: 식당 운영, 하루 2끼 식사, 커피/술/담배 안 함, 수분 섭취 1-2L/일, 영양제 복용 안 함
+
+O (Objective):
+- 신체검진: 쇠약한 체격, 손등에 땀 관찰, 가슴 부위 청진 시 두근거림 확인
+- 수분 섭취: 토요일부터 현재까지 물 한 모금도 섭취하지 못함
+
+A (Assessment):
+- 탈수
+
+P (Plan):
+- 수액 처방 및 투여 예정","The patient experiences episodes of severe stress-induced symptoms.
+
+When the patient experiences severe stress, she lies still like a corpse and vomits.
+
+When the patient opens her eyes during an episode, she feels that the ceiling is spinning.
+
+The patient has previously undergone evaluation at a hospital in Seoul including ear-related tests with water instillation.
+
+The patient was told that benign paroxysmal positional vertigo or similar ear conditions were normal.
+
+During episodes, the patient cannot drink water.
+
+During episodes, the patient feels dizzy and has to lie on one side.
+
+During episodes, the patient sweats all over her body.
+
+During episodes, the patient vomits progressively from clear fluid to stomach-colored fluid to coffee-colored bile.
+
+The patient reports that her pain and symptoms stop after vomiting bile and she can then resume activities.
+
+The longest duration of such an episode has been about 4 to 5 days.
+
+The current episode started on a Saturday evening.
+
+During the current episode, the patient could not eat anything from Saturday evening.
+
+The patient believes that if she had come to the hospital earlier, her vomiting, dizziness, and headache might have improved.
+
+In the current episode, the patient developed new palpitations that she had not experienced before.
+
+The patient reports that she still has not vomited bile in the current episode.
+
+The patient feels most comfortable when she keeps her eyes closed.
+
+The patient has had similar stress-related episodes for more than 10 years.
+
+The patient did not vomit on the day of the consultation.
+
+The patient still feels nausea on the day of the consultation.
+
+The patient cannot drink water on the day of the consultation.
+
+The patient has not been able to drink water from Saturday night until the day of the consultation.
+
+The patient has never received intravenous fluids before except during surgery.
+
+The patient works at her own restaurant.
+
+The patient reports working from 10 a.m. to 10 p.m.
+
+The patient states that although she does not work continuously, she has many things to worry about.
+
+The patient is not taking any medications.
+
+The patient has no history of hypertension.
+
+The patient has no history of diabetes.
+
+The patient has no history of hyperlipidemia.
+
+The patient has no known drug allergies.
+
+The patient does not take nutritional supplements.
+
+The patient does some walking exercise.
+
+The patient usually walks about 40 minutes a day when she exercises.
+
+Recently the patient has not been able to walk for exercise.
+
+The patient usually drinks about 1 to 2 liters of water per day.
+
+The patient does not drink coffee.
+
+The patient usually eats two to three meals per day.
+
+The patient does not drink alcohol.
+
+The patient does not smoke.
+
+The patient does not have constipation.
+
+The doctor assessed that the patient’s blood pressure is okay.
+
+The doctor assessed that the patient is significantly dehydrated.
+
+The patient has not been able to eat since lunch on Saturday.
+
+The patient ate a bowl of curry rice for lunch on Saturday.
+
+The patient felt hungry after that lunch.
+
+The patient’s father had already eaten when she felt hungry.
+
+The patient ordered one chicken per staff member and sent them to eat.
+
+The patient has been fasting since that time."
+"S1: 잠깐 목을 좀 볼게요.
+S1: 아 한번 해 보세요.
+S2: 아
+S1: 어제부터 그랬어요?
+S2: 예, 어제 한 오후 쯤부터요.
+S1: 어제 오후부터?
+S2: 예 밤에
+S1: 네, 이제 시작한 지 얼마 안 됐네요, 그죠?
+S2: 예.
+S1: 어제 오후부터.
+S1: 네.
+S2: 코가 좀 막히더라고요.
+S1: 막히고,
+S1: 바이러스 질환인 것 같습니다.
+S1: 어제 오후부터.
+S1: 일찍 오셨는데요.
+S1: 이럴 때 빨리 먹으면 좋아지는 약들이 있어요. 그걸 좀 처방을 해 드려도 될까요?
+S2: 예.
+S1: 근데 이제 내용을 좀 이해하셔야
+S1: 어
+S1: 될 거 같아서
+S1: 따로 개인적으로 먹고 있는 영양제가 있나요?
+S2: 아니요, 영양제는
+S1: 하나도 안 드세요?
+S2: 그 무릎 관절염 그런 것 때문에 좀 먹고 있는데.
+S1: 네네. 예.
+S1: 임청구 님 제가 문자 하나 보내 드렸는데 혹시 가는지 확인할 수 있을까요? 지금 문자 메시지 갔나요?
+S2: 아 예 갔죠.
+S1: 예, 한번 열어보실까요? 제 블로그인데요.
+S2: 네.
+S1: 코로나 독 감기 독감 코로나 대처 방안 해 가지고 쭉 있는데, 여기서 이제 중요한 게 비타민 C, 비타민 D, 아연이고요.
+S2: 네.
+S1: 요거 먹고 있는 거 없죠?
+S2: 저 비타민은 한 번씩
+S1: 지금 있어요?
+S1: 먹을 수 비타민 C가 있어요?
+S2: 예, 지금.
+S1: 지금?
+S2: 아니, 지금 차에 이제
+S1: 차에 있어요?
+S2: 예.
+S1: 비타민 C?
+S2: 예, 비타민 C.
+S1: 제가 요거는 뺄게요.
+S1: 있으니까 따로 챙겨 드시는 거면 따로
+S2: 아 아니, 일단 그냥 일단 다 주세요.
+S1: 아 이제 보험이 안 돼서 그래요. 있으면
+S1: 많이 비싸진 않으니까 그냥 껴드려요?
+S2: 아 그럼 예, 빼고 가면.
+S1: 예 예 다 보험이 안 되거든요. 비급여라.
+S2: 비타 비타 500, 비타
+S2: 아니 비타 500이 아니고
+S2: 비맥스
+S1: 아니 그거는 비타민 C가 아니잖아요. 비맥스는 비타민 B죠.
+S2: 아, B예요?
+S1: 네, B맥스
+S1: B맥스
+S2: 아.
+S1: B예요, B. B는 그냥 드시고, 요거는 이제 면역과 관련된 거라서 챙겨 드시면
+S1: 그 이제 중요한 게 이제 옥시크로린이라는 약인데요. 옥시크로린이라고 하이드록시클로로퀸 혹시 들어본 적 있어요?
+S2: 아니요.
+S1: 아, 요게 항바이러스 효과가 있어요. 요게 아연 보충제랑 같이 먹으면 바이러스 증식을 억제하는 효과가 있어서 지금 먹으면 빨리 좋아지는
+S1: 그 약이에요. 보험은 안 되는데, 그 코로나 땐 보험이 돼요.
+S2: 네.
+S1: 코로나 때는. 근데 이제 요게 원래는 류마티스 관절염이나 뭐 말라리아 치료 약인데 코로나 때도 보험이 되는데 감기 때는 안 돼요. 근데 감기 때 먹으면 효과가 있어요.
+S2: 아, 그러면은
+S1: 요걸 제가 한 3일분 드릴게요.
+S2: 예, 일단
+S1: 근데 처음에 먹을 때는 두 알을 드세요, 처음에 먹을 때.
+S2: 아,
+S1: 예, 그렇게 처방을 해 드릴 거고,
+S1: 그러니까 그걸 아침에 먹으면 바로 드시면 돼요.
+S2: 지금 바로 먹으면 된다고?
+S1: 아침 먹
+S1: 아침 식사 하고 드시면 더 좋죠.
+S2: 아 먹고 왔거든요, 지금.
+S1: 아, 예. 그러면 바로 드시면 되겠네요.
+S2: 네.
+S1: 저 일단은 바이러스 질환이시니까, 음
+S1: 항생제 아침 약으로 들어가는 항생제가 있을 건데, 요건 항바이러스 효과가 있어서 그냥 같이 드시면 도움이 되거든요.
+S1: 네, 요거 아침 드시고,
+S1: 네, 항생제가 들어가기 때문에 설사할 수 있다
+S1: 말씀을 드릴게요. 비타민 C를 먹어도 설사를 할 수가 있어요.
+S2: 네.
+S1: 그렇게 해서 제가 약은 한 3일분 드리겠습니다, 3일분.
+S2: 아, 예.
+S1: 네, 그렇게 하겠습니다.
+S1: 네, 됐습니다. 안녕하세요, 약물 알러지는 없으시죠?
+S2: 예, 따로 뭐
+S1: 네네. 몸살약이랑 콧물약은 제가 따로 드릴게요. 요건 콧물 나거나 몸살 있을 때 드시면 돼요.
+S2: 아, 예, 알겠습니다. 네, 감사합니다.
+S1: 네, 안녕히가세요.","S (Subjective):
+- 주호소: 어제 오후부터 시작된 바이러스 질환 의심
+- 과거력: 관절염
+- 복용 영양제: 비타민 B 복합제(비맥스), 비타민 C
+- 알레르기: 약물 알레르기 없음
+
+O (Objective):
+- 제공된 정보 없음
+
+A (Assessment):
+- 바이러스 질환
+
+P (Plan):
+- 옥시크로린 3일분 처방 (초기 1회 2정, 이후 1정으로 감량)
+- 항생제 아침 약으로 추가
+- 설사 가능성 및 비타민 C 복용 시에도 설사 발생 가능성 설명
+- 몸살약 및 콧물약 별도 처방
+- 비타민 C는 기존 복용 중이므로 처방에서 제외","The patient has had nasal congestion since yesterday afternoon.  
+The clinician suspects that the patient has a viral illness.  
+The patient takes a supplement for knee osteoarthritis.  
+The patient does not routinely take nutritional supplements other than the one for knee osteoarthritis.  
+The patient has vitamin C available in their car.  
+The patient has been taking a vitamin B complex product called Bmax.  
+The patient has no known drug allergies.  
+The clinician prescribed hydroxychloroquine (Oxychroline) for 3 days.  
+The clinician instructed the patient to take two tablets of hydroxychloroquine for the first dose.  
+The clinician instructed the patient to take hydroxychloroquine after breakfast.  
+The clinician prescribed an oral antibiotic to be taken in the morning.  
+The clinician warned that the antibiotic may cause diarrhea.  
+The clinician warned that vitamin C may cause diarrhea.  
+The clinician prescribed additional medication for body aches.  
+The clinician prescribed additional medication for nasal symptoms."
+"S1: 안 좋은 거 같긴 한데
+S2: 네.
+S1: 제가 장염기가 있는 건지 아니면 아예 감기가 오는 건지 이제 구별이 안 돼서요. 그 이게 장염이 옳을 수도 있나요?
+S2: 네.
+S1: 아,
+S2: 네. 뭐.
+S2: 뭐 옳을 수도 있긴 한데 같이 음식을 먹으면 음식 때문일 수도 있고요.
+S1: 같이 음식을 먹지는 않았고, 남자친구가 이제 수요일 밤부터 갑자기 물 설사를 엄청 심하게 했거든요. 목요일에도 설사를 심하게 해서 병원에 보냈는데 거기서 항생제 이런 건 안 주시고 그냥 위장약만 주셨어요. 근데 아예 그게 안 잡히고 계속 이제 설사를 했거든요. 그래서 금요일에 항생제 처방을 받고 먹고 나서부터 이제 괜찮아졌는데. 제가, 저는 이제 토요일부터 설사를 하는 건 아니고 제가 혹시 몰라서 내과를 가서 처방을 받았었던 약이 속이 이제 좀 매끄거렸거든요. 그래서 받은 약이 니자드 정이랑 프로부틴 정이랑 바실리스 캡슐 이렇게 토요일부터 이제 먹고 있긴 한데 토요일 저녁 밤부터 좀 메스껍더라고요. 심하게. 두통도 좀 있고. 어 약간 가래 살짝 있는 거 같아요. 숨 쉴 때. 이게 숨 쉴 때 뭔가 있는 느낌이 나거든요. 그리고 어, 일단 등도 좀 결리고 오한도 있었어요. 토요일부터. 어제도 오한이 있었고. 네. 콜대원이라는 거 먹긴 했거든요. 네. 네, 오한도 좀 있고 열은 안 나더라고요. 그래서 체온 체크도 해 보니까. 네, 네. 음. 그리고 소화가 좀 안 되는 거 같아요. 그래서 변은 설사를 하진 않고 물건 변까지는 아닌데 살짝 살짝 살짝 퍼지는 감이라고 해야되나? 살짝 그래요.
+S2: 음, 변대 좀.
+S1: 네. 그래서 속이 많이 울렁거리고 두통이 좀 많이 심해요. 지금 핑핑 돌아요.
+S2: 아, 어지럽다.
+S1: 예, 많이 어지러워요.
+S2: 열은 안 나는데.
+S1: 네. 남자 친구는 감기 기운이랑 장염이 둘 다 있었거든요.
+S2: 음.","S (Subjective):
+- 주호소: 장염 또는 감기 기운 구별 불가, 메스꺼움, 어지럼증
+- 현병력: 남자친구 수요일 밤부터 심한 물설사 및 발열, 타 병원 위장약 및 항생제 처방받았으나 호전 없음, 금일 콜대원 복용했으나 효과 미미함
+- 증상: 토요일 밤부터 메스꺼움, 오한, 등과 허리 결림, 호흡 시 가슴 답답함, 묽은 변(코팅변), 손이 울렁거리는 느낌, 심한 어지럼증(핑핑 도는 느낌)
+- 발열: 자가 측정 결과 열 없음
+
+O (Objective):
+- 제공된 정보 없음
+
+A (Assessment):
+- 제공된 정보 없음
+
+P (Plan):
+- 제공된 정보 없음","The patient’s boyfriend had sudden severe watery diarrhea starting on a Wednesday night.  
+The patient’s boyfriend had severe diarrhea on Thursday and went to a hospital.  
+The patient’s boyfriend initially received only gastrointestinal medicine without antibiotics.  
+The patient’s boyfriend continued to have diarrhea until he received an antibiotic prescription on Friday.  
+The patient’s boyfriend’s diarrhea improved after starting antibiotics.  
+The patient went to an internal medicine clinic on Saturday because of concern about possible illness.  
+The patient has been taking Nizad tablets since Saturday.  
+The patient has been taking Probutin tablets since Saturday.  
+The patient has been taking Bacillus capsules since Saturday.  
+The patient has felt significant nausea since Saturday night.  
+The patient has had a headache since Saturday night.  
+The patient feels some phlegm when breathing.  
+The patient feels something in the chest when breathing.  
+The patient has had back discomfort since Saturday.  
+The patient has had chills since Saturday.  
+The patient also had chills yesterday.  
+The patient took a medication called Coldaeone.  
+The patient has checked her body temperature and has not had a fever.  
+The patient feels that her digestion is poor.  
+The patient’s stools are somewhat loose but not watery diarrhea.  
+The patient’s abdomen feels very queasy.  
+The patient currently has a severe headache.  
+The patient feels very dizzy.  
+The patient’s boyfriend had both cold symptoms and enteritis."
+"S1: 안녕하세요.
+S2: 아, 예, 안녕하세요.
+S1: 네, 네.
+S1: 로스트 코가 아니나...
+S2: 아니요, 네, 네, 네. 한국말 잘하시네요.
+S1: 아니, 아니 괜찮습니다.
+S2: 네, 네. 원장님, 제가 그 어제 아 그저께 어 뭐지? 치킨이랑 그 뭐였지? 매운 떡볶이? 먹어 가지고. 근데 피곤해서 바로 잤거든요? 아마 한 20분 30분 뒤에. 근데 오늘 아, 그거 어제는 뭘 삼킬 때는 엄청 아프고 거의 아무것도 못 삼켰어요. 그거는 조금 나아지고 근데 오늘은 그냥 여기 계속 뭐가 막히는 느낌 그리고 뭐가 불타는 느낌이 계속 있어서 예, 뭐가 좀 그 염증이 생긴 거 같아서 왔습니다.
+S1: 아, 네, 네.
+S2: 예.
+S1: 네.
+S1: 몇 가지만 확인할게요.
+S2: 네.
+S1: 음, 뭐 지금 먹고 있는 약이 있어요?
+S2: 따로 뭐 특별한 게 없습니다.
+S1: 없으세요? 네. 약물 알러지는 없으세요?
+S2: 네.
+S1: 영양제 먹고 있는 건 없고요?
+S2: 네.
+S1: 운동하세요?
+S2: 그냥 계속 뭐지? 서 있으면서 일하고 있으니까 따로 운동…
+S1: 걷기.
+S2: 예.
+S1: 몇 몇 보 정도 걸어요?
+S2: 걷기보다는 그냥 거의 10시간 정도 서 있어요.
+S1: 서 있어요?
+S2: 아 네. 베이커리에서 일하고 있어서.
+S1: 베이커리?
+S2: 예.
+S1: 아 빵집?
+S2: 네 네 네.
+S1: 아, 네 네 네. 그러면은 힘든데.
+S2: 노동을 하는 겁니다. 노동이에요. 맞아요. 노동.
+S1: 노동 10시간 서 있는...
+S2: 예.
+S1: 노동은 운동이 아니죠.
+S2: 아, 운동이 아니죠. 네.
+S1: 네. 물은 많이 드세요? 물.
+S2: 네.
+S1: 하루에 얼마나 마셔요?
+S2: 뭐 한 1리터 정도 되죠.
+S1: 음, 더? 많이 드시는 건 아니면 커피 마셔요?
+S2: 커피도 마셔요. 커피 많이 안 뭐 한두 잔 정도요?
+S1: 한두 잔?
+S2: 예.
+S1: 한두 잔. 그러면 식사는 하루에 몇 끼 정도 하세요?
+S2: 식사는 뭐 정상 뭐 제대로 하면 3끼까지 가고 2끼도 있고.
+S1: 3끼? 두세 끼?
+S2: 네.
+S1: 응. 술 마셔요?
+S2: 술 마셔요.
+S1: 네. 주량은 얼마나 되세요?
+S2: 뭐 일주일에 아마 세네 번 정도? 그냥 와인 한 잔씩.
+S1: 와인 한 잔?
+S2: 네.
+S1: 와인 한 잔. 한 번 마시게 되면 와인 한 잔?
+S2: 네.
+S1: 음. 세네 번. 담배 피세요?
+S2: 음, 가끔요.
+S1: 가끔?
+S2: 네.
+S1: 네. 가끔 핀다는 건 뭐 한 갑 가지고 며칠 간다는 건가요?
+S2: 열흘 정도요.
+S1: 열흘?
+S2: 응.
+S1: 한 갑 가지고 열흘이면은 음.
+S2: 안 피는 날 몇 달씩도 있고.
+S1: 아. 간혹 흡연. 네. 변비는 없으시고.
+S2: 네.
+S1: 네. 알겠습니다. 이게...","S (Subjective):
+- 주호소: 인후통, 연하통, 목이 막힌 느낌, 오한
+- 현병력: 2일 전 매운 음식(치킨, 떡볶이) 섭취 후 증상 시작, 어제는 삼킬 때 극심한 통증으로 음식 섭취 불가, 오늘은 통증이 다소 호전되었으나 막힌 느낌과 오한 지속
+- 사회력: 베이커리 근무로 하루 10시간 서 있는 노동, 식사 2-3끼, 수분 섭취 약 1L, 커피 1-2잔/일, 음주(와인 1잔) 주 3-4회, 흡연(가끔, 1갑/10일), 운동 없음
+- 투약력: 복용 중인 약물 및 영양제 없음, 약물 알레르기 없음
+- 기타: 변비 없음
+
+O (Objective):
+- 제공된 정보 없음
+
+A (Assessment):
+- 제공된 정보 없음
+
+P (Plan):
+- 제공된 정보 없음","The patient recently ate chicken and spicy tteokbokki.  
+The patient went to sleep about 20 to 30 minutes after eating.  
+The patient had severe pain when swallowing yesterday.  
+The patient was almost unable to swallow anything yesterday.  
+The patient's swallowing pain has slightly improved by today.  
+The patient currently feels a persistent sensation of something being stuck in the throat.  
+The patient currently feels a persistent burning sensation in the throat.  
+The patient came to the clinic because they think there is inflammation in the throat.  
+The patient is not currently taking any medications.  
+The patient has no known drug allergies.  
+The patient is not taking any nutritional supplements.  
+The patient works standing for about 10 hours a day in a bakery.  
+The patient drinks about 1 liter of water per day.  
+The patient drinks coffee about one to two cups per day.  
+The patient usually eats two to three meals per day.  
+The patient drinks alcohol about three to four times per week.  
+The patient usually drinks one glass of wine on each drinking occasion.  
+The patient smokes cigarettes occasionally.  
+One pack of cigarettes lasts the patient about ten days.  
+The patient sometimes does not smoke for several months.  
+The patient does not have constipation."
+"S1: 감긴 거 같으세요?
+S2: 예. 그것보다 더 약간 그 자기 전이나 자고 일어나서 좀 한 10분 동안 머리가 너무 아파가지고.
+S1: 언제부터요?
+S2: 한 3일 좀 넘은 거 같아요. 3일 전부터.
+S1: 네, 3일 전부터? 네.
+S2: 아, 그리고 약간 목넘 그 딱 그 아플 때 목넘김이 살짝 좀 뭐 걸린 느낌이라고 해야 되나.
+S1: 네.
+S2: 네, 그냥 그 정도인 거 같아요.
+S1: 그러니까 걸린 목에 걸린 느낌이 있다?
+S2: 네, 살짝 이건 좀 불규칙하고 있어요.
+S1: 네.
+S2: 저기 커피나 이런 거 좀 많이 먹어서 그런 거인 줄 알았는데 안 먹을 때도 좀 그래가지고.
+S1: 네.
+S1: 열은 안 나시고?
+S2: 네네. 따로 그런 증상은 없었어요.
+S1: 네. 목 좀 잠깐 볼게요. 아, 해보세요. 소리 내볼까요? 아.
+S1: 괜찮으신 것 같은데요.
+S1: 감기는 아닌 거 같은데.
+S1: 음.
+S1: 이거 관계없이 두통은 있고요?
+S2: 네네.
+S1: 어. 그 두 가지 증상이네요. 목 불편한 거, 두통 있는 거.","S (Subjective):
+- 주호소: 두통, 목넘김 불편감
+- 현병력: 3일 전부터 시작됨, 취침 전후 및 기상 후 10분간 지속되는 두통, 커피 섭취와 무관하게 증상 지속됨
+- 발열: 없음
+- 투약력: 진통제 복용하지 않음
+
+O (Objective):
+- 제공된 정보 없음
+
+A (Assessment):
+- 감기
+- 두통
+
+P (Plan):
+- 제공된 정보 없음","The patient has had severe headaches for about 10 minutes at a time when going to bed and after waking up.  
+The patient's headaches started about 3 days ago.  
+The patient has a slight sensation of something being caught when swallowing in the throat.  
+The patient reports that the throat discomfort is somewhat irregular.  
+The patient thought the symptoms might be due to drinking a lot of coffee.  
+The patient continues to have symptoms even when not drinking coffee.  
+The patient has not had a fever.  
+The patient has no other symptoms besides throat discomfort and headache."
+"S1: 장염입니다. 장염, 장염. 장염.
+S2: 어, 어디, 안녕하세요. 네. 어디가 불편해서 오셨나요?
+S1: 어우, 장염인지 소화불량인지 복통이 장난이 아닌데요.
+S2: 네.
+S1: 배가 계속 아프고요.
+S2: 네.
+S1: 설사를 뭐 10분 간격으로 해서 밤에 잠을 못 잘 정도로.
+S2: 언제부터 하셨어요?
+S1: 어제 밤에.
+S2: 어제 밤부터요?
+S1: 아니, 새벽 5시부터.
+S2: 새벽 5시부터. 지금까지 계속?
+S1: 네.
+S2: 어제 새벽 5시부터?
+S1: 오늘 새벽.
+S2: 오늘 새벽부터.
+S1: 오늘 새벽부터.
+S2: 얼마 안 됐네요.
+S1: 예. 어제 저녁에 한 번 정도 했는데 그건 괜찮은데 잠을 잤거든요. 네 새벽 5시부터 잠을 못 자게.
+S2: 어제 전날 저녁 때 뭐 잘못 드신 음식 있나요?
+S1: 잘못 먹은 거라기보다 고기를 너무 과하게 저녁 때 먹은 게 있어요.
+S2: 고기요?
+S1: 예.
+S2: 음, 체한 건지. 혹시 뭐 육회인가요?
+S1: 아니, 일반 그냥 구워서 먹는 고기.
+S2: 구워서 먹는 고기인데, 그럼 그거가 구운 고기는 괜찮을 텐데요. 다른 뭐 생식을 하신 거는 없으시고요?
+S1: 아, 너무 힘들어 가지고 잠도 못 자고.
+S2: 토하진 않으시고요?
+S1: 구토는 안 나오고요.
+S2: 네.
+S1: 계속 설사하고 배 아프고.
+S2: 설사하고 배 아프고.
+S1: 네. 또 머리 약간 머리가 띵하죠. 열이 좀 있고.
+S2: 음 예. 체온 아 약간 미열이 좀 있네요.
+S1: 예.
+S2: 주변에 장염 앓으신 분은 없으시고요?
+S1: 있어요. 우리 딸이 장염 앓아, 우리 손녀가 앓고 와가지고 우리 딸이 앓았고, 네. 그 그런 거 같아요, 바로. 우리 딸이 며칠 전에 앓고 그래서.
+S2: 아, 그러면은 감염성 장염일 가능성이 있겠네요. 바이러스네. 잠깐 좀 누워 보시겠어요?
+S1: 네.
+S2: 네. 같이 뭐 같이 식사를, 회식, 같이 하거나 하진 않으셨어요? 따님이랑?
+S1: 그럴 때도 있고요.
+S2: 네 일단 누워 보세요. 신발 벗고 올라가세요. 네. 감염성 장염. 네. 이쪽으로 세워 보시고요. 배를 좀 볼게요. 네네. 배 아픈 데 손으로 한번 짚어 보시겠어요?
+S1: 여기가 제일 아파요.
+S2: 여기요? 아, 아파요? 다 아프죠? 네, 일단 앉으시고요.
+S1: 원래 위가 안 좋은 데다가.
+S2: 아, 위가 어떻게 안 좋으신데요?
+S1: 그 내시경 해 보면, 네. 목구멍 위가 좀 부어 있다고 그러나?
+S2: 부어 있어요?
+S1: 예. 약간 빨갛게 이렇게 부어 있어요.
+S2: 과식하면 안 되는데 세상에.
+S1: 맛있다. 아니 근데 그거보다 아마 감염성 장염이 맞는 것 같습니다.
+S2: 그러니까 보통은 바이러스가 원인인 경우가 많아서요. 네. 아마 이렇게 가족 간에 전염이 됐다고 하면 그럴 가능성이 높을 것 같아요. 네.","S (Subjective):
+- 주호소: 복통, 설사
+- 현병력: 어제 새벽 5시부터 증상 지속, 어제 저녁 과식(구운 고기) 후 증상 시작, 설사로 인한 수면 장애
+- 동반증상: 두통, 미열
+- 가족력: 딸과 손녀가 장염 앓고 있음, 환자 본인 위 내시경 결과 위 점막 부종 소견 있음
+
+O (Objective):
+- 신체검진: 복부 촉진 시 압통(Tenderness) 관찰
+
+A (Assessment):
+- 감염성 장염 의증
+- 원인: 바이러스 감염 가능성 높음, 가족 내 전염(절혈) 가능성
+
+P (Plan):
+- 제공된 정보 없음","The patient reports severe abdominal pain.
+The patient reports continuous abdominal pain.
+The patient reports diarrhea occurring every 10 minutes.
+The patient reports that diarrhea is severe enough to prevent sleep at night.
+The patient reports that the symptoms started in the early morning.
+The patient reports having had one episode of diarrhea the previous evening.
+The patient reports that since early morning they have been unable to sleep due to symptoms.
+The patient reports overeating meat at dinner before symptom onset.
+The patient reports not having eaten raw meat.
+The patient reports not having eaten other raw foods.
+The patient reports not having vomiting.
+The patient reports feeling slightly dizzy in the head.
+The patient reports having a fever.
+The doctor notes that the patient has a mild fever.
+The patient reports that their upper stomach has been chronically bad.
+The patient reports that previous endoscopy showed swelling and redness in the upper throat or upper stomach area.
+The doctor assesses that the patient has infectious enteritis.
+The doctor suggests that a virus is the likely cause of the enteritis.
+The patient reports that their daughter had enteritis.
+The patient reports that their granddaughter had enteritis.
+The patient reports that their daughter developed enteritis after the granddaughter had it.
+The doctor suggests that the enteritis may have been transmitted within the family."
+"S1: 네, 들어오세요.
+S2: 아, 네, 안녕하세요.
+S1: 네. 이정림.
+S2: 네.
+S1: 네. 오늘 어디가 불편해서 오셨나요?
+S2: 아, 그 대상포진 걸렸는데, 네. 몸이 안 좋아 가지고 그 수액 좀 맞으려고 왔거든요. 영양을 좀.
+S1: 아, 대상포진 때문에요?
+S2: 예, 예.
+S1: 어떻게 증상은 좋아지셨나요?
+S2: 어, 이게 이제 약을 어제부터 먹기 시작해 가지고. 그러니까 지금 이제 원래는 이게 대상포진인지 모르고, 네 네 네. 그냥 감기 몸살에 이제 그냥 벌레 물린 거라고 생각을 해서서, 처음 걸렸거든요. 그래서 어제 안 없어져 가지고 어제 처음 병원에 갔는데, 네 네. 대상포진이라 그래서 이제 출근은 오늘 어쩔 수 없이 좀 했는데 네. 점심시간에 좀 영양 주사 좀 맞았으면 좋겠어서.
+S1: 아, 네 네. 어제 대상포진 진단을 받았다?
+S2: 예.
+S1: 네.","S (Subjective):
+- 주호소: 대상포진
+- 현병력: 어제부터 약 복용 시작, 발병 초기 벌레 물린 상처로 오인함, 출근함
+- 과거력: 대상포진 경험 없음 (초발)
+- 환자 요청: 점심시간 영양주사 희망
+
+O (Objective):
+- 제공된 정보 없음
+
+A (Assessment):
+- 제공된 정보 없음
+
+P (Plan):
+- 제공된 정보 없음",The patient has been diagnosed with herpes zoster.
+"S1: 기침에 그렇게 그 가래하고
+S3: 네 네.
+S1: 많이 나와가지고.
+S3: 아 네 안녕하세요. 네 네.
+S2: 축하드립니다.
+S3: 아이고. 안 계세요? 네. 지금 감기 증상이
+S1: 좀, 좀 덜세요, 지금 한 일주일 넘었어요.
+S2: 두 번 갔다 왔어요.
+S3: 일주일 넘었으면 감기는 아니고 기관지염 아닌가요? 막 기침 가래 끓고 막 그런 거 아니세요?
+S1: 네.
+S3: 네. 여기가 좀
+S1: 부어 있는 상태고요.
+S3: 음, 부어 있는 상태? 아, 축농증이 좀 있으신가요? 누런 콧물 이런 게
+S1: 아니 없어요.
+S3: 그런 건 없으시고요?
+S1: 네.
+S3: 네.
+S1: 가래하고, 담배를 이제 끊었거든요, 그냥.
+S3: 네.
+S1: 그 가래하고 그 기침이 잔기침이 많이 나더라고요. 밤에 잘 때.
+S3: 음. 부비동염인가? 아니면 음. 잠깐 목을 좀 볼게요. 네. 아, 한번 해보실까요? 고개 살짝 들어보시고요. 아, 소리 내보세요.
+S1: 아 아 아 아
+S3: 아. 아. 아. 아, 목은 괜찮은 거 같은데요?
+S1: 아 그래요?
+S3: 예. 목은 괜찮고요. 콧물, 코막힘, 누런 콧물은 나오고 그러진 않아요?
+S1: 기침이... 예.
+S3: 누런 콧물 나오진 않으세요?
+S1: 예. 이제는 누런 거 나오다가
+S3: 네 네.
+S1: 이제 이제 맑은 콧물로 바뀌었어요.
+S3: 아, 그럼 좋아지고 있는 건데요? 잠깐만요, 코 좀 잠깐 볼게요. 네. 괜찮은데. 코막힘?
+S1: 예.
+S3: 있어요?
+S1: 막혀요.
+S3: 막힘이 있으세요? 지금 복용하고 있는 약이 고혈압 약,
+S1: 갑상선.
+S3: 갑상선 호르몬.
+S1: 예.
+S3: 호르몬. 그 두 가지만 있으세요?
+S1: 신지로이드하고
+S3: 네 네.
+S1: 그 혈압약이요.
+S3: 음.
+S1: 그거밖에 없어요. 두 개밖에 없어요. 영양제는 뭐 따로
+S3: 네 네 네.
+S2: 그럼 저기는 서류는 뭐 안 넘어오나?
+S3: 제가요? 제가 못 가져왔죠. 그러니까 가져올 순 없고요. 예.
+S2: 미리 저기는 할 수 있잖아.
+S3: 아. 이명근 님이 피 검사를 했으면 제가 가져왔을 수 있는데,
+S2: 뺀 거를
+S1: 저기
+S2: 요번에 했는데, 요번에 해 가지고서는 요번에 가서 약 타면서
+S3: 요번, 요번에는 탄 건 제가 모르죠.
+S1: 검사 없다고
+S2: 예.
+S1: 젊은 분이 두 번을 막 바뀌더라고.
+S3: 아, 7월 달에 하신 결과만 제가 복사를 해 놓은 게 있는데,","S (Subjective):
+- 주호소: 기침, 가래, 콧물
+- 현병력: 증상 시작 후 1주일 이상 경과, 맑은 콧물로 변화, 야간 기침 심화
+- 사회력: 흡연(금연), 음주(소주 1병/주 3회)
+- 투약력: 고혈압 약, 갑상선 호르몬제, 영양제 복용 중
+- 과거력: 7월 검사 결과 상 폐렴 소견 없음
+
+O (Objective):
+- 신체검진: 목(인후두) 시진 및 청진 시행
+- 콧물: 투명한 양상 관찰됨
+- 흉부 청진: 호흡음 정상
+
+A (Assessment):
+- 감기 아님, 기관지염 의증
+
+P (Plan):
+- 제공된 정보 없음","The patient has had cough and sputum for more than one week.  
+The patient reports frequent coughing with sputum at night while sleeping.  
+The patient reports nasal congestion.  
+The patient previously had yellow nasal discharge that has now changed to clear nasal discharge.  
+The patient has stopped smoking.  
+The patient is currently taking a blood pressure medication.  
+The patient is currently taking levothyroxine (Synthroid)."
+"S1: 어, 목에 가래가 있는 거 같은데 안 나와 가지고.
+S2: 네.
+S3: 콧물도 잘 나요.
+S2: 콧물도 나고요? 네. 목 좀 볼게요. 자, 아 해볼까요. 혀 내밀어 볼까요. 아. 목이 아파요? 아프진 않죠. 네. 가래 색깔 어때요?
+S1: 그 가래가 안 나와 가지고 모르겠어요.
+S2: 안 뱉어 봤어요?
+S3: 뱉어지질 않으래요.
+S2: 아, 혹시 잠잘 때 기침 많이 해요?
+S1: 좀 하는 거 같아요.
+S2: 하는 거 같아요? 음.","S (Subjective):
+- 주호소: 목에 가래가 있는 느낌, 콧물
+- 현병력: 가래가 목에 걸린 듯한 느낌으로 잘 나오지 않음, 콧물이 흐름
+- 증상: 기침(수면 중 포함)
+- 환자 진술: 목이 아프지 않음, 가래 색깔을 뱉어보지 못함
+
+O (Objective):
+- 신체검진: 목(인후두) 시진 시행
+
+A (Assessment):
+- 제공된 정보 없음
+
+P (Plan):
+- 제공된 정보 없음","The patient feels like there is phlegm in the throat that does not come out.  
+The patient has a runny nose.  
+The patient has not seen the color of the phlegm because it does not come out.  
+The patient coughs somewhat during sleep."
+"S1: 소화가 잘 안 되긴 했는데 붙어준 상하고 그냥 폭 과식하거나 먹은 건 없었는데 그러고서 한 3, 4일 지나고 나서는 이제 뭐 음식 먹기만 해도 위가 너무 붓고 아파 가지고 음식이 들어가기만 해도 쥐어짜듯이 아프거든요.
+S2: 네 네.
+S1: 근데 그래서 이런 증상이 너무 잦아서 작년에 위내시경 했을 때 위가 깨끗하다고.
+S2: 네 네.
+S1: 그래서 이게 신경성인지. 근데 그렇다고 해서 신경성이어도 위는 계속 부으니까 약을 먹어야 되는데 소화제는 하나도 안 듣고요.
+S2: 네네.
+S1: 약국에서 이런 이런 거 먹었을 때 조금 괜찮아져요. 위 부었을 때. 이 겔 타입으로 위 통증 있다고 했을 때.
+S2: 음.
+S1: 그래서 저는 전문가가 아니라 모르니까 소화제는 하나도 안 듣고 알약은 안 듣고요. 위 통증 있을 때
+S2: 자주 위 통증 있어요?
+S1: 네.
+S2: 음.
+S1: 한 달에 한 번은 계속 그런 거 같아요.
+S2: 음.
+S2: 확인이 좀 해 볼게요. 먹고 있는 다른 약이 있으세요?
+S1: 제가 한 3년 정도 그 공황이랑 우울 때문에 네 네. 그 항우울제랑 먹고 있긴 하거든요. 네. 그래서 계속 그것 때문에 그런가 해서
+S2: 네 네.
+S1: 내과 가서 위내시경 초음파 다 해봤는데 그런 장기에 문제는 없는 거 같다고. 네. 그리고 약이 좀 부작용이거나 그런 것도 아닌 거 같다고 하시더라고요.
+S2: 아닌 거 같다고요? 네 네.
+S1: 근데 이게 신경성으로 스트레스 때문에도 위가 이렇게까지 붓나요?
+S2: 내시경에서 붓는 건 아니었잖아요. 그렇죠?
+S1: 맞아요.
+S2: 네. 그건 아닌 거 같고. 영양제 먹고 있는 거 있어요?
+S1: 아니요.
+S2: 없으세요? 운동 해요?
+S1: 운동 네, 엄청 열심히 하죠.
+S2: 열심히 해요?
+S1: 강사에요. 저 이로운 필라테스에서 왔어요.
+S2: 아, 그래요?
+S1: 네, 이로운 필라테스 강사예요.
+S2: 아, 근데 지금 영양제 하나도 안 드세요?
+S1: 네.
+S2: 네?
+S1: 네.
+S2: 아, 그게 문제일 거 같습니다. 일단은 운동을 양이 많은데 네. 네. 잠깐 좀 확인해 볼게요. 운동은 그럼 매일 같이?
+S1: 일단 땀 흘릴 만큼 근력 운동은 주 3회.
+S2: 주 3회.
+S1: 그리고 평상시에 그냥 가벼운 스트레칭, 근력 운동은 매일 하죠.
+S2: 네. 예, 스트레칭 매일. 커피 마셔요?
+S1: 네.
+S2: 네. 하루에 몇 잔?
+S1: 두 잔이요.
+S2: 두 잔이요? 네. 조금씩 안 나오는 거 같은데 물을 많이 마시나요?
+S1: 물은 그렇게 많이 마시는 편은 아니에요. 그래도 1L 정도 먹으려고 노력은 해요.
+S2: 1L 밖에? 운동 많이 하는데? 식사는 하루에 몇 끼 정도 하세요?
+S1: 몰아서 한 끼 먹거나.
+S2: 한 끼? 아, 많이 안 드시네요?
+S1: 많이 먹어야 두 끼.
+S2: 네. 한두 끼. 어, 술은 마시나요?
+S1: 아니요.
+S2: 안 마시고? 담배 피세요?
+S1: 아니요.
+S2: 변비는 없어요?
+S1: 네.
+S2: 네. 잠깐 좀 누워 보시겠어요?
+S1: 네. 이거 같이 올려도 돼요?
+S2: 네 네. 핸드폰이 많아요?
+S1: 네.
+S2: 핸드폰이?
+S1: 아, 상담 전화 왔다가.
+S2: 아, 상담 전화.
+S1: 여기다 둘게요. 이게 찝어주시면.
+S2: 배를 좀 잠깐 진찰할게요. 여기 이로운 필라테스는 그럼 사장님? 아니면 강사님?
+S1: 원장님이요.
+S2: 원장님이요?
+S1: 여기 대표님 따로 있는데.
+S2: 아, 대표님 따로 있어요?
+S1: 주차 문제 때문에 회의 아직 안 오셨죠? 아직 안 오셨어.
+S2: 네 네. 저희 뭐 원래 임대인 임대인 회의 하지 않아요?
+S1: 네.
+S2: 근데 변비는 없으시다잖아요.
+S1: 아래 배 괜찮죠? 네, 아파요.
+S2: 아플 때, 위 아플 때 아래 배도 아파요?
+S1: 아, 아니 위 아플 때, 괜찮아요, 지금은. 네.
+S2: 아, 괜찮으시고요? 아.
+S1: 요즘 주차 문제로 시끄럽잖아요, 건물 자체가.
+S2: 네. 네 네. 그렇죠. 이거 뭐 잘 해결되겠죠. 아, 이게 운동량이 많으면 그 수분 섭취 많이 해 주셔야 되고, 네. 그다음에 커피 많이 마시잖아요. 네. 몸에서 자꾸 빠져나오는 미네랄들이 있는데 그중에 대표적인 게 복통을 좀 유발할 수 있는 미네랄, 그러니까 부족하면 복통이 생기는 미네랄, 그게 마그네슘이거든요. 네. 따로 마그네슘 영양제 안 드세요?
+S1: 있는데 잘 안 챙겨 먹게 돼요.
+S2: 에, 그러면 이제 먹기 시작하면 되겠습니다. 이거 보니까 수분 섭취량도 참 많이 부족한 거 같아요. 그래서 차라리 그냥 물을 마시게 되면 소금을 좀 타서 드시는 게 어떨까 싶습니다.
+S1: 음.
+S2: 물에다가 1L 진짜 안 드신다고 하면 거기에 뭐 티스푼으로 한 한 스푼 정도의 천일염이나 뭐 좋은 소금 타 가지고 그냥 그걸 약한 소금물로 마시는 거죠. 네. 그래야 탈수를 조금 교정해 줄 수 있을 것 같아요. 위장 장애는 탈수되면 더 심해지거든요. 음. 네, 운동량이 많은 분은 더. 그러니까 운동이 많으면 땀도 많이 흘리잖아요. 그러면 계속 밖으로 나가는 수분 양이 많으니까 위장 장애 더 올 수가 있어요. 언제부터 이렇게 고생하셨어요?
+S1: 저요? 이거 2년 됐어요. 그래서 처음엔","S (Subjective):
+- 주호소: 위가 붓고 쥐어짜는 듯한 통증
+- 현병력: 3-4일 전 과식 후 증상 시작, 음식 섭취 시 통증 악화, 월 1회 이상 증상 반복
+- 과거력: 위내시경(작년 시행, 정상 소견), 공황 및 우울증(3년 전 진단, 항우울제 복용 중)
+- 사회력: 필라테스 강사, 매일 스트레칭 및 주 3회 근력 운동, 커피 1-2잔/일, 수분 섭취 약 1L/일, 식사 1-2끼/일, 음주 및 흡연 안 함
+- 투약력: 항우울제 복용 중, 약국 소화제 복용 시 효과 미미함
+- 증상: 아랫배 통증 동반, 변비 없음
+
+O (Objective):
+- 신체검진: 상복부 압통(Tenderness) 확인, 반동 압통(Rebound tenderness) 없음
+
+A (Assessment):
+- 마그네슘 결핍 의증
+- 탈수
+
+P (Plan):
+- 마그네슘 보충 시작 권고
+- 수분 섭취 증량 및 소금물(물 1L에 천일염 1 티스푼) 섭취 교육
+- 운동량과 수분 섭취량의 불균형으로 인한 위장 장애 악화 설명","The patient reports frequent episodes of poor digestion.  
+The patient reports that after eating, the stomach feels very bloated and painful.  
+The patient reports that when food enters the stomach, it causes a squeezing type of pain.  
+The patient reports that these stomach symptoms occur about once a month.  
+The patient reports that a previous upper endoscopy showed a clean stomach.  
+The patient reports that digestive medicines do not help the stomach symptoms.  
+The patient reports that pill-form medications do not help the stomach pain.  
+The patient reports that a gel-type medication from the pharmacy helps somewhat when the stomach is bloated and painful.  
+The patient has been taking antidepressants for about 3 years for panic and depression.  
+The patient reports that an internal medicine evaluation with endoscopy and ultrasound did not find problems in the abdominal organs.  
+The patient reports being told that the antidepressant medication probably is not causing side effects related to the stomach.  
+The patient reports frequent upper abdominal pain.  
+The patient does not take any nutritional supplements regularly.  
+The patient exercises very diligently.  
+The patient works as a Pilates instructor.  
+The patient performs strenuous strength training that induces sweating three times per week.  
+The patient does light stretching and strength exercises every day.  
+The patient drinks coffee.  
+The patient drinks about two cups of coffee per day.  
+The patient does not drink much water and tries to drink about 1 liter per day.  
+The patient usually eats one meal per day.  
+The patient eats at most two meals per day.  
+The patient does not drink alcohol.  
+The patient does not smoke.  
+The patient does not have constipation.  
+The patient reports that the lower abdomen is not painful when the upper abdomen hurts.  
+The patient owns magnesium supplements but does not take them regularly.  
+The patient has had these gastrointestinal symptoms for about 2 years."
+"S1: 네, 들어오세요.
+S2: 안녕하세요.
+S1: 아, 예, 안녕하세요. 네.
+S1: 감기 때문에 오셨나요?
+S2: 네, 그런 거 같아요. 감기인 거 같아요. 예.
+S1: 며칠 전부터 증상이 있었나요?
+S2: 이게 저번 주 한 10일 전에서 한 일주일 정도는 네 네, 그냥 그 목만 좀 아팠어요. 네 네. 그 기침도 없었고 그냥 목만 계속 간질간질해서 답답해 가지고 조금 약을 먹었었는데 그냥 급성 후두염이라는 거 같아서 그냥 넘어왔는데 그게 나아지면서 바로 네. 갑자기 이 감기 기운이 같이 오면서 네. 목에 가래가 끼면서 이제 콧물까지 나오고 네. 이게 뭐 와이프한테 옮은 건지
+S1: 아, 배우자분이
+S2: 제가 그 막 아플 때 거의 끝날 때쯤에 그 급성 후두염 같다고 했을 때는 몸이 아프진 않았어요. 그냥 목이 불편했던 거지. 근데 제가 거의 끝날 때쯤에는 와이프가 갑자기 목이 갈라지면서 콧물이 나오면서 기침하기 시작하는 거예요, 제가 나았을 때쯤에. 그래서 저한테 옮았다고 생각했었는데 네. 그 증상을 또 제가 또 다시 따라서 이게 옮고 옮은 건지 아니면 모르겠어요. 그래서 이게 나는 제가 그냥 당연히 진행되는 절차에 아팠던 건지...
+S1: 잠깐만요, 목 좀 볼게요. 아, 한번 해보세요.
+S2: 네.
+S1: 아... 염증은 없어 보이는데... 삼킬 때 아프세요?
+S2: 네, 딱히 그렇진 않아요.
+S1: 아, 괜찮아요? 네.
+S2: 일단은 코가 막히고 좀 미열이 있는 거 같고.
+S1: 미열이 좀 난다고요? 네. 이마 좀... 이마 좀 댈까요? 이마에 대... 네네.
+S1: 아, 열은 없는 거 같은데.
+S2: 열은요?
+S1: 네. 몸살 증상 있으세요?
+S2: 예, 살짝 그래요.
+S1: 그러면...
+S1: 그럼 지금 침 삼킬 때 아픈 건 아니죠?
+S2: 예, 크게 불편하진 않고요.
+S1: 코 막히고 누런 콧물이 나오나요?
+S2: 누런 콧물과 이제 이게 가래가 나오죠.
+S1: 가래는... 잘 때 기침 많이 하셨어요?
+S2: 네, 잘 때 기침 때문에 깨고 코가 계속 막히고, 중간에 그냥 푹 못 잘 정도예요.
+S1: 아, 네 네 네. 주무시는 중간에 깨고.
+S2: 그래서 이게 약을, 약을 먹어서 약으로 좀 할지 아니면 그냥 차라리 수액도 같이 맞으면서 해야 될지.
+S1: 아. 지금 몸살기가 조금 있다는 거죠?
+S2: 네, 살짝 예.
+S1: 근데 막 제가 보기에는 열은 안 나시니까 살짝 있는 거죠?
+S2: 그렇죠. 이게 점점 어제는 이 정도까지는 아니었어요. 그 컨디션이. 근데 오늘 되면서도 컨디션이 어제보다 더 낮아지고 있고, 점점 안 좋아질 것 같은 느낌이 들어서","S (Subjective):
+- 주호소: 감기 기운, 몸살 기운
+- 현병력: 10일 전부터 목 간질거림 시작, 콧물, 목에 가래, 기침, 코막힘, 야간 기침으로 인한 수면 장애
+- 증상 양상: 초기에는 목만 불편했으나 증상 호전 후 갑자기 감기 기운과 함께 악화됨
+- 환자 진술: 어제보다 컨디션이 더 낮아지고 있으며, 점점 안 좋아질 것 같은 느낌을 호소함
+- 투약력: 며칠 전 급성 편도염으로 약 복용 이력 있음
+
+O (Objective):
+- 신체검진: 인후두 시진 시행, 뚜렷한 발적 관찰되지 않음
+- 활력징후: 발열 없음(열 없음)
+
+A (Assessment):
+- 제공된 정보 없음
+
+P (Plan):
+- 제공된 정보 없음","The patient has had a sore throat for about a week to 10 days.  
+The patient previously took some medication for presumed acute laryngitis.  
+The patient currently has nasal congestion.  
+The patient currently has yellow nasal discharge.  
+The patient currently has sputum in the throat.  
+The patient reports a slight subjective fever.  
+The patient reports mild body aches.  
+The patient denies significant pain when swallowing.  
+The patient wakes up at night due to coughing.  
+The patient wakes up at night due to nasal congestion.  
+The patient feels unable to sleep well because of coughing and nasal congestion.  
+The patient feels that his general condition has worsened compared to the previous day."
+"S3: 어디 그 최수 혹시 종이 가지고 계세요?
+S2: 아니요.
+S3: 제가 그래 드릴...
+S2: 아, 이건가? 아 예.
+S3: 한 장은 드릴게요.
+S2: 아 예, 주세요. 주세요. 네네네네.
+S1: 자, 네 안녕하세요. 네네. 네.
+S2: 이건 저 건강검진 받았는데
+S1: 네 언제 받으셨는데요?
+S2: 한 이주, 3주 된 거 같아요.
+S1: 네 네 네.
+S2: 3주 전에. 저 간호사라서 물어봤더니 병원 가서 약을 먹어야 되는지 한번 물어보라고 해서 네 네 네 네. 그래서 그 수치 이건데 카톡으로 찍어 왔는데.
+S1: 네네.
+S2: 피검사 결과예요. 제가 한 1년 전에 급성 췌장염 비슷한 걸 알아 가지고 그때 한번 문제가 돼서 바로 낫긴 나았는데 고지혈증 약을 그 뒤에 좀 먹다가 끊었거든요. 근데 이제 1년 뒤에 이제 피 검사 했던 이게 있어 가지고 안 먹어도 된다 그러면 안 먹어도 될 것 같은데 먹으란 얘기는 안 했거든요.
+S1: 아 1년 전에 검사 아니 이건 일주일 전에, 3주 됐어요.
+S2: 그러니까 요 수치는 이번에 확인이 된 거잖아요.
+S1: 네네. 근데 이전 결과 166에서 203으로 좀 올라갔다는 거잖아요.
+S2: 예전에는 한번 트러블이 있었어요. 급성 췌장염 때문에.
+S1: 네네.
+S2: 그래가지고 확 올라갔다가
+S1: 네.
+S2: 다시 이제 약 먹고 떨어졌거든요.
+S1: 췌장염 수치가요?
+S2: 아니면 고지혈증 수치가요.
+S1: 네.
+S2: 췌장염 수치는 확 떨어졌고. 예. 고지혈증도 그 전후에 좀 있었다가 그 뒤로 좀 먹다가 끊었거든요. 음. 먹어 보라고 해서. 근데 끊 안 먹은 지가 1년 됐어요. 먹는 것도 한 2개월 정도 먹다가 끊었거든요.
+S1: 아, 2개월 정도 먹다가 왜 끊으셨는데요?
+S2: 아, 됐다고 뭐 이 정도면 뭐 운동하면 된다고 해서 끊었거든요.
+S1: 음. 근데 이제 최근에 이게 1년 뒤에 이게 나와서
+S2: 음. 저는 생각 안 했는데 이제 한번 병원 가보라고 해서 온 거고요.
+S1: 이거 이전 결과 수치는 1년 전 건가요?
+S2: 그거는 지금 3주 전.
+S1: 아니, 그 이전 결과 비교해서 보여주고 있는데 166 수치.
+S2: 아, 그거 아마 네. 옛날 거, 그 건강검진 한 데가 한 5년 전에 6년 전에 한..
+S1: 아 5, 6년 전 수치예요?
+S2: 네, 그거 보고 온 거 같아요.
+S1: 네. 건강검진한 기존 결과를 받아볼 수 있나요? 다른 데서 하더라도?
+S2: 아니요 아니요. 그렇게 얘기하는데
+S1: 확인은, 확인은 어렵습니다.
+S2: 그렇죠. 그러면 이거 예전 한 7, 8년 전 했던
+S1: 음. 스트레스를 많이 받는 일을 하시나 봐요.
+S2: 그 정도는 아닌데.
+S1: 그 정도 아니세요?
+S2: 예. 그냥 사무..
+S1: 운동은 일주일에 한 번씩 러닝 같은 거 하고 있어요. 한 10km 정도 예.
+S2: 러닝 일주일에 한 번 10km요?
+S1: 네. 한번 하면 10km를 러닝 한다고요. 거의 마라톤인데요.
+S2: 예, 마라톤 하고 있어요.
+S1: 풀코스도 다니고.
+S2: 그러면은 그게 몇 시간 정도 하시는 거예요?
+S1: 일주일에 한 번은 한 시간 정도 하고요.
+S2: 한 시간이요?
+S1: 아, 뭐 일주일에 두 번 좀 할 때도 있고.
+S2: 음.
+S1: 1년에 두세 번은 저 풀코스.
+S2: 음. 아, 관리 잘하시네요.
+S1: 근데 수치가 뭐 그대로인 거 같아 가지고. 혹시 한번 문의 드린 거고
+S2: 네. 고혈압, 당뇨는 없으신 거죠?
+S1: 저는 그 전 단계로만 들었어요.
+S2: 당뇨 전 단계?
+S1: 예. 그 고지혈 전 단계. 당뇨, 당뇨 전 단계. 그 얘기만 한 2년 전부터 들었어요. 그래서 이제 운동을..
+S2: 아, 지금 약은 안 드시고요?
+S1: 약은 먹은 거 없습니다.
+S2: 지금 현재?
+S1: 고지혈증 약은 한 1년 전에 한 두 달 먹다가..
+S2: 그러니까 1년 전 두 달 먹고 끊으셨고
+S1: 끊으라고 해요.
+S2: 그때 피검사를 보고 끊으신 건가요?
+S1: 예, 수치 좋아져서.
+S2: 음. 지금 이건 뭔지 몰라 가지고 저 그때 병원은 저쪽 있는데 좀 멀어 가지고 그냥 여기 내과 있어서 왔거든요.
+S1: 아 네네. 어떻게 알고 오셨나요, 저희 병원이?
+S2: 아 이 없었는데 생겨 가지고 좋은 거예요.
+S1: 아, 생긴 지 어떻게 아셨어요?
+S2: 네이버 지도에 병원..
+S1: 아 네이버 지도 보시고 오셨군요.
+S2: 여기 내과가 있길래
+S1: 네 네.
+S2: 문의하고 온 거예요.
+S1: 아 그러셨군요. 아이, 홍보가 어떻게 하면 잘 될 테는지 고민하고 있습니다.
+S2: 네이버 지도 많이 보는 거 같아요.
+S1: 네네. 가까운 데로. 음. 이게 이제 LDL 콜레스테롤 수치는 이제 스트레스 받으면 많이 올라가거든요. 편안할 때 검사하면 또 떨어지고 그래요. 그래서 이게 며칠 전에 검사를 하신 거라고 하면 이게 굉장히 높게 나온 거거든요. 수치가 굉장히 높습니다.
+S2: 예. 제가 지금 회사에 몇 년 동안 했던 거는 다 기록이 있거든요.
+S1: 네네네.
+S2: 그때 무슨 지금 HDL인가 LDL인가 그건 높게 나온 건 계속 높게 나오더라고요.
+S1: 음.
+S2: 계속.
+S1: 네. 무슨 일 하세요?
+S2: 사무직.
+S1: 사무직이세요?
+S2: 예.
+S1: 정신적인 스트레스를 좀 많이 받는 건 아니시고요?
+S2: 뭐 그렇게 많은 스트레스는 아닌데 정상적인데 약간 식습관이 좀 잘못된지 모르겠지만
+S1: 네네.
+S2: 그런 거 같아요.
+S1: 식습관은 어떠신데요?
+S2: 뭐 일주일에 한두 번 저녁에 술 먹고
+S1: 술은 소주?
+S2: 예 소주.
+S1: 소주 주량은요?
+S2: 한 병?
+S1: 한 병만? 아 많이 드시네요.
+S2: 예. 먹으면
+S1: 네. 술 줄이시면 됩니다. 주 1회?
+S2: 아니 보통 최소 주 1회는 먹는 거 같고요.
+S1: 네.
+S2: 많이 먹으면 3, 4회 먹을 때도 있고 근데 거의 뭐 평균적으로는 한두 번.
+S1: 네. 담배 피세요?
+S2: 네.
+S1: 담배는 얼마나 피세요?
+S2: 그냥 하루에 한 다섯 개비?
+S1: 다섯 개비. 몇 년을 피워오셨는데요?
+S2: 한 5년, 한 10년 된 거 같아요.
+S1: 10년. 영양제 따로 복용하는 먹는 게 있으세요?
+S2: 아, 영양제는 눈 지금 눈이 좀 안 좋아서..
+S1: 어떻게 안 좋으신데요?
+S2: 그러니까 눈 건강 하는 거.
+S1: 예, 눈 영양제
+S2: 예, 눈 영양제 먹고, 그다음에 전립선.
+S1: 전립선 영양제? 쏘팔메토 뭐 이런 거 드시나요?
+S2: 아니요. 그 무슨 전립선 치료제가 있는데.
+S1: 전립선 약을 약을 드시는 건가요?
+S2: 탈모도 도움된다고 해서
+S1: 아 그럼 전립선 약을 드시는 거네요, 그렇죠? 전립선 비대증?
+S2: 예예예.
+S1: 아, 예. 뭐더라? 무슨 약이 있는데?
+S2: 아보다트?
+S1: 예예예, 그거요.
+S2: 네. 매일같이?
+S1: 예, 매일.
+S2: 네네네. 커피 마시세요?
+S1: 커피는 그 아메리카노만 하루에 한 다섯, 네 잔, 세 잔 네 잔 정도.
+S2: 아, 그 커피 많이 마시면..
+S1: 믹스는 안 먹고요.
+S2: 예. 근데 커피 많이 마시면 콜레스테롤이 올라가거든요.
+S1: 아 그래요?
+S2: 예. 커피 좀 줄여 보시면..
+S1: 그 물처럼 먹고 있는데.
+S2: 예.
+S1: 아, 그래요?
+S2: 예.
+S1: 아 이 아메리카노도 안 좋은 거예요?
+S2: 일단 커피에 콜레스테롤이 들어가 있긴 한데 물론 걸리긴 하지만 네, 커피를 좀 줄여 보면 떨어지지 않을까. 일단은 공복 상태로 한 번 검사를 받아보시는데 LDL이라고 해서 콜레스테롤 중에서도 이제 그 저밀도 콜레스테롤 분해 검사라는 게 있어요. 저밀도 콜레스테롤 분해 검사라는 게 있는데요. 이제 저희 환자분 중에 요런 검사가 있는데요, 요런 검사. 이제 LDL 스몰 덴스 LDL 콜레스테롤 분해 검사라고 있던데, 이분은 이분도 LDL 콜레스테롤이 높아서 했는데 여기 이제 스몰 덴스라고 빨간색 콜레스테롤이 높으면은 비율이 높으면 좋지는 않은 거거든요. 예. 근데 요런 양상을 보는 검사가 있는데요, LDL이 높으면 요거를 한번 해 봐요.
+S1: 예예.
+S2: 근데 금식하고 오셔서 한번 해 보셔야 됩니다.
+S1: 금식하고 오시고?
+S2: 그렇죠 그렇죠. 약 먹지 말고.
+S1: 운동도 하면 안 되죠?
+S2: 아니요, 운동 관계는 없습니다. 근데 이제 이게 평상시 상태를 보는 거라서.
+S1: 근데 저도 좀 다른 얘기인데 피검사했는데 수치가 엄청 크게 나왔어요. 그때 저 저쪽 저쪽에 있는 내과라서 뭐가 크게 나왔냐고
+S2: 콜레스테롤이요?
+S1: 아니 어떤 수치가 굉장히 크게 나와서 물어봤더니 제가 하루 전에 운동
+S2: 아, 근육효소 수치인가 보네요.
+S1: 운동을 했거든요. 너무 뭐 제가 듣기로는 뭐 수치가 깨져서 나왔기에 이건 안 된다 해서 잘못된 거 아니냐고 다시 운동하지 말고
+S2: 아 그러니까 운동을 하면은 이게 근육 효소가 근육이 섬유가
+S1: 깨졌다고 하더라고.
+S2: 파괴가 돼 가지고요, 그 검사를 같이 나가면은
+S1: 그래서 다시 했어요.
+S2: 음, 아 네네네. 그럼 이거 그러면 하려면 이것도 한 뭐 3, 4일 전에는 운동은..
+S1: 아니, 관계는 없는데 이제 평상시대로 생활하시는 대로 그냥 있다가 검사를 받으시면 되거든요. 근데 격렬한 운동을 하고 검사하면 다른 거에 영향을 줄 수 있긴 있습니다.
+S2: 평일에 와서 해도 돼요?
+S1: 평일에 오셔도 됩니다. 네.
+S2: 그러면
+S1: 지금 뭐 한 11시 40분이나 50분에 하면 돼.. 아니 오늘 말고
+S2: 네네네네.
+S1: 내일 자도 아니면
+S2: 시간이 되세요? 이 시간에 검사
+S1: 금식한 상태로 유지한 다음에 검사 받으실 수 있어요?
+S2: 아, 네 네. 저 오늘 아침하고 점심은 안 먹어서
+S1: 음. 아침, 점심 안 먹고 하루 한 끼 식사하시나요?
+S2: 어, 점심은 그냥 간단하게 두유하고 스낵 먹고.
+S1: 스낵이요?
+S2: 예, 단백질 뭐 이렇게 배칼로리 좀 되는 거만 먹고
+S1: 아, 네네.
+S2: 두유에다 먹고
+S1: 네네.
+S2: 저녁 그냥 먹고
+S1: 네네네.
+S2: 그러니까 저녁 먹고 공복 8시간인가요? 저녁 먹고 그다음 점심 때..
+S1: 8시간에서 12시간입니다. 네.
+S2: 네. 저녁 먹고 물은 안 먹고 오면 되죠?
+S1: 아 물은 관계는 없어요. 네네. 초음파 검사를 하는 게 아니기 때문에 내시경이나 초음파 하는 건 아니기 때문에
+S2: 음식만
+S1: 예 음식만. 네네.
+S2: 물 먹는다고 콜레스테롤에 지장을..
+S1: 검사 뭐 금방 하는 거면 오전에 오든지
+S2: 오전에 오시면 됩니다.
+S1: 저녁에 금식하고 오전에 오면 되죠.
+S2: 네네네. 저녁에 금식은 안 하셔도 되고요. 저녁 식사하고
+S1: 아, 예. 아 저녁 식사하고 그 다음부터..
+S2: 그 이후부터 식사를 안 하시고 그냥 공복 상태를 유지한 다음에 아침에 오셔서 검사 받으시면 됩니다.
+S1: 물은 괜찮다고 말씀..
+S2: 네네. 근데 급성 췌장염을 앓으신 거는 뭐 술 때문이신가요?
+S1: 그건 한 2년 된 거 같은데, 네. 술은 아니고요. 근데 그 의사님이 그때 질환을 보고 급성 췌장염이 의심이 된다 해서 처방, 그때 입원도 했거든요. 근데 수치가 뭐 며칠 뒤에 떨어져야 되는데 바로 뭐 몇 시간 만에 떨어진 거 보니까 네. 이거는 원인 불명이다.
+S2: 아.
+S1: 증상은 이건데 원인 불명이다.
+S2: 아.
+S1: 다시 이제 따로 췌장염은 아닌데 증상은 췌장염이라고 하더라고. 근데 원인 불명으로 지금 나와 있고 네네. 그때 그 어쨌 어떻게 아팠냐면 약간 약 트러블인 것 같아요. 약을
+S2: 네네.
+S1: 여러 가지 약을 한 번에 다 먹었거든요. 한 일곱, 여덟 개를.
+S2: 네네.
+S1: 근데 그거 먹고 나서 바로 막 그 복통이 찢어지는 것처럼 아팠거든요.
+S2: 아, 약을 먹고요?
+S1: 제가 보기엔 약 트러블 같아요.
+S2: 그 어떤 약을 드셨는데요, 그때?
+S1: 그때 뭐 영양제도 있고 이것저것도 있고 약간 다이어트제 뭐 비슷한 것도 있고.
+S2: 아.
+S1: 그다음에 저게 있었어요. 발톱. 발톱 무좀약. 네. 예. 그게 약이잖아요. 약 센 거거든요.
+S2: 네네네.
+S1: 그 간에 안 좋다 해서 간 검사도 받고 했는데
+S2: 네.
+S1: 그거를 먹으면서 이제 그 약을 안 먹거든요. 음. 제 생각엔 그런 거 같아요.
+S2: 아, 네네. 지금 봐서는 커피 많이 마시는 것도 콜레스테롤 올릴 수가 있는데요. 이게 이제 LDL이 과연 이게 스몰 덴스 LDL이 높은 건지 아닌 건지를 확인하는 거고요. 음, 중성지방과 고밀도 콜레스테롤, 고밀도 콜레스테롤 수치가 조금 낮은 거 같아요. 운동을 일주일에 한 번 하는데도 불구하고 좀 낮은 거 같습니다. 음, 중성지방이 이렇게 높지 않은데 낮다는 거는 운동량이 상대적으로 좀 적은가? 먹는 게 많아서 그런가요?
+S1: 아, 한 끼 식사하는데 뭐 그렇게 드세요?
+S2: 예, 와이프가 많이 먹으래서 운동하러 가서 엄청 많이 먹네.
+S1: 아, 네네. 경동맥 초음파 검사 받아보셨나요?
+S2: 예.
+S1: 괜찮아요?
+S2: 뭐 별.. 없고 약간..
+S1: 혹시 다음에 결과지를 한번 가져오세요.
+S2: 옛날에 여기 뭐가 혹 같은 게 있다고 뭐
+S1: 아니 갑상선 말고요. 혈관.
+S2: 혈관이? 예.
+S1: 그거는 따로 없었어요.
+S2: 혈관 초음파 안 받으셨나요?
+S1: 모르겠는데. 하여튼 이것저것 많아 가지고.
+S2: 일단 결과지를 한번 가져오시고요. 보통은 이제 혈관 상태도 같이 보거든요. 고지혈증은 치료하는 기준에 일단 위험 요인을 쭉 보거든요. 그중에 하나가 또 혈관 상태거든요.
+S1: 아, 예.
+S2: 예. 고혈압도 있고 당뇨도 있고 담배 피는 것도 있는데 지금 담배 피잖아요. 이게 위험인자입니다. 흡연하시는 거. 예. 고혈압, 또 당뇨, 이런 것들이 위험인자거든요.
+S1: 아, 예.
+S2: 근데 거기에 중에 이제 혈관 안 좋은 것도 위험인자에 들어가기 때문에 그러면은 원칙적으로는 안 좋다 그러면은 치료가 들어가는 게 맞거든요.
+S1: 아.
+S2: 그래서 경동맥 초음파 검사 한 거 있으면 가져와 보시면 좋겠습니다. 다음에 그럼 금식하고..
+S1: 여기서 그건 못 하죠? 경동맥 초음파. 안 했다고..
+S2: 아니요, 바로 바로 해 드릴 수 있어요. 제가 제가 바로 해 드립니다.
+S1: 아, 감사합니다.
+S2: 네네. 네, 검사 결과지 한번 가져와 보세요.
+S1: 예.
+S2: 네. 오늘..
+S1: 어, 그러면 이 지금 상담하는 거는 저기 그 다음.. 다음에 검사 받은 다음에 다시 보고하는 거죠?
+S2: 아니요, 오늘은 진료를 상담하면서 진료를 본 거고요, 따로 검사하는 건 아니고요.
+S1: 아, 예.
+S2: 그다음에
+S1: 처방하는 건 없는 거죠?
+S2: 처방은 없습니다.
+S1: 아.
+S2: 처방은 일단은 결과 보고.
+S1: 예.
+S2: 지금 이제 식습관 자체가 좀 콜레스테롤 유발할 수 있는 원인이 있는데 그게 담배 피는 거, 술 마시는 거, 커피 많이 마시는 거. 커피는 줄 수 있을 것 같고
+S1: 근데 아메리카노 네다섯 잔이면 사실 좀 많이 드시는 것 같거든요.
+S2: 아, 저 처음 들었어요. 그 콜레스테롤 높인다는 얘기.
+S1: 아, 커피에 콜레스테롤이 들어가 있는데 보통은 커피를 드시면 이제 보통 거름에 걸르는 걸로 드시면 관계는 없는데
+S2: 그렇게 먹기도 하고 우리 저기..
+S1: 필터에 걸러서 먹나요?
+S2: 예, 필터 내려서.
+S1: 드립 커피로..
+S2: 드립 커피로 먹는 거죠?
+S1: 네네. 아니면..
+S2: 외부에서 먹는 건 드립 커피가 아닐 겁니다.
+S1: 네, 아니면 저기 이 조그만 뭐 나오잖아요, 이렇게 포장된 걸로.
+S2: 네.
+S1: 조그만 거. 아메리카노. 그거 먹든지.
+S2: 아, 그거는 드립 커피는 아니지 않을까 싶은데. 커피가 커피 자체 콜레스테롤이 있기 때문에.
+S1: 아, 드립은 달라요?
+S2: 갈아 가지고 이렇게 내려 먹는 거는..
+S1: 그거는 이제 일단은 어느 정도 걸리니까요.
+S2: 아, 그래요? 네. 에스프레소는 걸리지 않는 거잖아요.
+S1: 예.
+S2: 예. 그거는 콜레스테롤이 좀 있다고 있죠.
+S1: 알겠습니다.
+S2: 그러면.. 요 제가 올 때 이거는 아니었는데 여기 와 가지고 한 거고, 제 소화 제가 그 소화가 좀 안 되거든요. 그래서 좀 소화제를 알약으로 좀 처방을 받았으면 해서요.
+S1: 아, 가능합니다. 네. 소화, 소화 불량이 있으신가 봐요?
+S2: 아, 제가 저 이 뭐죠 최.. 담도 쓸개를 뗐거든요.
+S1: 음.
+S2: 한 10년 전에.
+S1: 아, 수술 받으셨어요?
+S2: 예.
+S1: 네네.
+S2: 그때도 수술 그 소화제를 처방을 하셨는데 최근에 좀 소화가 안 돼서 네네. 좀 소화제 많이 받을 수 있는 게 며칠 분이죠? 한 달 분인가요?
+S1: 소화제요? 예. 소화제는 장 운동이랑 소화 효소제 두 가지 들어갈.. 네. 있거든요. 두 가지 같이 드릴까요?
+S2: 예.
+S1: 네.
+S2: 그리고 하고 아까 여쭤봤더니 그 눈 인공눈물 처방 되냐고 물어봤더니 처방 할 수 있다고 말씀 드린다고 그래서 그것도 좀 뭐 많이 좀 처방을 받았으면 해서요.
+S1: 눈 건조증 있으세요?
+S2: 예. 그리고 아, 녹내장 약간 의심증 있는데..
+S1: 아, 녹내장이 있어요?
+S2: 있는 건 아니고요, 의심증이 있어 가지고 안과 진료도 다 받았어요. 검사도 다 하고 그랬더니 녹내장은 없는데 그 이거 저기 계속 뿌려주라고 하더라고요. 그 그 뭐지? 안압이 조금 높다? 예, 인공눈물 계속 뿌려달라고 그랬을 때 일단 처방을..
+S1: 아니, 그럼 건조증인가요?
+S2: 뭐 큰.. 녹내장 의심증 때문에 갔는데
+S1: 네.
+S2: 진단은 안 받고 네. 그냥 그를 처방해 주셨어요. 그 며칠 동안 뿌리는 안약하고
+S1: 네네.
+S2: 그다음에 인공눈물. 한 두세 달 치인가 받았었는데요. 그건 다 써 가지고.
+S1: 1회용으로.
+S2: 예 1회용. 네네.
+S1: 그 요만한 거 있잖아요, 그 팩으로 주는..
+S2: 네네. 안구 건조증. 근데 지금 커피를 일단 줄이셔야 되겠네요. 커피가 좀 안압을 올릴 수가 있으니까.
+S1: 아, 그 얘기는 했던 거 같아요. 안압.
+S2: 예, 커피 많이 마시면 안압이 올라가는 경향이 있으니까요. 커피는 이.. 그럼 저 이러튼 저러튼 커피는 줄이셔야 될 것 같아요.
+S1: 그럼 뭐 먹어야지? 녹차 먹어야 되나?
+S2: 녹차 괜찮습니다. 카페인 양이 많진 않은데 녹차가 오히려 항산화제가 많이 들어 있어서.
+S1: 거의 아침에 이 정도는 딱 모르는 사람하고 먹는데. 알겠습니다.
+S2: 아, 그러니까 안압, 안압이 높으신 분들은 커피, 커피는 안압을 올리는 걸로 돼 있어서요. 커피는 네, 중단하시는 게 좋겠습니다.
+S1: 장기적으로 볼 때는 그렇고..
+S2: 콜레스테롤 너무 높으니까..
+S1: 네.
+S2: 물을 많이 드시, 마시세요?
+S1: 물..
+S2: 하루에 물 얼마나 마시세요?
+S1: 커피를 많이 마시니까 물은 잘 안 마셔요. 커피랑 이렇게 희석해서 많이 먹거든요.
+S2: 아니 아닙니다. 물만 따로 얼마나 드세요?
+S1: 물만 따로 뭐.. 뭐 200?
+S2: 아, 이러면 안 됩니다. 이게 다 이제 생활 습관 때문에 생긴 병이라고 봐야 돼요. 예.
+S1: 커피 따로 이렇게 먹진 않고 그냥 밥 먹을 때 좀 먹고
+S2: 네네.
+S1: 뭐뭐 할 때 먹지, 물 마시려고 먹지 않고 근데 대신 이제 커피를 이렇게 좀 파고 이제 물을 희석해 가지고 그냥 이렇게 마시는 걸로 먹거든요.
+S2: 아니 아니, 그건 안 좋은 거 같습니다. 그러면 차라리 거기다가 소금을 좀 타서 드시든가요. 예. 자꾸 커피 마시면 자꾸 소변 보잖아요. 물이 자꾸 빠져나가거든요. 물이 우리 몸에 수분을 자꾸 빼냅니다. 그러면 탈수가 됩니다. 탈수가 되면은 건조 증상이 많이 생겨요. 제가 보기에는 안구 건조증도 그거랑 관련 있을 거 같고요. 안압 증가하는 것도 커피 많이 마시는 거랑 관련 있을 것 같습니다.
+S1: 안구 건조증.. 그건 못 듣던데. 안압, 안압 얘기를 하고. 음. 이거 약 뿌리..
+S2: 인공눈물..
+S1: 처방해 주고 나머지 한 3개월 치를 인공눈물 받았거든요. 안약에서, 그 안과에서. 그 검진 한 10만 원 주고 했어요. 그래서..
+S2: 안과 검진요?
+S1: 예. 그래서 녹내장은 의심이 되지만 정밀 검사 해 봤더니 아니다. 괜찮으니 이 약을 그냥 며칠 뿌리고 나머지는 인공눈물을 계속 처방 받아서 그냥 중간중간 뿌리세요.
+S2: 아니, 근데 저는 다시 안과 전문의가 아니라서 잘 모르겠는데 인공눈물 뿌린다고 안압이 안압에 영향을 줄까요? 아니면 눈 안구 건조증도 없는데 계속 뿌릴 필요가 있을까요?
+S1: 다시 한번 가서 물어볼게요.
+S2: 예. 아니 그냥.. 그러니까 일단 커피는 줄여 주시는 게 아마도 안압이 올라갈 가능성이 높기 때문에.
+S1: 저 인공눈물을 좀 더 더 몇 개월 더 받을 순 없나요? 제가 그때도 2, 3개월 치 받았던 것 같은데.
+S2: 이제 두 2개월 치 드리는 거예요. 60개.
+S1: 아 60개.
+S2: 예예네.
+S1: 더 받을 순 없죠?
+S2: 아..
+S1: 아니면 그냥 2개월만 갔다가 하면 되는데.
+S2: 일단은 2개월 한번 써 보시고요. 제가 이제 검사 결과를 보고 이걸 이거 드시라고 말씀을 드리고 만약에 챙겨서 드시면은 사실은 쓰지 않으셔도 되지 않을까 생각을 하고 있습니다.
+S1: 알겠습니다. 예약은 저 나가서..
+S2: 네, 앞에서 언제 검사한다고 말씀하시고 가시면 됩니다. 네네. 네.
+S1: 검사가 저 고지혈증 검사 맞죠?
+S2: 고지혈증 검사인데 그것만 보진 않을 거고요. 전반적인 상태를 다 볼 겁니다. 간 기능도 보고 심장 기능 이런 것들.. 알겠습니다. 네네네. 네, 안녕하세요. 네.","S (Subjective):
+- 주호소: 건강검진 결과 확인 및 고지혈증 약물 복용 여부 문의
+- 현병력: 3주 전 건강검진 시행, 1년 전 급성 췌장염 병력(약물 복용 후 호전되어 운동만 권고받고 2개월 복용 후 중단), 1년 후 LDL 콜레스테롤 수치 상승 확인
+- 증상: 소화불량, 눈 건조증, 전립선 비대증
+- 사회력: 사무직, 주 1-2회 음주(소주 1-2병), 주 1회 10km 러닝, 커피 1일 4-5잔 섭취, 흡연(1일 5개비, 10년), 아메리카노 1일 2잔 섭취
+- 과거력: 2년 전 고지혈증 전 단계 진단, 10년 전 전립선 수술
+- 복용약물: 전립선 약(아보다트), 눈 영양제, 소팔메토
+- 가족력: 고혈압, 당뇨 없음
+
+O (Objective):
+- 제공된 정보 없음
+
+A (Assessment):
+- 고지혈증
+- 안구건조증
+- 전립선 비대증
+
+P (Plan):
+- LDL 콜레스테롤 분해 검사(Small dense LDL cholesterol) 및 호모시스테인 수치 검사 시행
+- 금식 상태 유지 후 재검사 예정
+- 커피 섭취 줄이도록 교육
+- 소화제(배아제) 및 인공눈물(60개) 1개월분 처방
+- 1개월 후 재내원하여 검사 결과 확인 및 치료 계획 논의 예정
+- 비타민 유전자 검사(비타민 대사 관련) 및 부신 호르몬, 갑상선 호르몬 검사 권유(보험 미적용 안내)
+- 전립선 약 및 눈 영양제 복용 지속 권고","The patient had an episode of acute pancreatitis about 2 years ago and was hospitalized for it.  
+The cause of the patient’s acute pancreatitis episode was not identified.  
+The patient’s acute pancreatitis episode improved rapidly within hours.  
+The patient experienced severe tearing abdominal pain immediately after taking multiple medications together.  
+At the time of the abdominal pain, the patient had taken several supplements, a diet-related medication, and an oral antifungal medication for toenail onychomycosis.  
+The patient believes the severe abdominal pain was related to a medication reaction.  
+The patient has a history of cholecystectomy about 10 years ago.  
+The patient reports current indigestion.  
+The patient requests a prescription for oral digestive medicine.  
+The patient has a history of elevated LDL cholesterol.  
+The patient’s LDL cholesterol level has increased compared with a previous result.  
+The patient previously took lipid-lowering medication for about 2 months about 1 year ago.  
+The patient stopped the lipid-lowering medication after about 2 months because the laboratory values improved and was told exercise would be sufficient.  
+The patient has not taken lipid-lowering medication for about 1 year.  
+The patient has been told they are in a prediabetic stage.  
+The patient has been told they are in a pre–hyperlipidemia stage.  
+The patient has been told about prediabetes and pre–hyperlipidemia for about 2 years.  
+The patient is not currently taking any medication for diabetes.  
+The patient is not currently taking any lipid-lowering medication.  
+The patient smokes cigarettes.  
+The patient smokes about five cigarettes per day.  
+The patient has been smoking for about 5 to 10 years.  
+The patient drinks alcohol.  
+The patient drinks soju about 1 to 4 times per week.  
+The patient typically drinks about one bottle of soju per drinking occasion.  
+The patient usually drinks alcohol at least once per week.  
+The patient sometimes drinks alcohol up to 3 to 4 times per week.  
+The patient runs about 10 km at a time about once per week.  
+The patient sometimes runs twice per week.  
+The patient runs full-course marathons two to three times per year.  
+The patient works at an office job.  
+The patient does not feel they are under severe psychological stress.  
+The patient thinks their eating habits may be unhealthy.  
+The patient usually eats only a light lunch consisting of soy milk and a low-calorie protein snack.  
+The patient eats a regular dinner.  
+The patient usually eats one main meal per day.  
+The patient drinks Americano coffee about three to five cups per day.  
+The patient does not drink coffee mixes.  
+The patient drinks both filtered drip coffee at home and non-drip Americano coffee outside.  
+The patient drinks very little plain water, about 200 ml per day.  
+The patient often drinks coffee instead of water.  
+The patient takes an eye health supplement.  
+The patient takes a prostate medication that is also used for hair loss, identified as Avodart.  
+The patient takes Avodart daily.  
+The patient has undergone an ophthalmologic evaluation for suspected glaucoma.  
+The patient was told that glaucoma was suspected but was ruled out after detailed examination.  
+The patient was told that their intraocular pressure is slightly elevated.  
+The patient was prescribed eye drops to use for several days after the glaucoma evaluation.  
+The patient was prescribed preservative-free single-use artificial tears for about 2 to 3 months by an ophthalmologist.  
+The patient has used up the previously prescribed artificial tears.  
+The patient reports dry eye symptoms.  
+The patient requests a prescription for artificial tears.  
+The patient underwent a paid ophthalmologic checkup costing about 100,000 won.  
+The patient has been told that coffee intake can increase intraocular pressure.  
+The patient has been told that coffee intake can increase cholesterol levels.  
+The patient has been advised to reduce coffee consumption.  
+The patient has been advised to reduce alcohol consumption.  
+The patient has been advised that smoking is a cardiovascular risk factor.  
+The patient has been advised that high LDL cholesterol is a problem.  
+The patient has been advised to undergo fasting blood tests including detailed LDL subfraction analysis.  
+The patient has been advised that strenuous exercise shortly before blood tests can elevate muscle enzyme levels.  
+The patient previously had a blood test with markedly abnormal values after exercising the day before.  
+The patient repeated that blood test after avoiding exercise.  
+The patient has been advised that dehydration from excessive coffee and low water intake may contribute to dry eye symptoms.  
+The patient has been advised that coffee-induced dehydration may be related to increased intraocular pressure.  
+The patient has been advised that carotid artery ultrasound findings influence hyperlipidemia treatment decisions.  
+The patient has previously undergone carotid ultrasound.  
+The patient reports that the carotid ultrasound did not show significant vascular abnormalities.  
+The patient has been asked to bring prior carotid ultrasound and health checkup results to the next visit.  
+The patient has been told that current triglyceride levels are not very high.  
+The patient has been told that their HDL cholesterol level appears somewhat low despite exercising once a week.  
+The patient has been told that smoking, alcohol, and high coffee intake are lifestyle factors that can raise cholesterol.  
+The patient has been told to fast for 8 to 12 hours before the next blood test, while water is allowed.  
+The patient has been told that coffee should be avoided before the fasting blood test.  
+The patient has been told that the upcoming hyperlipidemia-related blood test will also assess liver and heart function.  
+The patient has been prescribed oral digestive medication including a prokinetic and a digestive enzyme.  
+The patient has been prescribed 60 single-use artificial tear units, corresponding to about 2 months of use."
+"S1: 아, 네, 안녕하세요. 네, 네. 아, 예. 피곤해서 오셨나요? 예, 앉으세요. 네. 아, 예. 잠시만 다시 한번... 몇 가지 좀 확인 좀 하겠습니다. 먹고 있는 약이 있으신가요?
+S2: 최근에 이제 요 피로감이 올 때, 여기 편도에 좀 붓거나 이런 게 좀 있는 거 같아서 이비인후과에 진료를 받아서 네, 네. 그 이비인후과 약을 먹고 있거든요. 그때 이제 그분께서는 이제 항생제는 굳이 이제 없어도 될 것 같고 좀 알레르기 약 위주로
+S1: 음.
+S2: 좀 처방해 주시겠다고 해서.
+S1: 네.
+S2: 그 약은 요렇게, 이 약으로 좀 먹고 있거든요. 4일분 처방 받아서 지금 거의 그 약은 거의 다 먹었습니다.
+S1: 진통제가 들어갔고요. 음.
+S2: 고 약을 먹어도 계속 좀 피로감이 있어서
+S1: 이게 자꾸 졸릴 수 있을 것 같은데요?
+S2: 졸린다는 얘기는 하셨는데,
+S1: 네, 네.
+S2: 근데 이제 좀 그래서 이제 하루 정도 이제 약을 안 먹고 좀 지내 봤는데도 그날 또 좀 너무 많이 피곤하고 그래서
+S1: 음.
+S2: 혹시 뭐 이제 이게 그냥 피로감이 느껴지는 게 아니라 자꾸 하루 종일 좀 계속 이제 좀 피로감이 느껴지면서 그 이비인후과에 방문하기 전에도 이제 그런 피로감 때문에 또 좀 가서 수액도 맞고 그랬었거든요.
+S1: 네, 네.
+S2: 좀 차도가 없는 거 같아서.
+S1: 아, 네. 그렇군요. 지금 약물 알러지는 없으시고요.
+S2: 네.
+S1: 개인적으로 먹고 있는 영양제가 있나요?
+S2: 어, 아니요. 따로 없습니다.
+S1: 없으시고. 운동은 하시나요?
+S2: 운동은 요즘 따로 하는 건 없습니다.
+S1: 운동은 안 하시고요. 커피 하루에 몇 잔 정도 마시나요?
+S2: 커피는 한 세 잔 이상은 마시는 것 같습니다.
+S1: 많이 드시네요. 피로해서?
+S2: 좀 루틴처럼 먹는 거 같은데.
+S1: 네.
+S2: 그 그 사서 먹는 커피는 아니고요,
+S1: 네, 네.
+S2: 그냥 카누 같은 거
+S1: 카누. 네네.
+S2: 아침에 두 개 정도 타서 먹고
+S1: 한 잔 마실 때마다 두 개씩?
+S2: 예. 그 아, 아닙니다. 그거 한 세, 세 티백 정도? 그렇게 먹고.
+S1: 으흠. 카누 세 개.
+S2: 예.
+S1: 많이 마시는 건 아니에요. 한 세 개 하나 탄다고 해서 뭐 진한 커피가 되진 않잖아요.
+S2: 물도 한 900ml 정도에 이제 두 개 타서 하루 하나 먹고
+S1: 아, 그럼 연하게 먹고.
+S2: 아, 연하게 마시는 거죠.
+S1: 그럼 그 커피랑 물을 그냥 한꺼번에 마시는 거네요.
+S2: 예.
+S1: 음, 그러면은 물만 따로 마시진 않고.
+S2: 그 그 오후에는 이제 그 물 물만도 또 따로 마십니다. 그거는 이제 오전에 이제 업무하면서 거의 다 먹게 되니까.
+S1: 500cc 더하기 500cc짜리 그냥 물로. 아, 500. 900cc면은 거의 1.8L 이상 그렇게 드시는 거네요.
+S2: 아, 네. 그 정도 이상은 마시는 것 같습니다.
+S1: 식사는 하루에 몇 끼 정도?
+S2: 점심 저녁. 두 끼 정도 해요.
+S1: 네. 술 마셔요?
+S2: 술 안 마십니다.
+S1: 안 마시고. 담배?
+S2: 담배도 안 합니다.
+S1: 변비는 없으시고요.
+S2: 변비 예.
+S1: 네. 가족력 없으시고요. 뭐 고혈압, 당뇨.
+S2: 고혈압. 저희 어머니가.
+S1: 고혈압. 예. 고혈압약을
+S2: 먹고 계세요.
+S1: 혈압은 없어요? 스스로 본인... 무슨 일 하시는 거예요?
+S2: 지금 포스코 건설에서 일하거든요.
+S1: 아, 사무직. 포스코.
+S2: 네, 네.
+S1: 퇴근하고 오신 건가요?
+S2: 네.
+S1: 음. 건강 검진은, 어 혈압 좀 높네요. 98이면 좀 높은데. 한 번만 더 재 볼게요.
+S2: 네, 네.
+S1: 건강 검진 최근에 받으셨나요?
+S2: 작년에 받고
+S1: 작년?
+S2: 네, 작년
+S1: 작년 검진 이상 없었고요.
+S2: 네.
+S1: 혈압도 괜찮았어요?
+S2: 네.","S (Subjective):
+- 주호소: 심한 피로감
+- 현병력: 4일 전부터 시작된 피로감으로, 수면 부족이 아닌 하루 종일 지속되는 양상
+- 약물력: 이비인후과 처방 약물(항생제, 알레르기 약, 진통제 포함) 복용 중, 약물 중단 시에도 증상 지속
+- 사회력: 커피 1일 3-4잔 섭취(카누 2-3개 타서 물 900ml와 혼합), 식사 1일 2끼, 음주 및 흡연 안 함, 운동 안 함
+- 과거력: 작년 건강검진 결과 정상(혈압 포함)
+- 가족력: 고혈압(부)
+
+O (Objective):
+- 혈압: 140/90 mmHg (높음)
+
+A (Assessment):
+- 제공된 정보 없음
+
+P (Plan):
+- 혈압 재측정
+- 포도당 검사 시행 예정","The patient has been experiencing fatigue.  
+The patient has experienced swelling of the tonsil area.  
+The patient visited an otolaryngology clinic for evaluation of tonsil swelling and fatigue.  
+The patient is currently taking medication prescribed by an otolaryngologist.  
+The otolaryngologist prescribed mainly allergy medication without antibiotics.  
+The patient was prescribed a 4-day course of the otolaryngology medication.  
+The patient has almost finished the 4-day course of otolaryngology medication.  
+The patient continues to feel fatigue despite taking the otolaryngology medication.  
+The patient stopped the otolaryngology medication for about one day but still felt very fatigued that day.  
+The patient had previously received intravenous fluids because of fatigue.  
+The patient reports no drug allergies.  
+The patient is not taking any nutritional supplements.  
+The patient is not currently exercising.  
+The patient drinks about three or more servings of coffee per day.  
+The patient usually drinks instant coffee such as Kanu.  
+The patient mixes about three sticks of instant coffee in approximately 900 ml of water and drinks it in the morning.  
+The patient drinks additional plain water in the afternoon.  
+The patient drinks at least about 1.8 liters of fluids per day.  
+The patient usually eats two meals per day, lunch and dinner.  
+The patient does not drink alcohol.  
+The patient does not smoke.  
+The patient does not have constipation.  
+The patient’s mother has hypertension.  
+The patient’s mother is taking antihypertensive medication.  
+The patient works in an office job at POSCO Construction.  
+The patient’s blood pressure was noted to be somewhat high during this visit.  
+The patient underwent a health checkup last year.  
+The patient’s health checkup last year was reported as normal.  
+The patient’s blood pressure was normal at last year’s health checkup."
+"S2: 안녕하세요.
+S1: 아, 네, 안녕하세요. 네. 아, 예. 아, 간 수치가 오늘 높아서 오셨어요?
+S2: 네, 네, 네.
+S1: 네. 몇 정도 나오셨어요?
+S2: 어, AST, ALT가 26에 56이랑 감마 GTP가 95로 나왔었어요.
+S1: 95. 네. 언제 검사하신 거예요?
+S2: 어, 저번 토요일에 검사했거든요.
+S1: 토요일이요?
+S2: 네.
+S1: 며칠 전에? 한 일주일 이상 전에?
+S2: 아, 아니요. 저번 주 토요일이요.
+S1: 지난주 토요일?
+S2: 네, 오늘 그 결과 결과가 바로 나왔어요. 네, 네.
+S1: 토요일이면은 21일.
+S2: 네.
+S1: 아, 네. 어디 병원에서 검사하셨는데요?
+S2: 여기 퍼스트 내과에서 봤는데
+S1: 퍼스트 내과.
+S2: 네, 네, 네. 근데 그 한번 피검사를 다시 좀 봐야할 거 같아서.
+S1: 아, 3일, 3일 전에 한 건데. 이틀, 이틀 전인데요?
+S2: 네, 근데 그 검사받기 며칠 전에 그 좀 음주를
+S1: 아. 네, 네, 네.
+S2: 아. 이게 그 신검을 좀 빡세게 본다고 하더라고요.
+S1: 어디서요?
+S2: 그 대한항공 지금 신검 받고 있는데
+S1: 아.
+S2: 재검 나왔는데 거기서는 네, 네. 그 선생님이 크게 문제는 안 될 거라고는 했는데 되게 좀 불안 불안해서요.
+S1: 네, 네, 네. 네.
+S2: 네. 좀 최대한 그 기한 내까지 좀 수치를 조금이라도 더 떨궈서 내고 싶어가지고.
+S1: 아, 그 저 요 세 가지 수치만 보면 돼요?
+S2: 그거랑 어 혈압도 있긴 했었는데 혈압은 쟀을 때 135에 79인가까지 내려..
+S1: 네, 네, 네. 앞에서 혈압 재셨나요?
+S2: 어, 네, 거기서 쟀었어요.
+S1: 근데 혈압은 지금 뭐 따로 지금 문제가 될 건 아닌 거 같고요.
+S2: 네.
+S1: 잠깐만요. 예. 옷 떼시고 예.","S (Subjective):
+- 주호소: 간 수치 상승으로 인한 불안감
+- 현병력: 21일 전(저번 토요일) 퍼스트 내과에서 AST 26, ALT 56, Gamma-GTP 95로 검사 결과 받음
+- 사회력: 최근 2일간 금주함, 현재 대한항공에서 재검사 중임
+- 타 병원 소견: 재검사 결과 큰 문제는 없을 것 같다는 소견 들었으나 환자 불안감 지속됨
+
+O (Objective):
+- 혈압: 135/79 mmHg (환자 진술)
+
+A (Assessment):
+- 제공된 정보 없음
+
+P (Plan):
+- 혈액 검사 재시행 예정 (수치 저하 목표)","The patient had an AST level of 26 on recent blood testing.  
+The patient had an ALT level of 56 on recent blood testing.  
+The patient had a gamma-GTP level of 95 on recent blood testing.  
+The patient underwent blood testing at First Internal Medicine Clinic.  
+The patient drank alcohol a few days before the blood test.  
+The patient is undergoing a medical examination for employment at Korean Air.  
+The patient was told by a doctor that the abnormal test result is not likely to be a big problem.  
+The patient feels anxious about the liver enzyme test results.  
+The patient wants to lower the liver enzyme levels as much as possible before the deadline for the medical examination.  
+The patient had a blood pressure reading of approximately 135 over 79 during the medical examination.  
+The doctor stated that the patient’s blood pressure is not likely to be a problem at this time."
+"S1: 아, 네, 안녕하세요. 네. 배가 아프셔서 오셨군요. 설사를 하시나요?
+S2: 조금. 예. 조금 하는 거고. 복통이나 뭐 약간 허리? 허리랑 옆구리 통증도 약간 살짝 있어서.
+S1: 설사를 몇 번 하셨는데요?
+S2: 한 세 번 정도?
+S1: 세 번요? 오늘 하루만?
+S2: 아니요, 한 며칠 전에. 자주 하는 건 아니고 가끔씩 네 네, 했던 거 같아요. 첫 증상일 때 좀 많이 하다가 나아지겠지 하고 버티다가 이번에는 좀 음식물을 이제 식사를 하고 나면은 복통이 조금 있는 거 같아서.
+S1: 아, 오늘 식사를 몇 번 하셨는데요?
+S2: 오늘, 오늘을 한 번 했어요.
+S1: 한 번 했는데. 먹고 위쪽, 윗배가 아프신 거예요?
+S2: 어, 예. 배꼽 위쪽으로.
+S1: 예, 예, 배꼽 쪽으로. 어떻게 아프세요? 막 쥐어짜듯이 아프세요?
+S2: 묵직하게? 쿡쿡 찌르듯이. 예, 그런 거 같아요. 그리고 또 이제 누르면 좀 아파서.
+S1: 네. 오늘 설사는 안 했어요?
+S2: 어, 예, 예, 오늘은.
+S1: 한 번도?
+S2: 예, 예.
+S1: 아, 배가 아파서 그랬구나. 잠깐 누워 보세요. 네.","S (Subjective):
+- 주호소: 복통, 설사
+- 현병력: 3일 전부터 증상 시작, 설사 3회, 식사 후 위쪽 배꼽 부위 쥐어짜는 듯한 통증, 누우면 통증 악화, 오늘 설사 없음
+- 과거력: 증상이 있다가 호전되는 것을 반복함
+
+O (Objective):
+- 신체검진: 허리 및 옆구리 등 부위 통증 호소
+
+A (Assessment):
+- 제공된 정보 없음
+
+P (Plan):
+- 제공된 정보 없음","The patient reports abdominal pain.  
+The patient reports diarrhea.  
+The patient reports lower back pain.  
+The patient reports flank pain.  
+The patient has had diarrhea about three times.  
+The patient had more frequent diarrhea when the symptoms first started.  
+The patient has had diarrhea intermittently over several days.  
+The patient experiences abdominal pain after eating.  
+The patient ate one meal today.  
+The patient has pain in the upper abdomen above the navel.  
+The patient describes the abdominal pain as dull.  
+The patient describes the abdominal pain as stabbing.  
+The patient reports that the abdomen is tender to pressure.  
+The patient did not have diarrhea today."
+"S1: 아, 네 안녕하세요. 네.
+S2: 제가 지금 그 모유 수유 중인데 좀 붓고 가래 섞인 기침이 나와가지고 약을 먹다가 모유 수유 되는 약을 먹다가 다 먹어가지고 다시 왔어요.
+S1: 모유 수유 되는 약에 항생제가 좀 있나요?
+S2: 아, 없었어요.
+S1: 네. 가래가 색깔이 어때요?
+S2: 뱉어보진 않아가지고. 그냥 기침 나면 그냥 나는 대로 하고
+S1: 잠깐만요. 모유 3개월이면은 항생제 먹게 되면 아기에게 항생제가 가긴 할 거예요.
+S2: 네.
+S1: 안 그러면 모유를 좀 중단해야 되는데.
+S2: 항생제가 아닌 약도... 저 알레르기 약이랑 이렇게 처방을 해주셨...
+S1: 아, 소리 내볼까요? 아. 목 괜찮은데요? 목 아파요?
+S2: 아, 근데 이게 헷갈리는게요. 어제 콘서트를 갔다 와가지고 그게 쉬어서 아픈 건지, 감기 때문에 아픈 건지.
+S1: 지금 삼켜보세요. 지금 목이 아픈가요?
+S2: 아, 침 삼킬 땐 안 아파요.
+S1: 아, 괜찮죠? 그럼 목 아픈 건 아닌 거 같고. 기침.
+S2: 기침.
+S1: 네, 기침 있으시고요.","S (Subjective):
+- 주호소: 기침, 가래, 목이 붓는 느낌
+- 현병력: 3일 전부터 시작된 기침, 약 복용 후 재내원
+- 약물 이력: 모유 수유 가능 약 복용 완료
+- 가래 양상: 뱉어보지 않음
+- 목 통증: 어제 콘서트 후 쉰 목소리 발생, 현재 통증은 없음
+- 사회력: 콘서트 참석
+
+O (Objective):
+- 신체검진: 목(인후두) 시진 시행
+- 신체검진: 목 부위 특이 소견 없음
+
+A (Assessment):
+- 제공된 정보 없음
+
+P (Plan):
+- 항생제 미포함 알레르기 약 처방 고려
+- 모유 수유 지속 여부 및 항생제 투여 시 아기 영향에 대한 설명
+- 모유 수유 중단 또는 약물 변경 가능성 논의","The patient is currently breastfeeding.  
+The patient has a cough with sputum.  
+The patient has not observed the color of the sputum.  
+The patient previously took medication that was considered compatible with breastfeeding.  
+The previous breastfeeding-compatible medication did not contain antibiotics.  
+The patient has run out of the previously prescribed breastfeeding-compatible medication.  
+The patient was prescribed allergy medicine previously.  
+The patient is concerned about whether her throat pain is due to attending a concert or due to a cold.  
+The patient does not have throat pain when swallowing saliva.  
+The patient currently has a cough."
+"S1: 이랑 이제 위 영류성 식도염? 그렇게 말씀하시더라고요. 저번 이제 가서도. 근데 그 4일치 항생제 포함해서 이렇게 약을 먹었는데 차도가 없어서 오늘도 가긴 했는데 항생제를 이제 4일치 먹었기 때문에 다른 항생제를 바꾸진 못한대요. 근데 이제 제가 밤에 새벽 내내 기침을 너무 많이 해 가지고 잠을 거의 못 자거든요.
+S2: 네.
+S1: 그래서 그 피로도도 만만치 않고, 뭔가 새벽에 막 기침 막 할 때는 꼭 뭔가 흉통이 느껴지기도 하거든요. 근데 저 숨소리 들어보면 괜찮은데 이게 숨소리가 괜찮다고 폐렴은 배제하는 건 뭐 그렇게는 못 한다고. 내과도 한번 가서 가보시라고 말씀도 하시더라고요. 거기 흉부 엑스레이가 없어서.
+S2: 네, 네, 네, 네.
+S1: 그래서 이거
+S2: 알겠습니다. 네.
+S1: 들어왔어요. 근데 위 영류성 식도염 증상이 심하면은 그렇게 새벽 내내 기침을 하기도 하나요?
+S2: 아니요. 가래가 있어요?
+S1: 가래가 있긴 한데 엄청 많은 건 아니고.
+S2: 색깔은요?
+S1: 색깔은 그냥 투명해요. 하얀색. 누렇진 않아요.
+S2: 아, 맑은 가래?
+S1: 네, 맑은 가래.
+S2: 아.
+S1: 근데 어, 어, 근데 한 번도 이런 적이 없어. 보통 그냥 소화가 안 되고 불편한 느낌만 있어 있었는데, 위 영류성 식도염이 좀 이전에도 있었거든요. 네. 이렇게 가래 기침이 저기 한 건 처음이라서.","S (Subjective):
+- 주호소: 심한 기침, 흉통, 피로
+- 현병력: 4일 전부터 시작된 기침으로 인해 수면 부족 상태, 새벽에 흉통이 느껴짐, 맑은 가래 배출
+- 과거력: 위영리성 식도염(내원 시 진단명), 소화불량(과거 증상)
+- 투약력: 4일분 항생제 복용 중, 약효 부작용으로 변경 불가 소견 청취
+- 환자 우려: 위염 증상이 심화되어 기침이 발생한 것인지 문의
+
+O (Objective):
+- 신체검진: 청진상 호흡음 정상(폐렴 배제 어려움)
+
+A (Assessment):
+- 제공된 정보 없음
+
+P (Plan):
+- 내과 진료 권고
+- 항생제 변경 불가 소견 전달","The patient has been told they have reflux esophagitis.  
+The patient took a 4-day course of antibiotics without improvement.  
+The patient has severe coughing throughout the night and early morning.  
+The patient is almost unable to sleep because of nighttime coughing.  
+The patient feels significant fatigue.  
+The patient sometimes feels chest pain when coughing at dawn.  
+A previous clinician stated that normal breath sounds do not rule out pneumonia.  
+The previous clinic did not have a chest X-ray machine.  
+The patient was advised to visit an internal medicine clinic.  
+The patient has sputum with the cough.  
+The patient’s sputum is clear or white and not yellow.  
+The patient has never previously experienced this kind of coughing with sputum.  
+The patient usually only had indigestion and discomfort with reflux esophagitis in the past."
+"S1: 네, 안녕하세요.
+S2: 안녕하세요. 네.
+S1: 지금 가장 불편한 게 뭐세요?
+S2: 지금 위에 아프고요.
+S1: 네.
+S2: 어, 밑배가 더 아픈 거예요?
+S1: 밑배가 아픈 거예요?
+S2: 네. 더 아플 것 같은 느낌이 계속 있긴 한데, 잘 모르겠고, 어제 밤에 이제 토하고 설사 좀 하고 그 밤새 잠을 못 잤거든요. 위랑 장이 막 꼬이듯이 아파서.
+S1: 꼬이듯이 아파서.
+S2: 네. 엄청 밑배도 그렇고 아랫배도 그렇고.
+S1: 네네.
+S2: 그러고서 오늘 저녁 설치고 오늘 아침에 설사하고 또 토를 했어요. 토를 하고 식은땀 나고 어지럽고 막 이래가지고. 원래 만성 위염이 있어서 잘 체하긴 하는데 토한 적은 있어도 막 이렇게 막 어지럽고, 설사 같이 하고 식은땀 나고 이런 적은 처음이어 가지고. 네, 좀 병원을 왔거든요.
+S1: 혓 좀 내밀어볼까요?
+S2: 네.
+S1: 아, 물을 많이 못 마신 거 같은데, 그렇죠?
+S2: 네.
+S1: 누워 보시겠어요, 잠깐? 네.","S (Subjective):
+- 주호소: 위부 불편감, 구토 및 설사
+- 현병력: 어젯밤부터 구토 및 설사 지속, 밤새 수면 장애, 위와 장이 꼬이듯이 아픈 양상, 상복부 및 하복부 통증, 금일 아침 설사 및 구토 재발
+- 증상: 어지럼증, 시금대(오한), 발열감
+- 과거력: 만성 위염, 평소 체함 자주 겪으나 어지럼증, 설사, 오한은 처음임
+
+O (Objective):
+- 신체검진: 혀 관찰 시 수분 섭취 부족 소견
+- 의사 소견: 수분 부족으로 인한 어지럼증 가능성 언급
+
+A (Assessment):
+- 제공된 정보 없음
+
+P (Plan):
+- 제공된 정보 없음","The patient currently has upper abdominal pain.  
+The patient currently has lower abdominal pain.  
+The patient had vomiting starting last night.  
+The patient had diarrhea starting last night.  
+The patient was unable to sleep through the night because of abdominal pain.  
+The patient describes the stomach and intestines as hurting like they are twisting.  
+The patient had both lower and upper abdominal pain last night.  
+The patient had diarrhea again this morning.  
+The patient vomited again this morning.  
+The patient experienced cold sweats after vomiting this morning.  
+The patient experienced dizziness after vomiting this morning.  
+The patient has a history of chronic gastritis.  
+The patient reports that she often has indigestion due to chronic gastritis.  
+The patient reports that this is the first time she has had vomiting with dizziness, diarrhea, and cold sweats together.  
+The patient has had difficulty drinking much water recently."
+"S1: 감기 때문에 오셨군요.
+S2: 네. 이제 월요일에 그 에어컨이 좀 쎈 곳에 한 두세 시간 있고 나서부터 바로 다음 날, 다음 날부터 예, 목이 좀 칼칼하고.
+S1: 네네네.
+S2: 그 다음 날부터는 콧물 좀 나고요.
+S1: 네네.
+S2: 네, 뭐 열은 안 나고 크게 불편하진 않았는데,
+S1: 네.
+S2: 그런 식으로.
+S1: 뭐가 그래요?
+S2: 네. 목 불편하고.
+S1: 목을 제가 한번 볼까요? 아 한번 해볼게요.
+S2: 아.
+S1: 괜찮네, 저번에. 팔, 침 삼킬 때 안 아픈가요?
+S2: 침상, 첫날에는 편도가 좀 붓는 느낌이 나다가 그 다음부터 편도는 아닌데 좀 이렇게 뭐랄까, 찰과상이 온 것처럼 쓰린 느낌.
+S1: 음, 네네네.
+S1: 기침을 계속 하신 건가요?
+S2: 기침 헛기침만 좀 나오고요.
+S1: 음.
+S2: 재채기 한 하루에 서너.","S (Subjective):
+- 주호소: 칼칼한 목, 콧물
+- 현병력: 월요일 에어컨 바람 노출 후 다음날부터 증상 시작, 열은 심하지 않으나 콧물이 불편함, 헛기침과 재채기 증상 있음(하루 3-4회)
+- 인후통: 침 삼킬 때 통증은 없으나 목이 칼칼함
+- 편도: 초기에는 부은 느낌이 있었으나 현재는 편도가 아닌 목 뒤쪽으로 붓는 듯한 느낌 호소
+
+O (Objective):
+- 제공된 정보 없음
+
+A (Assessment):
+- 감기
+
+P (Plan):
+- 제공된 정보 없음","The patient reports that their throat started feeling scratchy after spending a few hours in a place with strong air conditioning.  
+The patient reports that nasal discharge started the day after the throat symptoms began.  
+The patient reports not having a fever.  
+The patient reports that their throat discomfort is not very severe.  
+The patient reports that their tonsils initially felt swollen on the first day.  
+The patient reports that after the first day the pain felt more like a stinging abrasion in the throat rather than tonsil pain.  
+The patient reports having some dry cough or throat-clearing.  
+The patient reports sneezing about three to four times a day."
+"S1: 아, 네, 안녕하세요. 네.
+S1: 배가 아프셔 오신 건가요? 아니면 소화가 안 돼서 오신 건가요?
+S2: 속이 네네. 쓰려요.
+S1: 예. 속이 쓰리다고요?
+S2: 네. 속, 그러니까 빈 속에는 좀 괜찮은데, 뭔가 먹고 그러면 이제 계속 쓰리면서 소화가 되는 느낌? 그런 쪽으로 되는 것 같아요. 그게 한 일주일 정도 됐어요.
+S1: 아, 일주일 정도 되셨다고요?
+S2: 네.
+S1: 음.
+S2: 한 4, 5일 정도 된 것 같아요.","S (Subjective):
+- 주호소: 속이 쓰리고 소화가 안 되는 느낌
+- 현병력: 1주일 전부터 증상 시작
+- 증상 양상: 공복에는 괜찮으나 식사 시 증상 발생
+- 사회력: 주 3회 음주 (소주 1병)
+
+O (Objective):
+- 제공된 정보 없음
+
+A (Assessment):
+- 제공된 정보 없음
+
+P (Plan):
+- 제공된 정보 없음","The patient reports epigastric burning pain.  
+The patient reports that the epigastric burning pain worsens after eating.  
+The patient reports that the epigastric burning pain has been present for about 4 to 7 days."
+"S1: 아, 네, 안녕하세요. 기침 콧물 때문에 오셨나요?
+S2: 어, 네, 기침 때문에요.
+S1: 언제부터... 앉으세요, 일단.
+S2: 어제 그제 정도부터 그냥 가볍게 왔는데, 기침이 좀 간헐적으로 오고, 저녁에 좀 심하고요. 그리고 오늘 아침에 일어났는데 아침에는 좀 약간 멍한 느낌이 좀 들더라고요.
+S1: 목은 안 괜찮으세요? 목 불편감은 없어요?
+S2: 네, 목에...
+S1: 침 삼킬 때 불편감이 있거나?
+S2: 아뇨. 침 삼킬 때 조금... 아, 그런 불편함은 따로 없어요.
+S1: 기침만?
+S2: 네.
+S1: 콧물이랑.
+S2: 네, 콧물이랑.
+S1: 아 한번 해 보실까요? 아, 소리 내 볼까요? 음. 목 괜찮은데요?
+S2: 잠을 못 잔 것처럼 그냥 좀 멍한 느낌이 들어 가지고.
+S1: 음. 그렇다고 잠을 못 잔 건 아니고. 잠은 잘 주무셨어요? 콧물 때문에 기침하시는 건 아닌가 싶은데요? 콧물이 막 뒤로...
+S2: 콧물이 많이 나진 않아요. 네네. 콧물이 나왔.. 그러면 아, 콧물 때문에 그런가 생각할 텐데 콧물이 딱히 많지는 않고.
+S1: 많진 않고요? 음.","S (Subjective):
+- 주호소: 기침
+- 현병력: 어제부터 시작된 간헐적 기침, 저녁에 증상 심화, 아침에 멍한 느낌 호소
+- 인후통: 침 삼킬 때 경미한 불편감 있음
+- 콧물: 양이 많지 않음
+
+O (Objective):
+- 제공된 정보 없음
+
+A (Assessment):
+- 제공된 정보 없음
+
+P (Plan):
+- 제공된 정보 없음","The patient reports having a cough.  
+The patient reports having a runny nose.  
+The patient’s cough started about two days ago.  
+The patient describes the cough as intermittent.  
+The patient reports that the cough is worse in the evening.  
+The patient reports feeling a bit dazed in the morning.  
+The patient denies discomfort when swallowing saliva.  
+The patient denies throat discomfort.  
+The patient reports that the amount of nasal discharge is not large."
+"S1: 네, 들어오세요. 네, 안녕하세요. 네.
+S1: 배가 아프셔서 오셨어요.
+S2: 네.
+S1: 네. 혹시 맹장...
+S2: 맹장 수술 받은 적 없고요.
+S1: 네.
+S2: 여기가 오늘 아침에 여기가 엄청 쑤셨거든요.
+S1: 쑤시듯이?
+S2: 네.
+S1: 아.. 아침 식사?
+S2: 점심 먹고 와서.
+S1: 점심 먹고요. 그러니까 식사할 때 아프진 않았어요? 그러니까 뭐 식욕이 떨어지거나, 아 그런 거... 구역 증상이 전혀 없어요?
+S1: 맹장은 아닐 것 같은데요.
+S2: 아, 그래요?
+S1: 네. 음... 그러니까, 이 통증 시작 시간이 언제부터예요?
+S2: 한 3일 전부터 됐는데
+S1: 네.
+S2: 이게 그 부인과 쪽에 문제가 있는 건지 장이 아픈 건지 헷갈리거든요, 지금. 그래서 저 산부인과도 가보긴 할 건데 딱 그 중간이 아파 가지고.
+S1: 음.
+S2: 이게 무슨 통증인지 잘 모르겠어요.
+S1: 음. 잠깐 좀 누워 보시겠어요?
+S2: 네.
+S1: 집에 대장암 가족력이 있어요?
+S2: 아니요, 없는데 제가 어제 막 증상을 찾아봤는데 대장암일 수도 있다고 그래.
+S1: 아, 그니까 대장암이면은 지금 나이에","S (Subjective):
+- 주호소: 복부 통증
+- 현병력: 3일 전부터 시작된 통증, 아침에 쑤시는 듯한 양상, 식사 시 통증은 없으나 식욕 저하 없음, 구역 증상 없음
+- 환자 우려: 대장암 가능성 자가 진단 후 내원
+- 과거력: 맹장 수술 없음
+- 가족력: 대장암 없음
+
+O (Objective):
+- 신체검진: 복부 촉진 시 우측 하복부 및 명치 부위 압통 관찰
+
+A (Assessment):
+- 맹장염 아닐 가능성
+
+P (Plan):
+- 산부인과 진료 권유
+- 대장암 가능성 배제하기 위한 검사 계획 논의 (자세한 내용 언급 없음)","The patient has not had an appendectomy.  
+The patient has had severe stabbing abdominal pain since about three days ago.  
+The patient’s abdominal pain was very severe this morning.  
+The patient’s abdominal pain is located in the middle area between the gynecologic region and the intestines.  
+The patient is unsure whether the abdominal pain is gynecologic or intestinal in origin.  
+The patient plans to visit a gynecology clinic.  
+The patient ate lunch before coming to the clinic.  
+The patient did not have nausea.  
+The patient does not have a family history of colorectal cancer."
+"S1: 네, 들어오세요.
+S2: 안녕하세요.
+S1: 네, 안녕하세요. 네.
+S1: 어디가 많이 불편해서 오셨나요?
+S2: 우리 이쪽 목에 자꾸 뭐 3일, 한 4일 정도부터
+S1: 명치 쪽이?
+S2: 네. 답답하고 답답하고, 역류성 식도염 증세 있어가지고. 그 뭐 계속 토는 안 하는데 자꾸 약간 토할 것 같이 울렁거리고 그래가지고 속은 쓰리진 않는데.
+S1: 네.
+S1: 스트레스 많이 받으셨어요?
+S2: 최근에 좀 바빠서 그랬나...
+S1: 물은 많이 마셔요?
+S2: 물은 많이 마시는 편이에요.
+S1: 아, 그래요? 하루에 얼마나 마시죠?
+S2: 1리터는 마시는데
+S1: 1리터. 때문에 커피 몇 잔 마셔요?
+S2: 커피 한두 잔.
+S1: 한두 잔. 1리터. 지금 몸무게가 몇 킬로그램이에요?
+S2: 44kg.
+S1: 44. 지금 영양제 먹고 있는 게 있나요?
+S2: 비타민 C랑
+S1: 비타민 C
+S2: D랑 마그네슘
+S1: D랑 마그네슘. 운동해요?
+S2: 운동 가끔 해요.
+S1: 무슨 운동 해요?
+S2: 헬스
+S1: 근력 운동?
+S2: 네.
+S1: 근력 운동. 주 몇 회 정도?
+S2: 1, 2회 정도.
+S1: 1, 2회. 한 번 할 때 한 시간?
+S2: 네, 그 정도요.
+S1: 식사는 몇 끼 정도?
+S2: 하루 두 끼 정도.
+S1: 두 끼. 많이 드시는 건 아니고?
+S1: 술, 담배?
+S2: 네. 안 피워요. 담배는.
+S1: 담배는 안 피우고. 술은 얼마나 자주 마셔요?
+S2: 일주일에 1회?
+S1: 1회? 아, 주량은?
+S2: 한 병?
+S1: 소주?
+S2: 네.
+S1: 한 병. 이게 최근에 음주하셨어요?
+S2: 2주 전에 해가지고
+S1: 2주 전. 음. 지금 개인적으로 먹고 있는 약이 있나요?
+S2: 개인적으로 먹는 약, 위, 위염약 같은 거 3일 전부터 아파가지고 그때 먹긴 했는데 먹어도 딱히 나아지는 거는 없더라고요.
+S1: 없는 것 같다. 명치 쪽이?
+S2: 네, 약간 자꾸 어디 자기 전에 계속 누워 있는데도 약간 뭐 확 화끈거린다?
+S1: 화끈거린다?
+S2: 살짝 있어가지고
+S1: 화끈거리면 식도염인데, 막 쥐어짜듯이 아픈 건 아니고?
+S2: 화끈거린다. 네, 쥐어짜듯이는 아니고 그냥 좀 불편할 정도로 약간 아프고, 약간 지금 뭐 굶, 굶고 있는데 목에서 약간 조금 찬 느낌? 들어서 가지고.
+S1: 환자분 제가 음, 잠깐 좀 누워보세요. 잠깐. 네.
+S1: 물은 1L, 식사는 두 끼. 이불 좀만 덮어드릴게요. 머리 살짝 올릴게요. 배 좀 볼게요. 잠깐만요. 다 갈게요. 아프진 않아요?
+S2: 네.
+S1: 배는 안 아프죠?
+S2: 네.
+S1: 아픈 데 없어요? 아프진 않죠? 배꼽 주변. 네, 일어나시고요.
+S1: 식사도 자주 하진 않고 물 1L가 많은 양은 아니에요. 근데 이제 커피까지 마셔버리면 물이 좀 더 부족해지거든요. 네, 수분 염분을 보충해 줘야 되는데 그럴 기회가 많진 않잖아요. 내시경 검사는 언제 마지막으로 받아보셨나요?
+S2: 아마 1, 2년 전?
+S1: 1, 2년 전에. 크게 뭐 식도염이 심하진 않았죠?
+S2: 네.
+S1: 거의 없었어
+S2: 거의 없었어.
+S1: 음, 이상은 없었다?
+S2: 네.
+S1: 음. 배를 막 눌러서 아픈 건 아니고 말 그대로 역류 증상인 것 같긴 해요. 밥 먹고 바로 누워 주무시나요?
+S2: 그런 건 아닌데 약간 밥 먹고 바로 앉아서 자꾸 하다 보니까
+S1: 앉아서 작업하는 거는 괜찮을 텐데.
+S2: 눕지는 않아요.
+S1: 음. 물약을 먹으면 좀 어때요?
+S2: 먹으면 괜찮아요.
+S1: 괜찮아요? 아침에 일어나면 물 마셔요?
+S2: 마시긴 해요.
+S1: 한 컵?
+S2: 반 컵에서 한 컵 정도.
+S1: 어, 컵 크기가 얼마네요?
+S2: 머그컵?
+S1: 작은 컵이에요?
+S2: 작은.
+S1: 그러면은 조금 머그컵, 좀 큰 거 있잖아요. 네. 그런 걸로 물, 보리차?
+S2: 아, 그냥 생수?
+S1: 생수? 생수, 소금을 조금 타세요. 소금은 티스푼으로 한 1/4 티스푼. 티스푼 한 스푼이 가득 한 스푼이 한 5g이 좀 넘거든요. 그거 한 1.25g이 되는 거죠. 1/5이면은 1g인데 1/4이면은 1.25g이니까. 조금 섞어가지고 소금물을 한 잔을 그냥 들이켜세요. 예, 물 마시는 양 자체도 많지 않고 우리 몸에 물이 소금물이다 보니까 자꾸 커피를 마시면 연분기가 자꾸 빠져나가거든요. 수분 염분을 보충해 줘야 되는데 그럴 기회가 많진 않잖아요. 이렇게 해 주시면 될 것 같아요. 제가 약 한 일주일 정도 지어볼까요?
+S2: 네, 일주일 정도.
+S1: 일주일 정도. 물약이랑 같이 한번 드려볼게요.
+S2: 네.
+S1: 네, 그렇게 한번 좀 보겠습니다.
+S2: 졸린 약은
+S1: 졸린 약은 아니에요.
+S2: 네.
+S1: 네, 그렇게 하겠습니다.
+S2: 네, 안녕히 계세요.
+S1: 네, 안녕하세요.","S (Subjective):
+- 주호소: 명치 부위 화끈거림
+- 현병력: 어제 자기 전 누워있을 때부터 시작된 화끈거림, 쥐어짜는 듯한 통증은 아니나 불편함
+- 식이습관: 식사 후 바로 누워있지 않으나, 식사 후 앉아서 작업함
+- 수분 섭취: 하루 약 1리터(물, 커피, 보리차 포함)
+- 사회력: 음주(소주 1병, 2주 전), 흡연(안 함), 근력 운동(주 1회, 1시간)
+- 투약력: 비타민 C, 마그네슘 복용 중, 위염약 복용 시 호전 경험 있음
+- 신체 정보: 체중 24kg
+- 과거력: 식도염(심하지 않음, 2년 전 내시경 결과 이상 없음)
+
+O (Objective):
+- 신체검진: 상복부 압통(Tenderness) 관찰
+
+A (Assessment):
+- 영양성 위염
+- 식도염
+
+P (Plan):
+- 약물 처방: 위염약 및 물약(수분 보충) 1주일분 처방
+- 환자 교육:
+    - 아침 기상 후 물 1잔 섭취 권고
+    - 수분 섭취량 증량 및 커피 섭취 줄이기 지도
+    - 소금물 섭취 방법 안내(보리차 또는 생수 200ml에 소금 1/4 티스푼(약 1.25g) 혼합 후 섭취)
+- 부작용 안내: 졸음 부작용 없음 설명","The patient has had a feeling of chest or upper abdominal tightness for about 3 to 4 days.  
+The patient reports symptoms consistent with reflux esophagitis.  
+The patient feels nausea with a sensation of almost vomiting but does not actually vomit.  
+The patient does not have a burning pain in the stomach.  
+The patient feels a flushing or burning sensation in the upper abdomen when lying down before sleep.  
+The patient describes the pain as uncomfortable but not squeezing.  
+The patient feels a slightly cold sensation in the throat while fasting.  
+The patient does not have abdominal tenderness on examination.  
+The patient has been busy recently and thinks this may be related to stress.  
+The patient drinks about 1 liter of water per day.  
+The patient drinks 1 to 2 cups of coffee per day.  
+The patient weighs 44 kilograms.  
+The patient takes vitamin C as a supplement.  
+The patient takes vitamin D as a supplement.  
+The patient takes magnesium as a supplement.  
+The patient does strength training exercise at a gym about 1 to 2 times per week.  
+Each exercise session lasts about one hour.  
+The patient eats about two meals per day.  
+The patient does not smoke.  
+The patient drinks alcohol about once per week.  
+The patient drinks about one bottle of soju per drinking occasion.  
+The patient last drank alcohol about two weeks ago.  
+The patient started taking a gastritis medication about three days ago because of pain.  
+The patient reports that the gastritis medication has not clearly improved the symptoms.  
+The patient does not lie down immediately after meals.  
+The patient usually sits and works after meals.  
+The patient feels better when taking a liquid medication.  
+The patient drinks half to one small cup of water in the morning.  
+The patient underwent an endoscopy about 1 to 2 years ago.  
+The previous endoscopy showed no significant esophagitis.  
+The doctor plans to prescribe oral medication for about one week.  
+The doctor plans to prescribe a liquid medication together with the oral medication.  
+The doctor states that the prescribed medication is not sedating."
+"S1: 네 들어오세요.
+S2: 네, 안녕하세요.
+S1: 아, 네, 안녕하세요. 네.
+S1: 아 네네.
+S1: 네, 어디가 불편해서 오셨는데요?
+S2: 제가 토요일 날
+S1: 네, 네. 토요일 날
+S2: 빨리 세탁기 세탁기 빨래 이렇게 건지다가
+S1: 네네
+S2: 손이 안 닿아서 이렇게 해가지고
+S1: 네 네.
+S2: 여기를 꽉 눌렀거든요. 눌렸거든요.
+S1: 네 네.
+S2: 네 네. 근데 괜찮았는데 어제 어제부터 아프더라고요. 그래서 여기가
+S1: 네 네.
+S2: 여기가 아파요.
+S1: 한번 좀 볼까요? 제가 눌러볼게요. 어디쪽이 눌렸어요?
+S1: 어디가 눌렸냐? 어디가 아프시냐고.
+S2: 예, 여기 여기 막 숨 숨 쉴 때 아프고
+S1: 잠깐만요. 이게 막?
+S2: 예 예.
+S1: 네, 숨 숨 쉬어 보세요.
+S1: 아프세요?
+S2: 네.
+S2: 근데 아파요.
+S1: 아.
+S2: 아.
+S1: 여기 아프세요?
+S2: 네 네. 아.
+S1: 아, 엑스레이 한번 찍어볼게요.
+S2: 아.
+S1: 엑스레이 그냥 뼈, 갈비뼈 그냥 괜찮은지 그거 한번 좀 볼게요.
+S2: 아.
+S1: 아마 잠깐 근육이 눌려서 어, 아마 통증이 좀 생겼을 수도 있을 것 같거든요.
+S2: 음
+S1: 근데 뼈가 문제면은 뼈가 문제면은 엑스레이에서 잘 안 나타날 수 있는데요. 한번 확인해 볼게요. 밖에 나가 안 계세요?
+S2: 음.
+S1: 엑스레이만 확인하겠습니다.
+S2: 뼈가 이상 있으면 이렇게 막 붓고 이러지 않아요?
+S1: 많이 붓죠. 이게 뼈가 금이 갔으면 많이 붓겠죠. 아니까 금 간 거는 잘 티가 안 날 텐데 약간 어긋났으면 많이 붓죠.
+S2: 음.
+S1: 근데 눌려가지고 이제 갈비뼈랑 그 주변 근육 쪽에 염증이 생겼을 수도 있을 것 같아서요.
+S2: 아 그래요?
+S1: 네.
+S2: 아 괜찮았는데 어제
+S1: 근데 지금 뭐 생활하는데 지장이 있을 정도는 아니잖아요?
+S2: 예, 그렇진 않아요. 그렇진 않은데.
+S1: 그러면 갈비뼈가 막 그 문제가 생기거나 그럴 것 같진 않은데요. 한번 확인 한번 해볼게요. 밖에 잠깐 안 계세요?
+S2: 네.
+S1: 네.","S (Subjective):
+- 주호소: 흉부 통증
+- 현병력: 토요일 세탁기에서 빨래를 꺼내다 손이 빠져서 해당 부위를 꽉 눌렀음. 어제부터 통증이 시작되었으며, 숨을 쉴 때 통증이 있음.
+- 통증 양상: 뼈가 이상이 있으면 붓고 통증이 심할 것이라고 환자가 진술함.
+- 일상생활: 생활에 지장이 있을 정도는 아니라고 환자가 진술함.
+
+O (Objective):
+- 신체검진: 흉부 촉진 시 압통이 관찰됨.
+- 호흡 시 통증 유발.
+
+A (Assessment):
+- 갈비뼈 또는 주변 근육의 염증 의증.
+- 골절 가능성 낮음.
+
+P (Plan):
+- 흉부 X-ray 촬영 예정.","The patient developed chest pain starting yesterday after pressing their chest while reaching into a washing machine on Saturday.  
+The patient reports pain in the chest area when breathing.  
+The patient reports that the chest pain does not significantly interfere with daily activities."
+"S1: 아아, 마이크 테스트 진행합니다. 마이크 테스트 진행합니다. 어, 증상은 어떠신가요?
+S2: 어, 제 증상은 고환 아래쪽에 약간 묵직함이 있고, 어, 좀 소변 볼 때 통증이 있습니다. 그리고 어, 성생활에 좀 불편함도 있고요. 어, 좀, 아, 가만히 있을 땐 아프진 않은데 소변을 볼 때 좀 아픕니다.
+S1: 아, 그러면 음, 혹시 뭐 최근에 약 드신 거나 항생제 드신 게 있나요?
+S2: 항생제 같은 경우는 복용한 적이 없습니다.
+S1: 테스트 녹음 한 번만 해 볼게요.","S (Subjective):
+- 주호소: 고환 하부 묵직함, 배뇨통, 성기 불편감
+- 현병력: 가만히 있을 때는 통증이 없으나 배뇨 시 통증 발생
+- 과거력: 항생제 미복용
+
+O (Objective):
+- 제공된 정보 없음
+
+A (Assessment):
+- 제공된 정보 없음
+
+P (Plan):
+- 제공된 정보 없음","The patient reports a feeling of heaviness below the testicles.
+
+The patient reports pain when urinating.
+
+The patient reports discomfort during sexual activity.
+
+The patient reports no pain when at rest.
+
+The patient has never taken antibiotics."
+"S1: 제일 불편한 게
+S2: 가슴이 두근거린 거.
+S1: 네.
+S2: 근데 그 이율에 이후에 지금 3일째 됐을 때는 이 눌리는 듯한 답답함이 좀 있어요.
+S1: 아, 그 이유는 3일간 가슴이 답답하다 이거죠?
+S2: 네.
+S1: 자, 가슴이 그럼 두근거린 걸 다시 한번 여쭤볼게요.
+S2: 네.
+S1: 가슴 두근거린 게 뭐 하다가 왔어요?
+S2: 그날 월요일 날 스트레스 받는 일이 있었는데.
+S1: 월요일 날?
+S2: 아, 스트레스 받고.
+S1: 네. 그러고 나서 집에 가서 밤에 야근을 하다가 자정 무렵에
+S2: 아, 오케이.
+S1: 그때 가슴이 두근거려서 맥박을 남편이 재줬는데 남편이 지금 좀 다른 과 의문이거든요.
+S2: 어.
+S1: 부정맥 증상이 있는 거 같다고 해서 아.
+S2: 아, 아, 남편이 의사님이세요?
+S1: 네네.
+S2: 딱 만져보더니 부정맥이 있다?
+S1: 왜냐면 6개월 전에 같은 증상이 아침에 일어나자마자
+S2: 있었어요?
+S1: 두근거림이 있어서 그때도 여기를 예약을 했었다가
+S2: 어.
+S1: 예약이 이제 뭐 한 2주 정도 지나서 예약이 돼가지고 그 사이에는 멀쩡해서
+S2: 아 예.
+S1: 아유, 미안합니다. 예약이 많이 늦었군요. 어.
+S2: 그래서 예약을 취소를 했는데 또 반년 만에 생기니까 이제는 진료를 봐야 되겠다.
+S1: 자, 그러면 제일, 정리를 해볼게요. 이튼 어, 월요일 날 그러니까 5일 전에 스트레스 받고 야근하고 자정 무렵에 집에 오니까 가슴 두근거린 증상이 있었어.
+S2: 네.
+S1: 그 이 선생님이 딱 재보니까 아, 부정맥 있는 것 같다. 그래서 이제 왔고 그 이후로는 지금 가슴이 답답한 거죠?
+S2: 네.
+S1: 그냥 계속 답답.
+S2: 잊어버려요. 바쁘면.
+S1: 일하다가 잊어버리는데요. 집에 오고 잘 때 되면 또 답답한 게 계속 느껴져요.
+S2: 오케이, 알았습니다. 그 스트레스가 문제였네요. 자, 맥박을 한번 재볼게요, 제가. 응. 두근거리는 게 주 증상인데 두근거리는 걸 다시 한번 풀어볼게요. 두근거림이 여러 가지가 있어요. 정말로 이렇게 빨리 뛰는 게 있고. 더컹 하다가 또 더컹더컹 하는 게 있고. 아니면 좀 느리게 강하게 느껴지는 게 있어요. 셋 중에 어느 거?
+S2: 저는 잘 못 느끼겠고요. 남편 얘기로는 중간중간에 너무 약하게 안 뛰는 거 같다고.
+S1: 아, 오케이. 자, 그러면 남편께서 말씀하시기에 맥을 보니까 중간중간에 약하게 안 만져진다. 그 소리죠? 그걸 이제 두근거림으로 느낄 수는 있죠. 알겠습니다. 그 답답한 거는 지금 다른 일 하면 잊어버리죠?
+S2: 네.
+S1: 이거 커피나 뭐 아이고, 관계가 있나요?
+S2: 어, 제가 커피는 하루 한 잔 정도 마시는데 월요일 이후에 하나도 안 마셨어요.
+S1: 아, 그러셨어요? 이거 두근거리는 것 때문에?
+S2: 아니면 스트레스?
+S1: 네. 스트레스. 오케이.
+S2: 그전에도 커피를 많이 마시면 두근거렸나요?
+S1: 아니요, 전혀 없었어요.
+S2: 없었죠? 알코올은?
+S1: 알코올은 먹는데 이번에 월요일 날 이후부터는 안 먹었어요.
+S2: 오케이, 알겠습니다. 체크를 해볼게요. 너무 어지럼증 한번 해봐야겠다.
+S1: 음.","S (Subjective):
+- 주호소: 가슴 두근거림, 가슴 답답함
+- 현병력: 5일 전(월요일) 야근 후 스트레스 받고 귀가 시 증상 발생, 남편이 맥박 측정 시 부정맥 소견 있다고 함
+- 과거력: 6개월 전 아침 기상 직후 유사 증상 발생, 2주 후 예약 취소 후 재내원
+- 증상 양상: 남편 진술에 따르면 맥박이 중간중간 약하게 안 만져지는 느낌
+- 사회력: 커피 월 1회 섭취, 음주(맥주) 주 1회, 월요일 이후 커피 및 음주 자제함
+
+O (Objective):
+- 맥박: 3분(180초) 측정, 1분당 60회로 환산됨
+
+A (Assessment):
+- 제공된 정보 없음
+
+P (Plan):
+- 제공된 정보 없음","The patient’s main discomfort is a sensation of heart palpitations.  
+The patient has felt a pressing chest tightness for about 3 days.  
+The patient’s chest tightness is described as a pressing and uncomfortable feeling.  
+The patient’s chest tightness is continuously present but can be forgotten when busy.  
+The patient’s chest tightness is more noticeable at home and at bedtime.  
+The patient experienced stress on a Monday before the onset of palpitations.  
+The patient worked late at night on the day of symptom onset.  
+The patient noticed heart palpitations around midnight after returning home from late work.  
+The patient had a similar episode of heart palpitations about 6 months ago.  
+The patient had scheduled a previous appointment for palpitations but canceled it because symptoms resolved before the visit.  
+The patient decided to seek medical care because the palpitations recurred after about half a year.  
+The patient’s husband is a doctor.  
+The patient’s husband measured the patient’s pulse during the palpitations.  
+The patient’s husband thought the patient’s pulse felt like an arrhythmia.  
+The patient’s husband reported that the patient’s pulse was intermittently very weak or not palpable.  
+The patient reports difficulty characterizing the exact nature of the palpitations.  
+The patient drinks about one cup of coffee per day.  
+The patient has not drunk any coffee since the Monday when symptoms began.  
+The patient has never previously experienced palpitations after drinking a lot of coffee.  
+The patient drinks alcohol.  
+The patient has not drunk alcohol since the Monday when symptoms began."
+"S1: 지금 목이 아프신가요?
+S2: 어, 지금은 괜찮습니다.
+S1: 어, 기침 가래가 있으신가요?
+S2: 어, 가끔 있는 거 같습니다.
+S1: 가래가 색깔이 어떻죠?
+S2: 맑을 때도 있고 약간 노랄 때도 있습니다.
+S1: 오늘은 노랬나요?
+S2: 오늘은 노랬습니다.
+S1: 오늘은 노랬고. 콧물 코막히는 것도 있으세요?
+S2: 네, 콧물하고 코막힘도 좀 있는 거 같아요.
+S1: 아, 콧물 색깔은 어떠셨어요?
+S2: 콧물 색깔도 약간 노랬습니다.
+S1: 약간 노랬고요. 기침, 아 기침도 하시나요?
+S2: 어, 기침은 마른 기침 조금 하는…
+S1: 마른 기침 하시고요. 열 나거나 춥고 떨리는 거 있으세요?
+S2: 아니 그런 건 없습니다.
+S1: 그런 건 없었었고. 고혈압 당뇨 결핵 간염 앓으시는 거 있으신가요?
+S2: 어, 고혈압은 없고 당뇨는 당이 약간 있습니다.
+S1: 어, 약을 먹고 계시는 건가요? 인슐린 맞고 계시나요?
+S2: 아니요, 약은 먹고 있지는 않습니다.
+S1: 약은 안 먹고 계세요? 그렇게 하고, 뭐 약 먹고 두드러기 나거나 하는 약 알레르기 반응 있으셨나요?
+S2: 네, 그런 건 없었습니다.
+S1: 그런 거 없으시고요. 이제 제가 봅니다. 일단 제가 거기 가서 잠깐 와보세요. 이거 한 번 하기밖에 없으니까 여기 앉아보시고, 오신 김에 네, 코를 봐드릴게요. 코하고 목하고 다, 왜 코 푸는 척하듯이 한번 해보려고. 네네네. 코하고 목을 다 봅니다. 오른쪽 볼까요?
+S1: 고막은 정상이고요. 왼쪽 정상. 왼쪽 드럼 프리. 라이트 드럼 프리. 코 좀 볼게요.
+S2: 네.
+S1: 코가 좀 진짜로 커져 있네요. 음, 정상 코는 날씬한 코살 두 개가 보여야지 정상이에요. 이게 숨 쉬는 기도가 보여야 되거든요 까맣게. 첫 번째 코살이 커지면 약간 감자처럼 커져 있으세요. 이렇게 커져 있으면 지금 요 틈새로 숨을 쉬지만 주무실 때 코가 처지면 잘 때 입이 마르거나 그럴 수 있으니까 가습기를 좀 켜, 진짜로 켜놓고 주무시는 게 좋겠고요. 왼쪽 코도 볼까요? 코도 좀 건조하신데요? 왼쪽 코는 코뼈가 왼쪽으로 휘어 갖고 이렇게 왼쪽으로 휘어 있어요. 그래서 왼쪽은 워낙 코살도 좀 커져 있지만 더 좁으세요. 그래서 코가 회오리바람 치기 때문에 그렇게 코딱지 같은 게 붙어 있고요. 아 한 번 해보실까요? 아 소리 내보세요.
+S2: 아.
+S1: 어른이신데 편도선이 또 약간 조금 있으십니다. 남아 있으시고. 일단 제가 오신 김에 코를 빼 드릴게요. 제게 기대볼까요? 고개 살짝 톡 낮추시고 입을 어 한번 해보세요.
+S2: 어.
+S1: 이 왼쪽에 코가 있으셔서요. 그걸 좀 뺄게요. 턱을 좀 숙여 보시고요. 입을 어. 어. 어. 약간 진짜 코가 있는데? 왼쪽에. 근데 너무 건조해서 잘 안 나오네요. 입을 어 한번 해보시고요.
+S2: 어.
+S1: 잘 때 진짜 가습기를 좀 틀고 주무시고요. 틀고 주무시고 제가 거기 건조하셔서 연고를 좀 발라드릴게요. 제게 기대볼까요? 입을 어 한번 해보세요.
+S2: 어.
+S1: 네. 이렇게 하시고요. 코가 노, 진짜 노래지면 오세요.
+S2: 네네. 감사합니다.
+S1: 네, 수고하셨습니다. 일단은 그러시고요, 제가 어떠신지 정리…","S (Subjective):
+- 주호소: 인후통, 기침, 가래
+- 현병력: 맑은 가래와 노란 가래가 섞여 나옴, 마른 기침 증상, 콧물과 코막힘 동반
+- 증상 부재: 발열, 오한, 몸 떨림 없음
+- 과거력: 당뇨(약물 치료 안 함), 고혈압 없음, 약물 알레르기 없음
+
+O (Objective):
+- 신체검진: 인후두 정상 소견, 양측 고막 정상, 코 내부 건조함, 비갑개 비대 및 좌측 편위 관찰
+- 검사: 코 세척 시행
+
+A (Assessment):
+- 제공된 정보 없음
+
+P (Plan):
+- 코 세척 시행
+- 코 건조 증상 완화를 위한 연고 처방
+- 수면 중 입이 마르지 않도록 가습기 사용 권고","The patient sometimes has cough and sputum.
+The patient's sputum is sometimes clear.
+The patient's sputum is sometimes slightly yellow.
+On the day of the visit the patient's sputum was yellow.
+The patient has some runny nose.
+The patient has some nasal congestion.
+The patient's nasal discharge is slightly yellow.
+The patient has a small amount of dry cough.
+The patient does not have fever.
+The patient does not have chills.
+The patient does not have hypertension.
+The patient has slightly elevated blood sugar.
+The patient is not taking medication for blood sugar.
+The patient has no history of drug allergy.
+On examination the patient's eardrums are normal bilaterally.
+On examination the patient's nasal turbinates are enlarged.
+On examination the patient's left nasal septum is deviated to the left.
+On examination the patient's nasal mucosa is dry.
+On examination the patient has some residual tonsillar tissue.
+The doctor recommended that the patient use a humidifier while sleeping.
+The doctor applied ointment to the patient's nasal area due to dryness."
+"S1: 어, 한쪽 발로 서 있다든지 이런 기억 전혀 없어요?
+S2: 네, 그건 똑같은 거.
+S1: 음. 평상시에, 평상시에 많이 앉아 있거나 서서 계세요?
+S2: 그냥 원래 이 사무직이기는 한데, 근데 그거는 뭐 제가 일을 뭐 하루 이틀 하는 거
+S1: 예. 그렇습니다. 일단은 뭐 다친 게 아니기 때문에 본인이 정확한 기억을 못 할 수도 있고요.
+S2: 아, 네.
+S1: 어, 혹시 평상시에 그러면 이 앉아서 일하실 때 골반이나 허리가 가끔 불편한 느낌이 있으셨나요?
+S2: 아, 그거는 있기는 해요. 네. 약간 뻐근하다는 느낌.
+S1: 예. 왜냐하면 한쪽만 불편하다고 봤을 때는 한쪽에 뭔가 반대쪽 다리보다 뭔가 자극을 많이 받는 이런 이 요소 중에 이 균형 요소가 많이 작용을 하거든요. 우선은 발 요인이기 때문에 발부터 먼저 볼게요. 자. 지금 가만히 있을 때도 뭔가 신경을 누르는 느낌은 참, 참 괴로운데 예를 들어서 그냥 단순 아픈 게 아니고 예를 들어서 저리다,
+S2: 네, 있어요.
+S1: 시리다, 찌릿찌릿하다, 뭐 따끔따끔하다, 뭐 어떤 느낌이세요?
+S2: 찌릿찌릿한 게 제일 크고요.
+S1: 찌릿찌릿하다.
+S2: 네. 그리고 그 좀, 저린 거는 계속 있진 않은데 가끔씩 저린 때도 있어요.
+S1: 예, 알겠습니다. 그러면은 찌릿찌릿한 느낌이 제일 크고, 찌릿하기도 하고 가끔 저리기도 하고. 그렇죠?
+S2: 네, 네, 네.
+S1: 제가 손으로 눌러 볼 테니 불편하면 이야기하세요. 네. 불편한 느낌 없죠?
+S2: 네. 거기는 없는데
+S1: 반대쪽 비교해볼게요.
+S2: 네. 근데 지금 제가 심하게 아픈 거는 다시 이쪽...
+S1: 거기가 더 심하세요?
+S2: 거기는 좀, 어, 거기는 아파요, 네.
+S1: 세 번째, 네 번째가 딱 하네요. 전체적으로 불편한데 여기가 제일 심하다. 그렇죠?
+S2: 네. 거기는 거기는 누르면 아파요.
+S1: 네, 삼사 가 제일 심하네요. 여기 양쪽 올려보실래요. 비교해볼게요. 일단 눈으로 보면 색깔 차이는 뭐 조금 잠깐만요. 이쪽을 손으로 눌렀을 때 괜찮으시고. 여기는 안 아프시다 그랬죠?
+S2: 네. 거기 안 아프...
+S1: 여기는 불편해요.
+S2: 네. 거기, 어우, 거기 아파요.
+S1: 여기 뭔가 잘못된 거 같은데. 이렇게 기겁할 정도고 밤에 잠을 깰 정도로...
+S2: 어, 잠을 못 잤어요, 어제.
+S1: 예. 보스 풋 세 장하고요, 웬스파인 두 장, 어 그리고 울트라사운드요. 지금 누르는 것은 제가 여기 요, 여기 중심을 힘줄로 보이죠?
+S2: 네.
+S1: 예. 요 힘줄을 제가 누르고 있는 거거든요. 요 밑에는 물론 관절이 있지만은. 요렇게. 어, 눈으로 보기에는 큰 차이 없는 것처럼 보이기도 하고 뭔가 좀 부은 것 같기도 하고. 근데 이렇게 심하면은 뭔가 나쁜 게 있을 수도 있거든요. 한번 자세히 볼 필요가 있고. 다른 데는 괜찮으시죠? 발목까지는 괜찮죠?
+S2: 네, 괜찮아요.
+S1: 네, 괜찮고요. 자, 지금 아프고는 전체적으로 불편하지만 요 부위인데요. 여기에 뭐","S (Subjective):
+- 주호소: 찌릿찌릿한 통증, 저림
+- 현병력: 찌릿찌릿한 느낌이 가장 크고, 가끔 저리는 증상도 있음. 통증으로 인해 밤에 잠을 깸.
+- 과거력: 사무직, 평상시 앉아서 일함. 골반이나 허리가 뻐근한 느낌이 있음.
+- 사회력: 업무 미참여 중.
+- 통증 부위: 발의 3번째와 4번째 발가락 사이가 가장 심함.
+
+O (Objective):
+- 신체검진: 발의 특정 부위 압통(+).
+- 시진: 해당 부위에 눈으로 보이는 이상 소견이 관찰됨.
+- 촉진: 힘줄이 관찰됨.
+
+A (Assessment):
+- 제공된 정보 없음
+
+P (Plan):
+- 제공된 정보 없음","The patient has an office job that involves sitting.  
+The patient sometimes feels discomfort in the pelvis or lower back when working in a sitting position.  
+The patient describes the discomfort in the pelvis or lower back as a dull aching sensation.  
+The patient feels a tingling sensation in the affected foot.  
+The patient sometimes feels numbness in the affected foot.  
+The patient reports that the tingling sensation is the most prominent symptom in the affected foot.  
+The patient experiences localized pain when the doctor presses on the third and fourth areas of the affected foot.  
+The patient reports that the pain in the affected foot was severe enough to prevent sleep the previous night.  
+The patient reports no pain in the ankle."
+"S1: 아이고, 애들 다 보고 힘든데 몸까지 불편해서 힘드셨겠어요. 아, 네 네. 지금 허리 불편한 건 알겠는데 혹시 다리 쪽으로 뻗치는 현상도 있었어요?
+S2: 네 네. 여기가 이렇게 쫙 아프고 저기하니까.
+S1: 왼쪽 뒤로 그렇죠?
+S2: 네, 뒤로요.
+S1: 예. 어, 허리는 양쪽이 다 불편하시죠?
+S2: 양쪽은 불편한데 특히 지금은 갑자기 왼쪽이.
+S1: 왼쪽이. 예.
+S2: 갑자기 아파요.
+S1: 음. 왼쪽, 오른쪽은 경미하고 왼쪽이 심하죠?
+S2: 네 네, 예.
+S1: 어, 허리 통증이 왼, 어우 그렇네. 예. 왼쪽이 심하고 그리고 좌, 어, 좌다리 방사통이 됐어. 이제 자, 일단 한번 일어나 보시고.
+S3: 천천히 일어나셔서 허리 테스트 좀 할 건데.
+S1: 네. 앉았다 일어서고 지금 힘들다 그렇죠.
+S3: 자, 천천히 고개 숙여 보시고요.
+S1: 불편하면 스톱 하세요.
+S3: 아프면 멈추세요. 예, 이렇게 해서 괜찮아요?
+S1: 아이, 아이, 괜찮습니다.
+S3: 자, 뒤로 네, 위로 보시고 아프면 멈추시고.
+S1: 스톱 하세요.
+S2: 아, 여기까지.
+S3: 괜찮으세요?
+S1: 예. 자. 앞쪽이 좀 더 힘드세요, 뒤쪽이 좀 더 힘드세요?
+S2: 앞쪽이 있는...
+S1: 예. 어, F는 2, E는 1. 자, 일단 상당히 많이 힘들어 보이십니다. 옛날에도 이런 증상이...","S (Subjective):
+- 주호소: 목과 허리 불편감
+- 현병력: 발 쪽으로 뻗치는 방사통 호소, 허리 통증은 양측에 있으나 왼쪽이 더 심함, 허리를 앞으로 숙일 때 통증이 더 심함
+
+O (Objective):
+- 신체검진: 허리 굴곡 시 통증 유발, 방사통 관찰됨
+
+A (Assessment):
+- 제공된 정보 없음
+
+P (Plan):
+- 제공된 정보 없음","The patient has low back pain.
+
+The patient has more severe pain on the left side of the lower back than on the right side.
+
+The patient has pain radiating down the left leg.
+
+The patient experiences difficulty when standing up from a sitting position.
+
+The patient has increased pain when bending the trunk forward.
+
+The patient has increased pain when extending the trunk backward."
+"S1: 아이고, 들어오시죠. 신발 벗고, 여기 앉아 보도록 해요. 자.
+S1: 어디가 불편하세요?
+S2: 계단은 뭐 있는 예. 이제 그럴 때 이제 그런 때가 계단을 내릴 때
+S1: 어디가 불편하세요?
+S2: 뒤쪽이요.
+S1: 뒤쪽으로? 예.
+S2: 예.
+S1: 그래요, 그렇죠. 자.
+S1: 오금 쪽인데요. 자, 딱 오금의 센터입니까? 아니면 오금에서 약간 안쪽입니까, 오금에서 약간 바깥쪽입니까?
+S2: 바깥, 약간 바깥쪽.
+S1: 약간 바깥쪽. 알겠습니다.
+S1: 자. 그래서,
+S1: 보시면 누를, 누를 때,
+S2: 예.
+S1: 아무튼 뭐,
+S1: 누워서 하십니까?
+S2: 예, 누워.
+S1: 누워서.
+S2: 예.
+S1: 근데 또 엎드리면 또 약간 다를 수 있거든요. 그래서 여기가 불편하시고?
+S2: 예.
+S1: 좌측 무릎의 오금, 아, 오금 쪽. 무릎의 후 외측. 후 외측. 네.
+S1: 자, 이게 뭐 운동하다가 운동하고 나서 그렇다는데 뭐 운동하다 다친 기억은 없죠?
+S2: 예, 이제.
+S1: 다친 기억은 없는데 하고 나니까 불편하시죠?
+S2: 예.
+S1: 예. 평시에 하던 운동이십니까, 안 하던 운동이십니까?
+S2: 이런 런닝인데요.
+S1: 예.
+S2: 평소보다 빨리.
+S1: 아, 편한, 아 편한, 평상시보다 빨리?
+S2: 예, 빨리.
+S1: 혹시 평시에 또 평상시에도 서 있거나 좀 많이 걷는다든지 그런 일을 좀 반복적으로 하세요?
+S2: 예, 주로 외근, 예, 그런 일을 많이 합니다.
+S1: 예, 그러면 또 그게 또 연관이 있을 수 있고요. 갑자기 뭔가 변화를 줬기 때문에 그럴 수 있는 거고요. 지금 혹시 어, 걸어다닐 때 불편하세요?
+S2: 예, 걸어다닐 때
+S1: 걸어다닐 때 불편하시고, 혹시 앉았다 일어섰다 할 때도 불편하세요?
+S2: 최대한 안 쓰려고 그래요.
+S1: 예, 앉았다 일어섰다 할 때도 불편하죠?
+S2: 예.
+S1: 예. 그러면은 혹시 계속 좀 일하실 때마다 내가 불편함이 그냥 간헐적으로 느끼시는 겁니까, 아니면 지속적으로 느껴지시는 편입니까?
+S2: 계속 움직이는 일이다 보니까.
+S1: 예, 그러면 움직일 때마다 계속 불편하세요?
+S2: 예, 움직일 때마다요.
+S1: 아이고, 그러면 혹시 그러면 힘드시겠다. 그렇죠?
+S2: 일할 때는 최대한 안 쓰려고 하고 있습니다.
+S1: 안 쓰려고 하는데 그래도 작업이 되니까 힘들죠?
+S2: 작업을 하면.
+S1: 그렇죠. 어, 아프셔서 잠을 설치시지는 않으셨죠?
+S2: 예, 그런 건 없고요.
+S1: 예. 예. 근데 하여튼 일할 때마다 계속 좀 좀 신경 쓰이시겠습니다.
+S2: 예.
+S1: 예. 어, 혹시 과거에도 여기 뭐 불편한 적 있으셨어요?
+S2: 이번에 런닝을 시작한 지 얼마 안 돼가지고,
+S1: 예.
+S2: 너무 세게 뛰었, 뛰어 나니까 그렇더라고요.
+S1: 그렇죠. 그게
+S2: 이게 한 좀 됐는데.
+S1: 예, 예. 그게 아마 어, 그 불난 데 기름 붓듯이 아마 그런 역할을 했는 것 같습니다. 이 평시에 일하시면서 또 운동하시면서 여기도 조금 좀 평상시에 불편한 느낌 좀 없으셨어요?
+S2: 예.
+S1: 허리나,
+S2: 예.
+S1: 허리나 골반 쪽은 뭐 조금 뭐 불편함이 좀 중간중간에 있다든지.
+S2: 골반은 좀 뚝뚝 소리가 나는 것 같고.
+S1: 아, 예. 알겠습니다. 예. 우선은 한쪽 다리만 그런 걸로 봤을 때는 아마 이쪽 다리가 평상시에 많이 약해져 있을 가능성이 많고요. 거기에 관계되는 게 내가 평상시의 자세라든지, 예, 균형이 있을 가능성이 많습니다. 지금 여기가 아픈 것은 이거는 뼈가 아픈 게 아닙니다. 여기가 뒤에 있는 여기 다 근육이나 인대, 힘줄인데 여기에 뭔가 손상이 있는 것 같습니다. 큰 병만 아니라면 잘 나을 수 있는데, 혹시나 또 뭔가 병이 진행하고 있으면 좀 빨리 좀 치료하는 게 맞거든요. 여기는 제가 좀 정확하게 보기 위해서 제가 여기는 초음파를 한번 봐 드릴게요. 예. 그래서 관절 쪽에 문제가 없는지, 혹시 또 뭔가 찢어졌는지, 물이 차고 있는지 이렇게 간단하게 확인해 드리겠습니다. 엑스레이는 기본적으로,
+S2: 뼈,
+S1: 요런, 예,
+S2: 그렇죠.
+S1: 기본적으로 보는 사진이며 아마 뼈는 큰 이상은 없으실 거예요. 일단 같이 확인해서 봐 드릴게요.
+S1: 이 방으로 잠깐만 계십시오.
+S3: 이쪽으로 오세요.
+S1: 예, 오케이.
+S3: 사진 초음파 있으세요. 엎드려서 한번 합시다. 초음파는 엎드려서.
+S2: 네.
+S1: 예.
+S4: 기존 환자분,
+S3: 엎드려서 보시면 돼요.
+S1: 네.
+S3: 김주현 님 들어오실게요.
+S2: 네.
+S1: 아버님 들어오세요.
+S1: 안녕하세요.
+S5: 네.
+S1: 잘 지내셨어요?
+S5: 예.
+S1: 주말에 더,","S (Subjective):
+- 주호소: 오금 부위 통증
+- 현병력: 운동 후 발생했으며, 운동 중 다친 기억은 없음. 평소보다 빠른 속도로 걷거나 서 있는 외근 업무 후 증상 시작.
+- 증상: 걷거나 서 있을 때 통증이 있으며, 앉아 있으면 간헐적으로 불편함. 움직일 때마다 지속적으로 통증이 있으며, 통증을 피하기 위해 다리를 끌고 걷게 됨.
+- 과거력: 해당 부위 통증 경험 없음.
+- 관련 증상: 허리나 골반 쪽으로 불편함이 있었음.
+
+O (Objective):
+- 신체검진: 오금 부위 압통.
+- 관절 촉진: 관절 내 문제 소견 없음.
+
+A (Assessment):
+- 뼈의 문제는 아닐 것으로 추정됨.
+- 근육, 인대, 심지어의 문제일 가능성.
+- 평양시에 약해져 있을 가능성 및 자세나 균형의 문제 의심.
+
+P (Plan):
+- 초음파 검사 예정.
+- X-ray 촬영 예정.
+- 검사 후 결과 설명 예정.","The patient has pain in the posterior lateral aspect of the left knee.  
+The patient feels discomfort in the back of the knee when going down stairs.  
+The patient feels discomfort in the knee when walking.  
+The patient feels discomfort in the knee when standing up from a sitting position.  
+The patient experiences knee discomfort whenever they move during work.  
+The patient tries to avoid using the affected leg while working.  
+The patient’s knee pain does not disturb their sleep.  
+The patient started running recently.  
+The patient ran faster than usual compared to their normal pace.  
+The patient’s knee discomfort began after running too intensely.  
+The patient has a job that mainly involves outside work and a lot of standing or walking.  
+The patient reports that their pelvis makes a cracking sound.  
+The doctor suspects that the painful area behind the knee involves muscles, ligaments, or tendons rather than bone.  
+The doctor plans to perform an ultrasound examination of the knee.  
+The doctor plans to check for joint problems, tears, or fluid accumulation in the knee with ultrasound.  
+The doctor plans to review an X-ray image of the patient’s knee."
+"S2: 오세요.
+S1: 네.
+S1: 괜찮아요. 앞에 앉아보세요. 음, 안녕하세요. 예. 앉으십시오. 네.
+S1: 손가락 쪽이 안 좋으시다고요?
+S1: 왼손이 그러세요?
+S2: 여기가 좀 부었잖아요?
+S1: 네.
+S2: 여기. 예. 여기가.
+S1: 새끼손가락이 약간 그렇네요.
+S2: 여긴 괜찮아요.
+S1: 괜찮으세요?
+S2: 여기가.
+S1: 예.
+S1: 아프세요? 마디가 아프세요?
+S2: 예, 마디가 좀 아프고. 예. 여기는 오른쪽 손목.
+S1: 예.
+S2: 여기가 붓고 주사 맞은 이후에 좀 그런 거 같기도 하고.
+S1: 손가락 쪽이 더 불편하세요? 손목이 더 불편하세요?
+S2: 평상시는 여기가 아프고, 이제 뭐 이렇게 골프를 하면은 여기가 아프고.
+S1: 아, 골프 치시는구나.
+S2: 네네. 근데 한 번도 아픈 적이 없었는데 이번에 좀 그렇고요.
+S1: 예. 레프트 다섯 번째 핑거, PIP. 그리고 오른쪽 손목은 어디가 아프세요? 여기가 아프세요? 여기? 손등? 아니면 엄지손가락?
+S2: 아니 그냥 딱히는 없고요. 크게 아프진 않은데 그래도 이렇게 좀 약간의 불편함?
+S1: 손목 불편함이 다 불편하다? 아니면 특정, 손등, 손바닥, 엄지손가락 이쪽?
+S2: 그런 건 없어요.
+S1: 그런 건 없다.
+S1: 어, 알겠습니다. JT는 그렇게 심하진 않네. 자, 일단 하여튼 여기가 심하네요. 한, 한 한 달 되셨다고요?
+S2: 글쎄요. 이게 오래된 건지 잘 모르겠는데 아픈지는 좀 오래 정도 됐죠.
+S1: 자, 가만히 있을 때도 불편하세요? 지금 가만있잖아요.
+S2: 괜찮아요.
+S1: 움직일 때만 불편하죠?
+S2: 네, 만지면 약간 좀 두둑두둑 이런 것들은.
+S1: 그립 잡을 때 제일 불편하세요?
+S2: 어, 뭐 그렇게.
+S1: 꺾을 때 제일 불편함이 있으세요?
+S2: 요렇게 하면은, 요렇게.
+S1: 그러니까 그렇게 잡을 일은 뭐였을 때…
+S2: 그렇게 잡을 일은 그립 잡을 때가 제일 많으실 것 같은데, 현재.
+S1: 골프는 많이 그렇게 자주 많이 치진 않아요.
+S2: 그러진 않으세요?
+S1: 그러면은 그냥 평상시에 가볍게 이렇게 잡을 때도 지금 불편하다는…
+S2: 네, 약간 좀 불편해요. 네.
+S1: 예.
+S2: 예, 이렇게.
+S1: 근데 대부분의 생활은 가볍게 잡는 동작이 많은데 그러면 대부분 일상적인 생활에서 좀 불편하시겠네요.
+S2: 근데 못 느꼈는데요, 크게.
+S1: 예, 예. 아, 알겠습니다. 그러면은 다친 기억도 없으실 거고.
+S2: 그렇죠.
+S1: 왼손잡이세요?
+S2: 그냥 오른손잡이.
+S1: 오른손잡이죠? 예. 그러면은 나도 모르게 뭔가 왼손에 과다하게 뭔가 자극받았을 수도 있겠네요.
+S2: 네네.
+S1: 손을 양쪽 찍어서 비교해 보는 게 좋을 것 같고, 손이 그렇다고 봤을 때는 잠깐만요.
+S1: 잠깐만요. 자.
+S1: 양쪽에 느낌이 같으세요? 조금 차이가 있으세요?
+S2: 비슷하세요.
+S1: 비슷하다.
+S1: 여기 약간 긴장돼 있네.
+S1: 목은 앞쪽으로 약간 빠진 스타일이거든요. 예.
+S1: 아프진 않으시죠?
+S2: 네.
+S1: 근데 어깨가 구부정하다는 이야기 많이 좀 들으셨을 것 같아요.
+S2: 못 들어봤어요.
+S1: 못 들으셨어요? 예.
+S1: 자, 우선은 손가락의 문제는 첫 번째 맞지만은 내가 똑같은 손을 하는데도 부위가 조금 다르고요. 내가 특별하게 손을 많이 쓰는 일을 하시는 건 아닌데 편측으로 많이 오는 걸로 봤을 때는 뭔가 편측이 조금 더 빨리 나빠지는 이런 요인이 있는데 제일 많은 게 우리 몸의 균형 상태가 무너져 있는 경우가 제일 많거든요. 예. 특별하게 치료받아보신 적은 없죠?
+S2: 네, 없어요.
+S1: 예. 제가 일단 기본 사진만 먼저 좀 체크 한번 해 보겠습니다.
+S3: 이쪽으로 오시겠어요?
+S1: 예.
+S3: 손하고 손목 같이 한 장 찍겠습니다. 예.
+S1: 네, 리스트 포함해서 찍을 거예요.
+S3: 예, 리스트 포함.
+S1: 피티 에이저. 그리고 피티 레이저고요. 예. 약 같고. 어, 여긴데 핑거 스플린트 아프다 그랬죠?
+S3: 네. 일반 수지부 아니면은
+S1: 음, 그냥 수지부. 수지부하고요, 충격파 해봅시다.
+S3: 네.","S (Subjective):
+- 주호소: 손목 및 손가락 통증
+- 현병력: 약 1개월 전부터 증상 시작, 가만히 있을 때도 불편하며 손목이 더 불편함, 손을 꽉 쥐면 통증이 있음, 평상시 가볍게 잡는 동작에도 불편함
+- 과거력: 해당 증상으로 치료받은 적 없음
+- 사회력: 오른손잡이, 손을 많이 쓰는 일은 하지 않음
+- 기타: 어깨가 굽은 자세라는 이야기를 들은 적이 있음
+
+O (Objective):
+- 신체검진:
+    - 좌측 손목 부종 관찰됨
+    - 좌측 다섯 번째 손가락 PIP 관절 압통(+)
+    - 우측 손목 압통(+)
+    - 양측 손목 비교 시 약간의 차이 관찰됨
+    - 어깨가 앞으로 빠진 자세 관찰됨
+
+A (Assessment):
+- 제공된 정보 없음
+
+P (Plan):
+- 기본 X-ray 촬영 예정
+- PT(물리치료) 및 레이저 치료 예정
+- 충격파 치료 예정
+- 약물 처방 예정","The patient has pain and swelling in the left fifth finger proximal interphalangeal joint.  
+The patient reports that the right wrist is somewhat uncomfortable but not severely painful.  
+The patient reports that the left fifth finger pain has been present for a relatively long time.  
+The patient reports that the left fifth finger is not painful at rest.  
+The patient reports that the left fifth finger is painful or uncomfortable with movement.  
+The patient reports a cracking sensation in the left fifth finger when it is touched.  
+The patient reports that gripping, such as when holding a golf club, causes the most discomfort in the left fifth finger.  
+The patient reports that bending the left fifth finger in a certain way causes discomfort.  
+The patient reports mild discomfort in the left fifth finger even when lightly gripping objects in daily life.  
+The patient reports that the right wrist becomes painful when playing golf.  
+The patient reports that there was no previous pain during golf before the current episode.  
+The patient denies any specific history of trauma to the hand.  
+The patient is right-handed.  
+The patient has not previously received any special treatment for this problem.  
+The clinician notes that the patient’s neck posture is slightly forward.  
+The clinician notes that the patient’s shoulders appear somewhat stooped.  
+The clinician plans to obtain X-ray images of both hands and wrists for comparison.  
+The clinician plans to apply a finger splint to the painful finger.  
+The clinician plans to perform extracorporeal shock wave therapy."
+"S1: 괜찮으세요?
+S2: 괜찮으세요?
+S1: 네, 괜찮으세요?
+S2: 네.
+S1: 저기 괜찮으시고요?
+S1: 저기는요?
+S2: 거기도 괜찮아요.
+S1: 거기도 괜찮고.
+S1: 여기 불편하고 지금 지금 이쪽이 제일 불편하세요?
+S2: 네.
+S1: 그렇죠. 잠깐만요. 여기도 이렇게 처음 아프죠?
+S2: 네.
+S1: 오 엄청 많이 긴장됐네.
+S1: 스테이, 스테이, 스테이습니다.
+S1: 지금 그래도 요 부위에서 제일 제일 많이 불편한 부위 다시 한번 짚어봐.
+S2: 여기요.
+S1: 거기가 불편하시죠?
+S2: 네.
+S1: 저희가 제일 불편하시고. 어 기울기 안심하시고.
+S1: 이쪽에는 괜찮죠?
+S2: 네.
+S1: 그래도 여기 딱 좀 그렇죠.
+S1: 비우기 ICT를 하는 어 L L LVC라고. L V D 2 3 4.
+S1: 이걸 R.N.
+S1: 엔드 R.N이 아니고 엔드 유치증이라고.
+S1: 지금 엄청 많이. 목도 앞쪽으로 되게 많이 빠진 거 아시죠?
+S2: 어? 네?
+S1: 목이 앞쪽으로 많이 빠진 거 아시죠?
+S2: 네.
+S1: 두통 없으세요?
+S2: 없어요.
+S1: 두통은 없으시고. 예.
+S1: 지금 어, 지금 이 정도면은 조금 좀 일하시기나 일상적인 생활할 때도 계속 좀 지금 불편함이 느껴지시겠다. 그죠?
+S2: 네.
+S1: 네. 아이고. 혹시 많이 불편하셔서 잠을 좀 설치진 않으셨어요?
+S2: 이렇게 아픈 거는 갑자기 심해진 거예요.
+S1: 그렇죠. 갑자기 심해졌죠? 예.
+S1: 저 그 어제부터 심해졌어요?
+S2: 방금 전에 주사치료 받고.
+S1: 조금 전에.
+S2: 네.
+S1: 그렇죠. 확 심해졌죠. 아이고, 이 정도면 오늘 오늘 주무시는 데 굉장히 힘들어지시겠다. 그렇죠? 예. 자 일단 제가 상태를 보기 위해서 기본 사진을 좀 찍어서 보는데요. 지금 목등에 문제가 있거든요? 지금 혹시 어깨까지 있는지 제가 상태를 잠시 한번 볼게요. 자 위로 만세 한번 해볼게요. 만세. 쭉. 양쪽에 불편한 느낌이 있으세요? 차이 있으세요? 괜찮죠? 자.
+S1: 이렇게 팔꿈치 보세요. 불편함이 있으세요? 양쪽 괜찮죠? 자.
+S1: 지금 어깨를 한번 체크해 보겠습니다. 선생님. 끝까지 쭉 한번 올려보세요. 끝까지 쭉. 불편하세요?
+S2: 아 괜찮아요.
+S1: 자, 이것도 끝까지 한번 올려보세요.
+S2: 어, 거기가 더 당겨요.
+S1: 이쪽은 더 안 올라오네요?
+S1: 자 힘 빼보세요. 다시 한번 올려보세요. 자, 이거는 이까지 올라오는 게 정상인데. 자, 이거는 자 끝까지 한번 올려보세요.
+S2: 어!
+S1: 이거 지금 굳었네요?
+S2: 네.
+S1: 예.
+S1: 나도 모르는 사이에 이쪽 팔이 지금 병이 오고 있네요. 지금 굳었어요 이게.
+S2: 아.
+S1: 예. 모르셨죠? 일단 그래서 같이 사진 찍어서 확인 할게요.
+S1: C-Spine Both Shoulder 검사.
+S1: 예, 일단 사진 찍어서 확인합시다.
+S2: 이쪽으로 오세요.","S (Subjective):
+- 주호소: 목 통증
+- 현병력: 오늘 아침부터 갑자기 심해짐, 평소에도 불편함이 있었음
+- 악화요인: 손을 들 때 통증이 더 확신됨
+- 통증 부위: 목 뒤쪽이 가장 불편하며, 좌측이 더 심함
+- 동반증상: 두통 없음
+- 과거력: 목이 앞쪽으로 빠진 자세
+
+O (Objective):
+- 신체검진: 목 뒤쪽 압통(+)
+- 운동 범위 검사: 목을 뒤로 젖힐 때 통증이 발생하며, 좌측으로 더 올라오는 증상 관찰됨
+
+A (Assessment):
+- 제공된 정보 없음
+
+P (Plan):
+- 기본 사진 촬영 예정
+- 상태 확인 후 치료 계획 논의 예정","The patient reports pain that is worst in a specific area examined by the doctor.  
+The patient reports that the current pain suddenly became severe.  
+The patient reports that the pain suddenly became much worse after receiving an injection treatment shortly before the consultation.  
+The doctor states that the patient’s neck has moved forward a lot.  
+The patient denies having a headache.  
+The doctor states that the patient is likely to feel discomfort during work and daily activities due to the current condition.  
+The doctor notes that one shoulder is more pulled or tight when the arm is raised.  
+The doctor notes that one arm does not raise as high as normal.  
+The doctor states that one shoulder is stiff or frozen.  
+The doctor states that the patient’s arm has developed disease and has become stiff without the patient realizing it.  
+The doctor plans to obtain imaging of the cervical spine and both shoulders."
+"S1: 부위가 중요하기 때문에 아픈 부위를 다시 한번만 살짝만 짚어보시래요. 내가 여기가 제일 불편합니다.
+S2: 지금 지금은 안 아픈데, 예. 이렇게 그 라인이, 이렇게 어떨땐 그렇죠. 숙이면 요쪽까지 다 오시고.
+S1: 요쪽까지 그렇게 하시죠. 예. 제가 우선 살짝 눌러볼게요. 자, 예, 조금 불편하죠? 여기가 불편하시고, 여기도 불편하시죠? 예, 여기 불편하시고, LN, LN2S에서 LNS, NS 그리고 C5, 6, 7이라 그러는데, 제가 그냥 그렇게 폼만 해볼게요. 자, 그렇게 계십시오. 그렇게 눌러서 불편하면 다 하십시오. 어때요? 불편하면 다 하세요. 아래쪽은 괜찮죠?
+S2: 네.
+S1: 예, 아래쪽은 괜찮은데 여기 좀 불편하시죠?
+S2: 네.
+S1: 3, 4, 5.
+S2: 네.
+S1: 3, 4, 5. 자, 잠깐만요. 자, 제가 목 테스트 한번 합니다. 오른쪽은 정상이니까 아무렇지도 않습니다. 자, 오른쪽으로, 오른쪽으로, 그냥 요렇게 살짝 한번, 그냥 여기, 여기 살짝 당기거든. 그렇죠? 자, 목이, 목이 뒤로 갑니다. 요렇게 뒤로 살짝 갑니다. 이쪽 라인은 뭔가 지긋한 느낌 하나도 없죠?
+S2: 네.
+S1: 자, 제가 마지막으로 목을 누릅니다. 이렇게. 이쪽이 아무렇지도 않죠? 이게 정상입니다. 자, 목 반대쪽으로, 똑같은 동작 할 겁니다. 자, 목이 왼쪽으로 갑니다. 자, 왼쪽으로 살짝 갑니다.
+S2: 괜찮은데,
+S1: 자, 이쪽은 이쪽이 지긋한 느낌 있으세요?
+S2: 이쪽으로 오죠.
+S1: 그렇죠, 이쪽으로. 자, 이렇게. 이쪽으로 뭔가 지긋하죠?
+S2: 네.
+S1: 자, 목이 조금, 조금 더 뒤로 갑니다. 자, 목이 조금 더 뒤로 갑니다. 잠깐만요. 자, 힘을 쭉 빼시고. 뒤로 갑니다. 그러면 여기가 조금 더 느낌이 세지죠?
+S2: 네.
+S1: 자, 여기만 그러면 또 날개 쪽으로 안 내려가죠?
+S2: 뒤쪽부터 살짝.
+S1: 여기도 살짝 내려갔어요. C5. 자, 그러면 이쪽으로 제가 목을 마지막으로 살짝 누르면 이쪽까지 조금 더 내려갈 수 있습니다. 자, 살짝 누릅니다. 이러하니까 어때요? 이쪽까지 살짝 더 불편한 느낌...
+S2: 전체적으로 있고, 이쪽은.
+S1: 여기가 불편하셨고, 자, 근데 아까 전에 목을 요렇게 살짝 비틀어보니까 여기하고 이 아래쪽까지 살짝 내려가죠?
+S2: 예.
+S1: 예, 오케이. 이쪽으로는 안 내려가죠?
+S2: 네.
+S1: 예. 목도 안 잡히고 확실하게 있네요.
+S2: 네.
+S1: 예. 혹시 이 불편한 게 생활하실 때나 일하실 때 조금 좀 지속적으로 느껴지세요? 좀 간헐적으로 느껴지세요?
+S2: 그렇진 않아요. 아, 그러니까 집에서 이제 방이 좀 어둡다. 그러면 좀 이제 불편한 게 좀 같이 오고.
+S1: 그리고.
+S2: 잠을 조금 잘 못 자면은 계속...
+S1: 불편하죠.
+S2: 예.
+S1: 예. 그러신 거 같습니다.
+S2: 정도 수준은 아니었고.
+S1: 예, 알겠습니다. 제가 일단 기본 사진만 좀 찍어서 확인하고 설명드리겠습니다. 이 방으로 오실래요?
+S2: 예.","S (Subjective):
+- 주호소: 목과 어깨 부위의 불편감
+- 현병력: 운동 시 통증이 발생하며, 밤에 잠을 자고 일어나면 불편함이 지속됨
+- 과거력: 해당 증상으로 병원을 방문한 적이 없음
+
+O (Objective):
+- 신체검진:
+    - 경추부 압통: LNES, LLS, LUB 부위
+    - 경추부 운동 범위 검사:
+        - 목을 뒤로 젖힐 때 통증이 발생함
+        - 목을 왼쪽으로 돌릴 때 질퉁한 느낌이 있으며, 통증이 발생함
+        - 목을 오른쪽으로 돌릴 때 통증이 발생하지 않음
+        - 목을 앞으로 숙일 때 통증이 발생함
+        - 목을 삐틀고 압박 시 통증이 발생함
+
+A (Assessment):
+- 제공된 정보 없음
+
+P (Plan):
+- 기본 X-ray 촬영 예정
+- 검사 결과 확인 후 설명 예정","The patient reports discomfort in a specific area of the neck and upper back.  
+The patient experiences a dull discomfort along a line on one side that can extend when bending forward.  
+The patient reports that the lower part of the examined area feels okay.  
+The patient reports discomfort when certain points around the C5 region are pressed.  
+The patient feels a dull discomfort on one side of the neck when the neck is moved to the left and slightly extended.  
+The patient reports that the discomfort can extend slightly toward the shoulder blade area.  
+The patient reports that the discomfort does not radiate in the opposite direction.  
+The patient reports that the discomfort is not continuously present in daily life or work.  
+The patient reports that the discomfort is associated with being in a dark room at home.  
+The patient reports that the discomfort worsens when sleep is poor."
+"S1: 아래 얇지야. 그렇지.
+S2: 음.
+S1: 그래서 발 모양이... 아, 지금 확실히 디디니까 좀 더 있네요.
+S2: 예.
+S1: 일단 살집만 조금 더 잘 드러나는데. 됐고요.
+S2: 네.
+S1: 왼쪽은 안 불편하시죠?
+S2: 왼쪽 괜찮아요.
+S1: 자, 됐습니다.
+S2: 네.
+S1: 이제 신발 신으시고요. 걷거나 좀 한자세로 좀 주로 많이 서 있는 편이에요?
+S2: 어, 많이 앉아 있기도 하고, 좀 걷기는 많이 안 걷는 편이에요.
+S1: 예. 어, 걷거나 앉아 계실 때 발 말고 골반이나 허리도 조금
+S2: 안 좋기는 해요.
+S1: 좀 불편하셨죠?
+S2: 예, 허리가 안 좋아요.
+S1: 예. 한쪽만 불편한 걸로 봤을 때는 뭔가 몸이 이쪽으로 쏠려 있을 가능성이 있거든요. 예. 뒤로 살짝만 돌아보실래요? 아니, 그냥 그대로. 제가 살짝 만집니다.
+S2: 네.
+S1: 양쪽에 차이가 조금 있고, 골반이 뒤틀렸네요. 예.
+S2: 네.
+S1: 됐어요.","S (Subjective):
+- 주호소: 발의 불편감
+- 현병력: 발이 쏠려있다고 느낌
+- 사회력: 오래 서 있는 편, 많이 앉아있기도 함, 아끼도 많이 함
+- 동반증상: 허리도 안 좋음
+
+O (Objective):
+- 신체검진: 아치가 약간 무너져 있음
+- 신체검진: 한쪽으로 쏠린 자세 관찰됨
+- 신체검진: 뒤로 살짝 안 돌아보시는 경향 관찰됨
+
+A (Assessment):
+- 제공된 정보 없음
+
+P (Plan):
+- 제공된 정보 없음","The patient does not have discomfort in the left foot.
+
+The patient tends not to walk much.
+
+The patient spends a lot of time sitting.
+
+The patient reports that the lower back is not good.
+
+The patient reports discomfort in the lower back.
+
+The clinician observed that the patient's pelvis is twisted."
+"S1: 음, 안녕하세요. 예. 허리가 불편하시다 그랬죠? 예. 물건 드시고 난 다음에 그러셨는데, 그 전에도 혹시 가끔 앉아 계시거나 생활하시면서 조금씩 불편한 느낌은 전혀 없으셨어요?
+S2: 요렇게까지는 없었거든요.
+S1: 예, 조금씩은 아마 불편하셨을 거예요. 예. 그래도 그 예를 들어서 내가 그냥 아, 좀 편안하지 못하네. 약간씩 생활하기에. 그렇게 느끼신 게 한 혹시 한 3개월 전부터 조금씩 있으셨어요?
+S2: 어 그냥 그 늘상 가끔씩 그냥 조금 뻐근한 편?
+S1: 아주 약간.
+S2: 약간 뭐 물건 들거나 안 들거나 일어날 때 이렇... 내 생활 불편함은 없었고.
+S1: 그 기간이 혹시 한 3개월 정도 되셨어요? 느끼셨어요?
+S2: 그 정도는 안 될 것 같아요.
+S1: 그럼 한 한두 달 되셨어요? 한 그럼 한 두 달 정도 되셨겠네요.
+S2: 한 이렇게 조금 통증이 있다라고 하면 한 2주 정도 된 것 같고.
+S1: 네.
+S2: 네, 월요일날 갑자기 이제 승용차 타는데 그때부터 좀 찌릿하더니 탈 때 그게 제일 아프고 그리고 또 자고 일어났을 때 그럴 때라던가 아프고. 일상적으로 걸어다니거나 이럴 때는 안 아픈데, 숙이거나 이럴 때 좀...
+S1: 그럴 때 불편하시죠? 예. 그래요. 자, 불편하신 지 좀 한번...
+S2: 여기가 불편한데 여기가 아프고 또 이제 이쪽은 좀 통증이...
+S1: 잠깐만요. 예. 주로 왼쪽을 짚으셨는데. 중간에도 불편하세요?
+S2: 네, 지금 중간.
+S1: 중간에도 아프시고? 오른쪽은 괜찮으시고요?
+S2: 오른쪽은 좀 덜한데. 예. 어 상대적으로 조금 덜한데 아예 편하지는 않은... 예.
+S1: 우선은 여기 중간에 허리 중간에 양쪽에 걸쳐서 불편하시고 여기도 불편하시고. 여기 한 번만 더 한번 짚어 보세요. 불편한데.
+S2: 여기 뼈 쪽이 좀 누르면 좀 아프고.
+S1: 여기 불편하시고. 잠깐만요. 여기 누르면 되게 아프시죠? 네. 여기는... 여기는 안 아프시죠?
+S2: 네.
+S1: 차라리 여기는?
+S2: 거기가...
+S1: 여기도 불편하시고?
+S2: 네.
+S1: 여기는?
+S2: 누렀을 때 아프지는 않아요. 그냥 뻐근한 느낌.
+S1: 그냥 뻐근한 느낌... 여기만?
+S2: 여기만 누르면 좀...
+S1: 여기는 괜찮으시고요? 네. 그럼 여기 불편하신 거죠?
+S2: 네, 그렇죠. 네.
+S1: 그래요. 아, 그런데 양쪽에 불편한데 그래도 왼쪽이 조금 더 자극이 많이 오죠? 네. 예. 자, 일어서 보실래요?
+S3: 천천히 일어나 보시고요.
+S1: 자, 테스트 하는데요. 무릎은 굽히지 마시고요. 허리를 앞으로 숙이는데 불편하면 스톱 하세요. 앞으로 쭉 내려갔죠? 쭉... 불편하시죠? 자, 뒤로... 자... 뒤로가 조금 더 시원하실 겁니다. 자, 어떻... 자, 어떻세요? 뒤로는 괜찮... 뒤로는 괜찮으세요, 차라리? 앞쪽이 조금 더 불편하다 그렇죠? 알겠습니다. 앉으십시오. 주로 좀 한 자세, 주로 뭐 앉아 있거나 서 있거나 이렇게 한 자세로 좀 생활이 많으세요, 패턴이?
+S2: 네, 아무래도 운전을 좀 많이 하고 있어서. 아...
+S1: 아, 운전을 좀 직업적으로 많이 하시는 거죠?
+S2: 네, 회사에서 거래처를 가... 그래서 운전도 많이 하고... 그렇죠. 앉아 있는 시간이 좀 많기는 하죠.
+S1: 예. 그 운전 자세가 굉장히 허리하고 골반에 자극을 많이 줍니다. 예. 어, 혹시 지금 운전하실 때 운전하실 때마다 불편함이 좀 계속 좀 지속적으로 느껴지세요? 아니면 그렇게 그냥 가끔 불편함이 느껴지세요?
+S2: 그냥 일단 앉아 있는 자세가 조금 불편하... 좀 뻐근하...
+S1: 앉아 있으면 계속 뻐근함이 느껴지시죠?
+S2: 요거보단 좀 운전할 때가 다리가 아무래도 좀 펴지고 하니까. 그 자세 때문인 건지. 그냥 앉아 있는 거보단 운전석에 앉아 있을 때가 조금 더 불편해요.
+S1: 그렇죠. 네. 당연히 그렇습니다. 예, 운전할 때 자세가 그렇습니다. 예. 그럼 이제 운전하실 때마다 계속 계속 좀 뻐근함이 이제 느껴지시죠?
+S2: 어제 오전에 뻐근하다가 오후엔 괜찮았는데 또 오늘 오전에 좀...
+S1: 계속 불편하시죠? 예. 오프로스 뭐 예. 어, 우선은 혹시 허리나 골반 때문에 따로 검사나 치료하신 적은 있으세요?
+S2: 아니요, 없어요.
+S1: 없으세요? 예. 어제보다 오늘이 조금 더 불편하신 거 봤을 때는 내일이 조금 더 불편해질 수도 있겠네요. 일단 제가 기본 사진 한번 찍어보겠습니다.
+S3: 이쪽으로 오시겠어요? 밖에 잠시만 앉아계세요. 박사님 오셨어요?
+S1: 좌우 허리 하고... 양 골반... 양 골반은... 양 골반은... 이, 어, 이, 어, I... I... 소문자 I... 예, 오케이.
+S3: 박사님 대기실에서 보실까요, 원장님? 네.
+S1: 예.
+S3: 네. 선생님 저희 사진 찍겠습니다.
+S1: 봅시다.
+S3: 이경민 님.
+S1: 지금 참 오고 오셨겠네요. 네.
+S2: 예.
+S1: 참 오고 오시면서 많이 힘들지 않으셨습니까?
+S2: 그렇게 힘들진 않은데 탈 때가 제일 힘들어요.
+S1: 예. 자. 이제 두 가지가 있는데요. 자, 첫 번째로는 관절과 근육 손상이 있고요. 이 디스크의 내부 손상도 같이 있습니다. 디스크 내부 손상은 병이 오래됐습니다. 사진 보니까. 예. 그동안 큰 통증이 없어서 내가 병이 없었다고 생각하시면 되겠습니다. 관리하시면은 충분히 원상복귀 가능한데요. 관리 안 하시면 앞으로 더 큰 통증이나 이런 게 찾아올 겁니다. 예. 자. 우선은 지금 현재는 제일 큰 원인은 뭐냐? 자세입니다. 어떤 자세냐? 지금 본인이 앉아도 조금 허리가 좀 구부정하시죠? 예. 이런, 근데 구부정한 자세는 허리에 굉장히 안 좋습니다. 원래 허리는 보세요. 뒤로 이렇게 부드럽게 휘어 있거든요. 근데 허리를 구부정하면 내가 허리를 반복적으로 자꾸 꺾는 거하고 똑같습니다. 계속. 한 번이 아니고 계속 수십 번, 수백 번. 그리고 운전을 하기 하게 되면 알다시피 좌석 자체가 이렇게 꺾여 있거든요. 네. 이거 무릎은 무릎은 위로 올라가고. 그러면은 허리가 내가 펼려고 해도 자연스럽게 딱 앉아도 허리가 굽혀지는 자세가 됩니다. 네. 그래서 우리가 굽혀지는 자세에서 또 운전을 하면은 또 나도 모르게 긴장하면서 더 굽히게 되거든요. 네. 이게 허리에 굉장히 안 좋은 영향을 줍니다. 바로 허리 관절하고 디스크 가는 가장 나쁜 자세거든요. 근데 조금 조금씩 누적되기 때문에 잘 모릅니다. 그래서 우리가 이 이겨낼 수 있는 어, 탄성의 한도라고 하는데요. 우리 관절이나 근육이 어느 정도 나쁜 자세가 오더라도 이겨내는 능력은 당연히 있습니다. 모든 관절이나 허리도 움직이는 관절이잖아요. 이 범위를 넘어서게 되는데, 이게 가장 대표적으로 제가 꾸부정한 자세가 지속이 된다고 그렇죠? 넘어서게 되면은 아주 작은 자극에도 이 관절이나 근육은 거기에 반응을 하는데, 예를 들어서 내가 물건을 들다가 삐끗하셨잖아요. 내가 이겨낼 수 있는 범위의 한도를 한도나 이제 한도를 넘어섰다는 이야기를 하는 거고요. 심한 사람은 샤워하다가 허리 숙이는데 뚜껑 똑같이 이렇게 옵니다. 근데 나는 어제까지 멀쩡했습니다. 대부분 이렇게 말씀하시거든요. 절대 그렇게 건강한 허리는 될 수가 없습니다. 자, 우선은 그래서 결론은 이 결론부터 하면은 내가 오랜 시간에 걸쳐서 허리를 구부정한 자세. 그러니까 관절과 디스크에 굉장히 압박을 주면서 약해졌고, 이게 한계점 이 한도를 넘어서는 자극, 아마 이게 아마 물건을 드는 자극이 될 수 있습니다. 뭐 예를 들어서 튼튼하다면은 쇳덩이를 들어도 아무렇지 않습니다. 근데 약해져 있는 상태는 물건이 아니고 그냥 제가 허리만 간단하게 숙여도 뚜끔해서 이렇게 오는 사람도 있거든요. 그래서 지금은 관절과 근육이 약한 상태에서 아주 미세 손상을 입었고, 미세 손상 때문에 염증이 있으니까 앞으로 숙이니까 더 많이 뻐근하고 불편한 겁니다. 근데 사진에서 보면은 사진인데요. 몸이 한쪽으로 약간 쏠리면서 특히 보시면은 아래쪽에 보세요. 아래쪽에 원래 척추 사이에 디스크가 있는 공간인데요. 여기 되게 좁죠? 그래서 원래 척추 디스크를 가지고 있습니다. 디스크가. 디스크가 눌려서 있는 상태에서 또 뭔가 물건을 들면서 오니까 안에 또 이 어, 디스크에도 미세 손상이 같이 가는 겁니다. 그러면은 이런 디스크 손상 부위에 염증 물질이 자극받으면서 지금 허리가 아프고 양쪽 골반까지 좀 퍼졌는데요. 아직 신경 뿌리까지는 접근 안 했습니다. 나중에 신경 뿌리가 만약에 어 자극받으면은 엉덩이나 다리가 당기고 저리기 시작합니다. 이건 아주 나쁜 신호입니다. 예. 그래서 관리 잘하시면은 충분히 그런 데까지 방지가 되고 관리 안 하시면 다음에는 그런 수순을 기다리고 있다는 이야기를 합니다. 자. 그래서 우선은 제일 중요한 이야기는 뭐냐면 자세라는 이야기를 한 번 더 해 줍니다. 그래서 힘들지만은 요렇게 항상 펴는 자세 하시고요. 지금은 아프기 때문에 어 우선은 또 염증을 잡아서 더 나쁘지 않도록 하는 게 1번이거든요. 치료는 여러 가지 방법인데 특별하게 치료하신 적이 없으시잖아요. 그래서 오늘은 좀 심플한 방법을 한번 치료해 보라고 권해 드리고 싶습니다. 우선은 약 먹고 물리 치료는 기본 중의 기본이거든요. 예, 이걸 하는데 이 이제 중요한 거는 이 안에 관절이나 디스크 주변에 이게 주변에 염증은 위치가 깊어서 잡기에는 조금 부족함을 느끼실 수도 있습니다. 그래서 이때 이렇게 심부 쪽에 생긴 염증을 처음 잡는 처음 잡을 때 하는 또 또 이 많이 하는 치료 중에 충격파라는 치료가 있습니다. 들어 보셨죠? 예. 충격파라는 이 기존의 치료하는 달리 심부 쪽에 음파를 이렇게 음파가 가서 통증을 완화시켜 주기 때문에 처음에 하시는 분들은 큰 통증 없이 부담감 없이 치료할 수 있는 치료고 보통은 일주일에 두 번에서 한 4, 5회 정도 하면은 꽤 많이 좋아진다고 하거든요. 그래서 우선 요렇게 가볍게 먼저 치료 한번 해 보십시오. 예. 제가 한 번만 더 강조하자면은 이게 제일 큰 원인이거든요. 그래서 운전하실 때나 평상시에도 그렇게 쭉 펴는 배에 약간 힘을 주는 게 좋습니다. 물론 지금 아프셔서 힘든데요. 자세에서 요렇게 하면은 더 급격하게 나빠지지는 않을 겁니다. 예. 그래서 요렇게 또 경과를 보면서 하고 만약에 조금 경과가 내가 일을 하시기 때문에 특히 운전을 하시기 때문에 사실은 조금 더 나빠질 가능성도 있거든요. 경과를 보면서 만약에 조금 못 하시면 그때 또 다른 추가적인 방법을 또 제가 설명을 해 드리겠습니다. 네, 알겠습니다.
+S2: 네, 알겠습니다.
+S1: 예, 치료 한번 하겠습니다.
+S2: 네, 감사합니다.
+S1: 예.
+S3: 이쪽으로 오세요.
+S1: 완료할게요. 예.","S (Subjective):
+- 주호소: 허리 및 골반 불편감
+- 현병력: 2주 전부터 증상 시작, 월요일 물건을 들면서 발생한 통증 후 악화됨, 아침에 일어날 때 통증이 있으며, 걷거나 숙일 때 불편함
+- 과거력: 허리나 골반 관련 검사나 치료 이력 없음
+- 사회력: 운전 직업, 장시간 운전 자세로 인해 허리가 굽혀지는 자세를 유지함
+
+O (Objective):
+- 신체검진: 허리 중앙 및 양측, 특히 좌측에 압통(+)
+- 허리 굴곡 및 신전 검사: 통증 유발
+- 허리 좌우 굴곡 검사: 우측이 더 제한적임
+- X-ray 소견: 관절 및 근육 손상, 디스크 내부 손상, 척추 간 공간 좁음, 몸이 한쪽으로 약간 회전한 자세 관찰됨
+
+A (Assessment):
+- 관절 및 근육 손상
+- 디스크 내부 손상
+- 자세로 인한 허리 관절 및 디스크 압박
+
+P (Plan):
+- 약물 치료
+- 물리치료
+- 충격파 치료 (주 2회, 총 4-5회)
+- 환자 교육: 운전 시 허리를 뒤로 젖히는 자세를 유지하고, 턱을 당기는 자세를 권장함.","The patient has had mild low back discomfort for less than two months.  
+The patient has experienced more definite low back pain for about two weeks.  
+The patient’s low back pain worsened suddenly while getting into a passenger car.  
+The patient’s low back pain is worst when getting into the car.  
+The patient’s low back pain is present when getting up after sleep.  
+The patient does not have low back pain while walking in daily life.  
+The patient’s low back pain is provoked by bending forward.  
+The patient reports discomfort and pain in the middle of the lower back.  
+The patient reports discomfort in both sides of the lower back, with the left side being more symptomatic.  
+The patient has tenderness over a bony area of the lower back.  
+The patient describes a dull aching sensation in part of the lower back when pressed.  
+The patient’s low back pain is less severe on the right side than on the left side.  
+The patient’s low back pain is aggravated by sitting.  
+The patient feels more discomfort in the driver’s seat than when sitting in other positions.  
+The patient spends a lot of time driving for work.  
+The patient spends a lot of time sitting.  
+The patient has not previously undergone tests or treatment for low back or pelvic problems.  
+Imaging shows joint and muscle injury in the patient’s lower back.  
+Imaging shows internal disc damage in the patient’s spine.  
+The clinician states that the patient’s internal disc damage is chronic.  
+Imaging shows that one of the lower intervertebral disc spaces is very narrow.  
+The clinician states that the patient has a preexisting spinal disc condition.  
+The clinician states that the patient’s current main problem is related to posture.  
+The clinician states that the patient’s posture while driving places stress on the lower back and pelvis.  
+The clinician states that the patient’s spinal joints and muscles are weakened and have sustained micro-injury.  
+The clinician states that inflammation from micro-injury causes more discomfort when the patient bends forward.  
+The clinician states that pain has spread to both pelvic areas.  
+The clinician states that the patient’s nerve roots are not yet affected.  
+The clinician warns that future nerve root involvement could cause radiating pain or numbness in the buttocks or legs.  
+The clinician recommends posture correction with the back kept straight and the abdomen slightly engaged.  
+The clinician recommends oral medication for the patient’s condition.  
+The clinician recommends physical therapy for the patient’s condition.  
+The clinician explains that conventional therapy may be insufficient to reach deep-seated inflammation around the joints and discs.  
+The clinician recommends extracorporeal shock wave therapy as an initial treatment option.  
+The clinician states that shock wave therapy can reduce pain by delivering acoustic energy to deep tissues.  
+The clinician proposes shock wave therapy sessions twice a week for about four to five sessions.  
+The clinician plans to monitor the clinical course and consider additional treatments if the patient does not improve."
+"S1: 자기가 원하는 것만큼 완벽하게는 이게 딱 들어간 거 같지가 않다고. 선생님이 이렇게 또 아는 우리 친한 의사기 때문에 제가 그냥 굉장히 어려웠더라고요, 그런 거 자체가. 예.
+S2: 자, 알겠습니다. 우리가 기본 골격이 있고, 골격에는 이 골격을 움직이는 근육과 인대가 있습니다.
+S1: 네.
+S2: 그냥 예상입니다. 안에 문제가 다치시면서 회복이 덜 돼 있을 가능성이 충분히 있다고 생각합니다. 아직 통증도 있고, 부어 있고.
+S1: 네.
+S2: 그래서 정상이 아니기 때문에 얼만큼 정상이 안 돼 있는지 판별을 한번 해 드리려고 하고요. 안에 예를 들어서 또 다른 문제가 있는지 제가 여기는 초음파를 봐서 관절이니까 정확하게 한번 봐 드릴게요.
+S1: 네.
+S2: 밖에 조금만 계십시오.
+S1: 네, 알겠습니다. 선생님, 정확하게 진단 좀 해 주세요.
+S2: 예.
+S3: 사진은 어떻게 찍을까요?
+S2: 잠시만 앉아계세요. 예, 레스트 포 뷰 하고요. 맞습니다. 아, 지금 보수, 보수 비교해야 되니까. 보수로 찍으세요.
+S3: 네.
+S2: 한꺼번에 한 판에 찍는 거 있잖아요. 예. 이게 지금 정상하고 구조가 바뀌었기 때문에 비교해야 돼요.
+S3: 자, 오른쪽 먼저 좀 보실게요.","S (Subjective):
+- 제공된 정보 없음
+
+O (Objective):
+- 제공된 정보 없음
+
+A (Assessment):
+- 제공된 정보 없음
+
+P (Plan):
+- 손목 X-ray 촬영 예정
+- 양측 손목 비교 예정
+- 초음파 검사 예정
+- 관절 내 문제 및 손상 의증
+- 골격, 근육, 인대 문제 의심
+- 부종 및 통증 소견 관찰됨",The patient has ongoing pain.
+"S1: 오늘 무릎이 있어요?
+S2: 예. 부은 거 같아.
+S1: 알겠습니다. 제가 양쪽에 한번 상태 한번 볼게요. 어, 이쪽 무릎이 좀 부었네요. 여기가. 여기는 뼈가 잘 나오는데 여기는 이게 좀 두툼하네요. 제가 잠깐만 좀 볼게요. 자, 먼저 신발 벗고요. 양쪽 발 위에 올려 보세요. 자, 양쪽 발 올려 보시고 일자로 쭉 뻗어 보세요. 자, 일자로 쭉 뻗으시고. 쭉쭉쭉 올려 볼게요. 그렇죠. 자, 힘을 쭉 빼셔야 됩니다. 힘을 쭉 빼시고.
+S2: 지금은 뭐 움직이게.
+S1: 예. 확실히 부었네. 자, 손 한번 줘 볼까요? 자, 한번 자 여기도 한번 볼게요. 자, 여기는 좀 시원하죠. 여기는 어때요? 따뜻하죠. 음. 이게 안 좋은 거예요. 이게 안에 많이 부었다든지 상태가 안 좋을 때 따뜻하게 열이 나고 이렇게 부어있고. 이렇게 어, 앞쪽이 주로 불편하죠? 안쪽보다는.
+S2: 예 예.
+S1: LK 예. 어, 오른쪽도 안 불편하세요? 원래 평상시에?
+S2: 처음에 예. 여기가 아팠어요.
+S1: 예, 예.
+S2: 아프면서 요리 아파했는데,
+S1: 그렇죠.
+S2: 이게 좀 부은 것 같아요.
+S1: 음, 맞아요. 이쪽도 그래서 내가 조금 약간 LK가 심하고 RK가 덜한데 이퓨전이 있고 특히 왼쪽은 미열감도 있고. 예.
+S2: 그런데 어저께 어그저께 저기 제가 야외 능력을 갔다 왔어요.
+S1: 예.
+S2: 거기 갔다가 오면서
+S1: 갑자기 왼쪽이 불편하죠?
+S2: 네, 이거는 그런 적이 저기 예.
+S1: 우선 이야기 들어보면, 이야기를 들어 봐서는 어머니가 오른쪽이 불편하면은 우리 몸은 그거를 보상하기 위해서 반대쪽에 내가 모르는 사이에 자꾸 힘이 가요. 그래서 이게 또 뭔가 한계점에 온 것 같습니다, 느낌에. 그러니까 갑자기 지금 오른쪽 다리보다 지금 부어 있고 열나고. 이게 단순하게 부었을 수도 있는데 어머니, 물이 찼을 수도 있습니다. 예. 일단 요거는 조금 검사가 필요한 것 같고. 우선 이게 무릎이 안 좋은 사람들은 대부분 허리 병하고 연관이 많아요. 허리가 안 좋으셔서 혹시 진단받은 거 있으세요? 뭐 디스크나 협착 이런 거 진단받은 거 있으세요?
+S2: 예. 전에 했는데.
+S1: 예.
+S2: 받았어요.
+S1: 뭐 뭐라고?
+S2: 협착. 협착. 있어서 어쨌든 무슨 치료도 해본 적 있어요. 2년 됐어요. 안 갔죠.
+S1: 예. 그러면 나름대로 잘하셨네.
+S2: 그러고 이제 살만해서.
+S1: 예.
+S2: 예. 예. 하루 이틀은 우리 동네 또 예. 우리 동네는 몰랐는데 여기 오니까 작곡가인데 누군지 안 아프다. 알겠습니다. 예, 알겠습니다. 일단 또 일부러 오셨는데 제가 좀 최선을 다해서 열심히 상태를 먼저 한번 보고요. 어머니가 지금 허리도 제가 봤을 때는 안 좋은 경향이 있기 때문에 같이 영향을 주고 있는 것 같습니다. 예. 자, 지금 왼쪽이 제일 심하고 오른쪽이 덜하고 지금도 혹시 여기서 허리에서부터 요렇게 불편한 느낌도 같이 있죠?
+S2: 여기가 예. 음. 이게 많이 아픈 편이라요.
+S1: 예.
+S2: 그 째릿째릿하고 그래서 여기가 여기가 아파요.
+S1: 아이고, 예. 힘드시겠네. 자, 그러면은 어머니, 자, 여기서부터 아플 때 이렇게 옆으로 아프신 거 같아요, 주로 뒤로 아프신 거 같아요, 그냥 느낌에?
+S2: 여기 아프면서 여기 뒤쪽으로 해서요.
+S1: 아, 이쪽으로?
+S2: 예, 이쪽으로 아파요.
+S1: 이쪽으로 아파요? 괜찮아요. 이쪽으로 아플 수 있어요.
+S2: 이쪽으로 아프면서 음. 그 전에는 한 30초도 안 되게 안 걸었는데 어떨 땐 움직이지 못할 때.
+S1: 알겠습니다. 잠깐만요. 자, 어머니, 여기에 누르니까 뭔가 조금 불편해요? 불편하죠? 예. 고관절에도 문제가 있네. 자 어머니가 지금 보니까 허리가 안 좋으니까 고관절에도 지금 병이 확실하게 있네요. 예. 일단 제가 많이 보니까 한 번에 알겠습니다. 그러면 밑으로 이렇게 옆으로 쭉 타고 내려가 이런 건 없단 말이죠? 일단 엉치하고 요렇게만
+S2: 저려요.
+S1: 저려요. 저린 게 어디가 저리세요? 여기가 저리세요, 여기가 저리세요?
+S2: 여기가 저리면서요, 이렇게 이렇게 내려오더라고요.
+S1: 저. 그렇죠. 내려오는 게 허벅지 앞쪽으로 저리세요, 옆으로 저리세요, 뒤로 저리세요?
+S2: 뒤쪽으로 저리는 것 같아.
+S1: 어디 이쪽으로?
+S2: 예, 이쪽으로 이렇게.
+S1: 알겠습니다. 어, 1번은 아 1번은 니고요. 2번은 어, RB 예, RB에서 라이트 S1. 그리고 3번은 어, RP 엔티리어에 BC 그렇게 적어놓으세요. 지금 어머니가 우선 크게 말씀하신 게 병이 세 군데네요. 무릎, 허리, 고관절. 그런 순서로 병이 지금 다 계신 거 같아. 제가 기록은 일단 다 해 놔 놓고 우선은 무릎이 제일 불편하기 때문에 제가 여기에 관계되는 여기하고 우선 허리 쪽에 제가 먼저 볼 거예요. 그래서 일단 하는 김에 제가 여기에 좀 기본 사진부터 먼저 좀 찍어서 우선 좀 확인하고 제가 설명드릴게요. 예. 그래요. 밖에 좀 계세요.
+S2: 그리고 굽히는 게 많이 힘드시게.
+S1: 힘들죠. 예, 참 맞다. 왼쪽 무릎이 부어 있기 때문에 단순하게 부었는지 물이 찼는지를 제가 확인을 해야 되니까 여기는 제가 초음파도 한번 보겠습니다. 예. 그래서 보스니 세 장 찍고요, L-spine 두 장 찍고, 펠비스 한 장 찍고, 울트라 사운드 보고 있습니다.
+S3: 알겠습니다. 나오실게요. 예. 잠시만요. 밖에 조금 앉아 계세요. 보스니 이거 찍어놓으신다고요?
+S1: 예, 보스니. 왜냐하면 오른쪽도 지금 아픈 상태라서 근데 왼쪽이 심한데.
+S3: 원장님, 이거 RB 다음에 뭐라고 하셨어요?
+S1: 엑스레이 RB, 어, RB QL에서 라이트 S1.
+S3: 네. 원장님 추천 받으실게요.
+S1: 라이트 S1. 예, 오케이.","S (Subjective):
+- 주호소: 무릎 통증
+- 현병력: 왼쪽 무릎이 더 심하며, 허벅지 뒤쪽으로 저린 증상이 있음. 허리를 굽히는 동작이 힘들고, 30초 이상 움직이지 못할 정도의 통증이 있음.
+- 과거력: 협착증 진단 이력 있음.
+- 사회력: 허리 통증으로 2주간 휴업 중.
+
+O (Objective):
+- 신체검진: 양쪽 무릎 부종 관찰됨. 왼쪽 무릎이 더 부어있고 따뜻한 촉감.
+- 신체검진: 허리 압통 및 고관절 문제 의심 소견.
+- 신체검진: 허리에서부터 무릎 뒤쪽으로 저린 증상 호소.
+
+A (Assessment):
+- 무릎, 허리, 고관절의 복합적인 문제 의심.
+- 허리 문제로 인한 고관절 및 무릎의 보상성 문제 가능성.
+
+P (Plan):
+- 진단: X-ray (무릎 2장, 허리 2장), 초음파 검사 예정.
+- 치료: 허리 부위 집중 치료 예정.
+- 교육: 검사 결과 확인 후 설명 예정.","The patient reports that the left knee feels swollen.  
+On examination, the left knee is swollen.  
+The front part of the left knee is more uncomfortable than the inner side.  
+The patient initially had pain in the right knee.  
+The patient feels that the right knee has also become somewhat swollen.  
+The left knee is more severely affected than the right knee.  
+The left knee feels warm on examination.  
+The clinician suspects that fluid may have accumulated in the left knee.  
+The patient went on an outdoor activity recently.  
+The patient’s left knee became suddenly uncomfortable after the outdoor activity.  
+The patient has previously been diagnosed with lumbar spinal stenosis.  
+The patient received some form of treatment for lumbar spinal stenosis in the past.  
+The patient has not continued treatment for lumbar spinal stenosis for about two years.  
+The clinician considers that the patient’s lumbar spine is in poor condition.  
+The patient reports pain from the lower back area that extends toward the back side.  
+The patient reports that the painful area includes the back side region.  
+The patient reports that previously she could not walk for even 30 seconds at times due to symptoms.  
+The patient experiences tenderness or discomfort when the hip joint area is pressed.  
+The clinician identifies definite disease in the hip joint.  
+The clinician identifies that the patient has problems in three areas: knees, lumbar spine, and hip joint.  
+The patient reports a tingling sensation.  
+The patient reports that the tingling starts in the buttock area and goes downward.  
+The patient reports that the tingling radiates down the back side of the thigh.  
+The patient has difficulty bending the affected area.  
+The clinician plans to obtain X-ray images of both knees.  
+The clinician plans to obtain X-ray images of the lumbar spine.  
+The clinician plans to obtain an X-ray image of the pelvis.  
+The clinician plans to perform an ultrasound examination of the left knee to check for effusion."
+"S1: 어, 그렇죠. 네. 최근에 몸이 온 거는 제가 여기 이 뒤쪽에 이 어깨 있는 데가 좀 아파 가지고
+S2: 그렇죠. 당길 때 좀 아픈 게 좀 있어. 가만히 있을 때는 불편한 느낌이 있으시겠네요.
+S1: 예, 약간 다르긴 해요.
+S2: 그렇죠. 이 이쪽도 불편하긴 한데, 자, 여기 눌러서 가볍게만 해도 불편한 느낌이 있죠.
+S1: 크지는 않은데요.
+S2: 여기는 어떠세요? 가볍게 있어서요?
+S1: 네, 여기는 좀 괜찮아요.
+S2: 괜찮아요? 여기는 어떠세요?
+S1: 이쪽이 좀 불편해요. 이쪽이 불편하네요.
+S2: 이쪽이 불편하죠? 잠깐만요.
+S1: 문 같은 거 잡아당기거나 그럴 때 갑자기 아파요.
+S2: 그렇죠. 자. 여기도 불편하시니까 제가 좀 테스트 한번 할게요. 목을 이쪽으로 요렇게 갑니다. 지금 하니까 이쪽으로 뭔가 불편한 느낌 있으세요?
+S1: 아니요, 거기는 없어요.
+S2: 없죠? 자, 거기에서 그대로 뒤로 갑니다. 자, 요렇게 하니까 조금 더 뭐 괜찮은데, 그는
+S1: 그는 약간 약간 어지러워. 요 요기가 아파요.
+S2: 여기가 아프죠. 제가 여기서 목을 살짝 누르는데, 그러면 증상이 조금 심해지는 증상이 있을 수 있습니다. 자, 옆으로 갔다가 뒤로 갑니다. 뒤로 갔다가 제가 목을 살짝 누릅니다.
+S1: 자, 아까, 아, 불편한데, 제가.
+S2: 자, 요렇게. 아. 지금 불편하니까 목만 불편하세요? 아니면 이 뒤쪽이나 이쪽으로 타고 내려가나요?
+S1: 목이요, 목만.
+S2: 목만 불편하죠? 요렇게 이쪽으로 요렇게 불편하죠?
+S1: 네. 목이 확실히 안 좋기는 한데
+S2: 이쪽으로만 내려가죠.
+S1: 네, 네, 네. 여기 따로 아픈 건 없어요.
+S2: 그렇죠. 자, 왼쪽 볼게요. 이쪽은, 이쪽은, 이쪽으로 불편한 느낌 없죠? 자, 뒤로 갑니다. 불편한 느낌 있으세요? 없어요?
+S1: 없어요.
+S2: 요렇게 불편한 느낌 있어요?
+S1: 아니요, 괜찮아요.
+S2: 없죠? 지금 제일 불편한 게 여기가 불편하세요? 여기가 불편하세요, 이 부분이?
+S1: 여기는 거의 한 몇 달 정도 된 거 같고요.
+S2: 예, 오래되셨고.
+S1: 여기는 한 며칠 안 됐어요. 갑자기 뭐 움직이다 생긴 건지.
+S2: 아, 예. 여기는 움직이면 불편하죠?
+S1: 예. 맞아요.
+S2: 지금 현재 그러면 여기보다 여기가 제일 불편하시네요.
+S1: 네, 네. 맞아요.
+S2: 1번. 어, L2. L2 포스, 파디아웃은, 7번. 아, 상아리. 상아리 포스, 라테랄, TV. 잠깐만요. 봅시다. 자, 여기 누르면 불편하면 이야기하셔요.
+S1: 네. 거기 좀 아파요.
+S2: 거긴 불편하죠? 여기는 괜찮죠?
+S1: 네, 괜찮아요.
+S2: 여기 불편하죠?
+S1: 네.
+S2: PBN in the L2. 여기도 있고, 압통도 있고. 자, 그리고 2번 BND는, 두통 없으세요?
+S1: 종종 있어요.
+S2: 있죠? 최근에 심했죠, 그러시는 거 같은데. 여기도 긴장돼 있거든요. 이 2번 BN 두통 있고, 허리... 허리는 T3번. 이쪽까지는 뭐 일 수 없으나 하시고.
+S1: 네. 제가 약간 오른쪽이 라운드 숄더가 좀 심한 편이어가지고
+S2: 예, 그렇게 보입니다, 지금. 예. BNS에서 MRS. 어, 허리 스토리는 T3번. 그리고 뭐 큰 골 안 좋으시다고.
+S1: 이게 여기는 이제 거의 어깨랑 해서 좀 오래된 게 예. 여기도 약간 제가 골반이 틀어져 있거든요.
+S2: 혹시 목은 한 혹시 한 3개월, 6개월 이상 되셨어요?
+S1: 네, 네, 네. 이 여기는 목은 한 6개월 이상 됐고. 여기는 한 몇 년 됐을 텐데. 예. 최근에 제가 일을 좀 많이 했거든요. 예. 그러다 보니까 약간 허리가 자세가 뭐가 아픈 부위는 안쪽인 것 같아요. 그냥 여기 엉치뼈 쪽이나 아니면 여기를 약간 올라와서...
+S2: 여기도 불편하시죠? 네, 예. 앞으로 한번 숙여보시고, 뒤에 3번. 자, 쭉 숙여보세요. 불편하시고? 괜찮죠?
+S1: 네, 괜찮아요.
+S2: 뒤로. 자, 앞쪽보다는 뒤쪽이 좀 불편하시죠?
+S1: 네.
+S2: 예. 자, 3번 RB, 어, RB PM에서 RPPF F는 네거티브. 어, P는 약통. 자, 앉으십시오. 자, 그래요. 여러분데가 불편하시네요.
+S1: 쉬는 김에 그냥 다 받아보려고.
+S2: 그래요. 자, 치료는 좀 하신 적 있으세요?
+S1: 어, 작년에 도수 치료 회사에서 한번 받은 적 있고요. 예. 그 이후에 안 받은 것 같아요. 1년 넘었어요.
+S2: 도수 치료하니까 좀 괜찮으셨어요?
+S1: 예, 할 때는 괜찮았어요.
+S2: 자, 이 팔 불편한 게 내가 생활하실 때나 일하실 때 이 불편함이 좀 지속적으로 느껴지세요? 아니면 아니면 그냥 간헐적으로 느껴지세요?
+S1: 뻐근한 거는 그냥 계속 있는 거 같은데. 예. 뭐 이렇게 제 예를 들면 이렇게 문을 잡아당기거나 뭐 주으려고 이렇게 할 때, 예를 들어 뭐 잡으려고 할 때 불편한, 찌릿찌릿하게 올라와요.
+S2: 예, 그렇죠. 찌릿찌릿한 1번, 찌릿찌릿한 느낌들. 이게 지금 더 심해지고 있는, 확실하게. 어서 없어지게, 자, 일단 제가 오늘 좀 크게 나눠 가지고 위에하고 아래쪽인데, 좀 나눠서 오늘은 우선 위에다 할게요. 그리고 다음에 오시면 아래쪽도 해 드리고 이렇게 하도록 하겠습니다. 앉으십시오.
+S1: 네.
+S2: 실례...","S (Subjective):
+- 주호소: 목과 허리 통증
+- 현병력:
+    - 목 통증은 약 1개월 전부터 발생했으며, 문을 잡아당기거나 무거운 물건을 들 때 찌릿한 통증이 발생함.
+    - 허리 통증은 수개월 전부터 지속적으로 뻐근함.
+- 과거력: 작년에 도수치료를 2회 받음.
+- 사회력: 최근 육체 노동을 많이 함.
+
+O (Objective):
+- 신체검진:
+    - 경추부:
+        - 굴곡 시 통증 유발.
+        - 좌측 회전 및 신전 시 통증 유발.
+        - 우측 회전 시 통증 유발.
+        - C3-C4 부위 압통.
+    - 흉추부:
+        - 압통 없음.
+    - 요추부:
+        - 압통 없음.
+    - 골반: 좌측으로 틀어져 있음.
+
+A (Assessment):
+- 제공된 정보 없음
+
+P (Plan):
+- 제공된 정보 없음","The patient has pain in the back of the shoulder area.  
+The patient has pain when pulling on a door or similar objects.  
+The patient has neck discomfort.  
+The patient reports dizziness when the neck is moved in a certain way.  
+The patient reports that only the neck hurts without pain radiating down the arm.  
+The patient reports that the most uncomfortable area currently is the shoulder region rather than the neck.  
+The patient reports that the shoulder discomfort has been present for a few days.  
+The patient reports that the neck discomfort has been present for more than 6 months.  
+The patient reports that the shoulder and related area pain has been present for several months.  
+The patient reports that another area of pain has been present for several years.  
+The patient reports that recent increased work has affected the back and posture.  
+The patient reports discomfort in the lower back around the sacral or buttock area.  
+The patient reports that bending forward is not uncomfortable.  
+The patient reports that bending backward is more uncomfortable than bending forward.  
+The patient reports occasional headaches.  
+The clinician notes tension in the neck region.  
+The patient reports having a pronounced right-sided round shoulder posture.  
+The patient reports that the pelvis is twisted.  
+The patient reports that the shoulder and neck area pain is chronic.  
+The patient reports that the dull aching in the arm is almost constant.  
+The patient reports a tingling pain that shoots up when pulling a door or reaching to pick something up.  
+The patient received manual therapy once at a company clinic last year.  
+The patient has not received manual therapy for more than one year.  
+The patient reports that symptoms improved while receiving manual therapy."
+"S1: 조금 서 있는 기간이 좀 길었던 경우는 있어요.
+S2: 있어요? 예. 본인이 다친 게 아니기 때문에 기억을 잘 못 할 수 있고요. 기간은 한 한 달 정도라고 하셨는데 한 달 전에는 전혀 안 불편하셨어요? 아니면은 살짝
+S1: 살짝 살짝씩 불편하셨던
+S2: 그러면은 그래도 요즘에는 했는데. 그렇죠. 그러면 혹시 어 내가 발 불편한 게 혹시 한 6개월 넘으셨어요? 조금씩이라도 불편한 게.
+S1: 그렇게 따지면 그 정도
+S2: 그렇겠죠. 예. 아마 그럴 거예요. 최근에 그러면은 한 한 달 사이에 내가 기억하기에 뭐 생활 습관이나 운동 습관 바뀐 게 전혀 없죠?
+S1: 저 흡연 오는 것 같아요.
+S2: 예. 뭐 모를 수 있어요. 왜냐면 이게 다친 게 아니기 때문에. 자, 지금 아침에 제일 불편할 텐데요. 지금 예를 들어서 땅에 디딜 때마다 불편함을 느끼세요?
+S1: 네.
+S2: 어, 그러면 굉장히 지금 불편할 텐데. 예. 치료나 검사는 하신 적은 없죠?
+S1: 네.
+S2: 네. 이게 지금 좀 생활에 많이 불편하겠습니다, 지금 보니까. 예. 요즘 허리 안 불편하세요?
+S1: 허리도 좀.
+S2: 허리도 계속 안 좋으시죠? 예. 이 발바닥 병이 발에 대한 원인이 제일 많고요. 그게 역시 균형이기 때문에 이차적으로는 균형하고도 역시 연관이 많거든요. 일차적으로는 이 그 어, 발바닥의 원인이 제일 많습니다. 잠시만 이리로 오시겠네요. 오른쪽 발만요. 그리고 뻣뻣한 경우가 되게 굉장히 많거든요. 발을 이렇게 한번 올려보세요. 자, 쫙 한번 올려보세요. 이렇게 대부분 여기가 종아리 여기가 뻣뻣한 경우가 대부분입니다. 제가 딱 만져보고 바로 알겠습니다. 자. 가십시오. 우선은 제가 사진을 좀 찍어서 확인하고요, 보려고 하는데 최근에 혹시 그 발 쪽으로 검사나 치료하신 적은 전혀 없었, 없으시죠? 예. 알겠습니다. 어, 불편하셔서 뭐 잠을 설칠 정도는 아니시죠?
+S1: 예. 걷다가 보면 또 아픈 걸 견디면서 그래서 견디고
+S2: 견디고 견디는데, 예, 견디는데 견디긴 견디는데 그래도 잠은 잘 주무시는군요. 예. 왼쪽은 오른쪽처럼 굉장히 심해질 가능성이 충분히 있네요, 지금 보니까. 예.
+S1: 잠시만요, 빨리.
+S3: 괜찮으세요? 두 시간 안되게 하세요. 네. 선생님, 저기 사진 있습니다.
+S2: 아마, 그거는 아니고 파트로 들어가는 거 아니야. 이게 필요하네. 네. 그리고. 와, 엄청 심한데, 지금. 와. 이거 체외충격파. 일단은 PT하고 충격파 안돼요. 그거는. 자.","S (Subjective):
+- 주호소: 발바닥 통증
+- 현병력: 약 1달 전부터 증상 시작됨, 아침에 가장 불편함, 땅을 디딜 때마다 통증이 있음, 통증으로 인한 수면 장애는 없음
+- 과거력: 발 관련 검사나 치료 이력 없음, 허리 통증 동반
+- 사회력: 최근 2-3일간의 스파인너 사용 이력 없음, 발병 전후 생활 습관이나 운동 습관 변화 없음
+
+O (Objective):
+- 신체검진: 발바닥 특정 부위 압통, 종아리 끝까지 뻐근함 호소, 발목 관절 운동 제한 관찰됨
+
+A (Assessment):
+- 발바닥 문제로 인한 허리 통증 의증
+
+P (Plan):
+- 발 사진 촬영 예정
+- PT(물리치료) 및 충격파 치료 계획","The patient has had intermittent foot discomfort for about 6 months.  
+The patient’s foot discomfort has been more noticeable over the past month.  
+The patient feels pain in the foot every time they step on the ground in the morning.  
+The patient has not received any prior examination or treatment for the foot problem.  
+The patient’s foot discomfort does not disturb their sleep.  
+The patient experiences some low back discomfort.  
+The patient’s low back has been persistently uncomfortable.  
+The patient reports smoking."
+"S1: 편하게 누우시고. 예. 발 혹시 발바닥까지 불편하세요?
+S2: 옛날에는 저기가 불편했었고, 초반엔 여기가 불편했다가 지금 위로 올라왔어요.
+S1: 그렇죠. 음. 나중에 되면 이제 이게 이 한 덩어리가 없어. 음. 편할 수 있는데. 아래 위 아래에 다리 팔, 그중에서 아마 여기일 거거든요. 자. 여기 불편하세요?
+S2: 괜찮았어요?
+S1: 약간 불편.
+S2: 약간 불편하죠?
+S1: 예. 여기는 괜찮았고 그렇죠?
+S2: 여기는 괜찮아요.
+S1: 심하면은 요 뒤에까지 와요.
+S2: 어.
+S1: 예. 여기에. 여기가 제일 먼저 오고요. 두 번째 여기 오거든요. 여기는 어때요?
+S2: 거기도 좀, 좀 불편하죠.
+S1: 그 다음 세 번째. 여기가 제일 마지막 세 번째고. 얘는 괜찮았고, 그렇죠?
+S2: 네.
+S1: 예. 그리고 여기 잘 생기고요. 또 여기, 요 튀어나온 뼈 있죠? 요 밑으로 여기도 또 잘 생겨요. 여기 어때요?
+S2: 거기는 괜찮아요.
+S1: 지금은 괜찮아요?
+S2: 옛날에는 거기도 좀 아팠던 거 같은데.
+S1: 그렇죠. 예. 그 나중에 심하면 이제 아래로 와요. 이 아래쪽까지 불편하고. 지금은 여기는 괜찮죠?
+S2: 네.
+S1: 여기는 과거에 아팠다 지금 여기가 제일 불편하고. 이게 또 이 위로 쭉 올라갈 거예요. 안에 뭔가 찌릿한 그런 느낌이 있을 거예요. 그렇죠?
+S2: 네.
+S1: 자, 다친 건 없죠?
+S2: 다친 건 없어요.
+S1: 예, 다친 건 없을 거예요.
+S2: 네.
+S1: 그렇죠. 이 운동을 좋아하시니까 지금도 혹시 조깅 많이 하세요?
+S2: 지금 제가 러닝을 올해 마라톤을 다 세 번 뛰고 예. 제가 지금 8월에도 대회가 있어가지고.
+S1: 어우 그러시구나.
+S2: 네, 다음 주부터는 제가 아파도 어떻게든 훈련을 확인해야 될 것 같고.
+S1: 혹시 마라톤 선수세요, 직업적으로? 아니면 그냥 취미로?
+S2: 취미인데, 제가 8월에는 그 마라톤이랑 다른 레이스 대회를 나가야 돼가지고. 예.
+S1: 직업적으로 하는 건 아닌데 좀, 좀 확실히 좀 취미인데 하여튼 뭐 선수처럼 하시네. 알겠어요. 이게 뭐 동아리 같은 이런 거 하시는 모양이네요. 그렇죠? 왼쪽은 괜찮죠? 오른쪽이 그러실 건데요. 지금 운동을 해서 상당히 근육은 좋은데 안에가 지금 문제거든요. 요게 지금 이 쪽에 요 후경골근하고요, 장족지 신전근이라고 지금 여기에 좀 문제가 생겼거든요. 이게 심하면 발바닥 이쪽에도 이제 영향을 줍니다. 어, 지금 한 3개월 정도 되셨다고 하셨는데요. 걸을 때도 불편한 느낌이 있으세요?
+S2: 걸을 때는 괜찮고요. 예. 3개월 전에는 막 엄청 불편한 느낌 아니었거든요. 예. 근데 시간이 지나면 지날수록 조금씩 그 느낌이 세졌던 거 같아요.
+S1: 그렇죠. 자. 잠깐만요. 이건 괜찮을걸요. 그렇죠? 자, 요렇게. 이건 좀 어떠세요?
+S2: 거기도 괜찮아요.
+S1: 괜찮으세요? 이건 괜찮을걸요. 그렇죠? 자, 조금 더 가자. 자. 자, 이쪽에 다. 자, 이쪽에. 여기 어떠세요? 괜찮으세요?
+S2: 거긴 괜찮아요.
+S1: 괜찮아요?
+S1: 봅시다. 잠깐만요. 보스턴 보스턴이죠? 엑스파일 좀 줘. 평상시에 운동을 해서 근육 상태는 좋아요. 그런데 문제는 이제 이쪽에 과도한 긴장이 많이 가서 이게 지금 문제가 생긴 것 같고요. 치료나 검사는 좀 하셨어요?
+S2: 어, 저번 주에 제가 회사 앞에 있는 정형외과 가긴 했는데 예. 뭐 엑스레이 찍고 뼈에는 크게 문제가 없다. 그리고 물리치료 한번 끝났는데 그래서 한 일주일 정도 러닝을 안 했는데 통증이 그대로여서.
+S1: 예, 그렇죠. 그대로, 그대로 해결은 안 돼요. 이건 좀 적극적인 치료를 해야 되거든요. 자, 본인이 아픈 게 지금 이쪽 부위거든요. 발목 안쪽에 횡인대도 있지만은 이렇게 길게 이 종아리부터 발바닥까지 이렇게 연결되는 아주 중요한 근육들이 있습니다. 여기에 문제가 생겼거든요. 얼마만큼 심하냐에 따라서. 지금 좀 시간이 급하세요?
+S2: 아, 아니요.
+S1: 아, 천천히 하셔도 돼요.
+S2: 네. 알림이 와가지고.
+S1: 아 예. 자. 그래서 우선은 좀 발목을 또 많이 사용해야 되시는 분이기도 하니까 우선 요 관절의 상태가 어떤지 제가 여기는 초음파를 한번 봐 드릴게요. 그리고 양쪽 다리를 다 쓰는데 한쪽 다리만 집중적으로 오시는 걸로 봤을 때는 이쪽 다리에 뭔가 부하가 걸리는 게 있는데 가장 많은 게 자세적인 문제거든요. 일하시면서 운동하시면서 허리나 골반하고 불편한 느낌은 없으셨어요?
+S2: 거기는 괜찮아요.
+S1: 괜찮으세요? 자, 앉은 상태에서 뒤로 잠깐만 봅시다. 아, 균형이 문제가 있을 수 있습니다. 약간 이렇게 예상대로 약간 처지는 것 같아요. 자세가 일단 좀 사진 찍어서 확인해 드릴게요. 바로 좀 보세요. 네.","S (Subjective):
+- 주호소: 발목 및 발바닥 불편감
+- 현병력: 3개월 전부터 시작되어 시간이 지날수록 악화됨. 3개월 전에는 걸을 때도 불편했으나 현재는 괜찮음.
+- 과거력: 물리치료 1회 시행했으나 효과 없음.
+- 사회력: 마라톤 취미로 즐기며, 8월 대회 출전을 위해 다음 주부터 훈련을 재개할 예정임.
+- 동반증상: 없음.
+
+O (Objective):
+- 신체검진:
+    - 좌측 발목 및 발바닥에 압통(+)
+    - 후경골근 및 장족신근에 문제 소견
+    - 종아리 및 발바닥 연결 부위 긴장 과다 관찰
+    - 우측 발목 및 발바닥은 괜찮음.
+    - 보행 시 좌측으로 치우치는 경향 관찰됨.
+
+A (Assessment):
+- 제공된 정보 없음
+
+P (Plan):
+- 발목 X-ray 촬영 예정
+- 자세 교정 및 치료 계획 논의","The patient currently has discomfort in the right lower leg and ankle area that has moved upward over time.  
+The patient previously had pain in the foot and lower areas that have improved.  
+The patient reports a tingling-like internal sensation in the affected area.  
+The patient denies any history of trauma to the affected area.  
+The patient reports that walking is not currently uncomfortable.  
+The patient reports that the discomfort has been present for about 3 months.  
+The patient reports that the discomfort has gradually worsened over time.  
+The doctor states that the problem involves the right posterior tibial muscle.  
+The doctor states that the problem involves the right extensor digitorum longus muscle.  
+The doctor states that if the condition becomes severe it can affect the sole of the foot.  
+The doctor states that the inner ankle ligaments and muscles from the calf to the sole are involved in the patient’s pain.  
+The doctor notes that the patient’s muscles are in good condition due to regular exercise.  
+The doctor states that excessive tension in the affected area appears to have caused the problem.  
+The doctor states that more active treatment is needed for this condition.  
+The patient visited an orthopedic clinic about one week ago.  
+At the orthopedic clinic, an X-ray was taken.  
+The orthopedic clinic reported that there was no major problem with the bones.  
+The patient received one session of physical therapy at the orthopedic clinic.  
+The patient stopped running for about one week after the orthopedic visit.  
+The patient reports that the pain remained unchanged despite resting from running for about one week.  
+The patient reports that the left side is fine and the problem is on the right side.  
+The doctor notes that the patient needs to use the ankle a lot.  
+The doctor plans to perform an ultrasound examination of the ankle joint.  
+The doctor suspects that load on one leg may be related to a postural problem.  
+The patient denies discomfort in the back or pelvis during work or exercise.  
+The doctor notes that there may be a balance problem and slight sagging in posture.  
+The doctor plans to take posture photographs for assessment.  
+The patient enjoys exercise.  
+The patient runs marathons as a hobby.  
+The patient has completed three marathons this year.  
+The patient has another race scheduled in August.  
+The patient is part of a running club or similar group."
+"S1: 자, 이쪽으로 이렇게 불편하시다는 말씀이죠? 어떻게 하면요?
+S2: 우리가 요쪽 운동하고 이렇게, 요 좀 늘어오는 느낌 들어요. 예.
+S1: 이쪽에.
+S2: 그 이게, 이게 큰 그 뭐 짐 지고 이러면 같은 적이 있어요.
+S1: 자, 여기가 제일 아프시죠?
+S2: 예.
+S1: 아, 예. 자. 이거는 우, 우측 상과염, 내측, 예. 외측 상과염이네. 외측 상과염. 여기가 제일 불편하시죠?
+S2: 아, 요쪽, 여기, 여기.
+S1: 여기 여기? 예, 여기가 그렇죠. 상골 AC라고 보통 하세요. 여기가, 여기는 좀 덜 불편하시고.
+S2: 아, 그쪽보다 좀 조금.
+S1: 예. 여기 아픈데 여기가 더 불편하시고, 이쪽까지 다 불편하시고.
+S2: 좀 늘어와요, 이렇게.
+S1: 찌릿찌릿하진 않으세요?
+S2: 지금 만져가지고 그건 없는데. 예. 지금 이런 근육 이쪽하고 이렇게 좀...
+S1: 묵직하시죠. 가만히 있을 때도 뭔가 불편하시죠?
+S2: 예, 주먹 쥐면
+S1: 음. 아, 예, 예, 예, 예. 자, 제가 이렇게 여기 눌러서 통증 하는 거 알겠죠? 예. 혹시 뭐 다친 기억은 없으시죠?
+S2: 며칠 사이에 뭐 짐 옮 집에 짐 옮긴다고 뭐 좀 들고 이런 했는데
+S1: 예. 아마 그게 방아쇠 같은 역할을 했을 겁니다. 평상시에 손으로 예를 들어서 뭐 키보드라든지 물건 옮긴다든지 손으로 뭐 손가락으로 뭐 물건 잡는다든지 그런, 그런 일 하세요?
+S2: 이런 거 하는데 최근 한 2년 동안은 좀 쉬고 있어 가지고
+S1: 예.
+S2: 그런 건 없어요.
+S1: 뭐 따로 뭐 최근에 뭐 운동하셨다든지 그런 건 없으세요?
+S2: 예.
+S1: 본인이 다친 게 아니기 때문에 왜 그런지는 모르겠지만은 제가 이제 설명을 해 드리려고 합니다. 지금 예를 들어서 물컵에 물, 이렇게 물컵에 물 잡으면 이렇게 좀 통증 오세요? 그렇진 않으세요?
+S2: 세게 이렇게 하면 통증이...
+S1: 수도꼭지 이렇게 틀 때 아프지 않으세요?
+S2: 청소할 때, 청소할 때
+S1: 청소할 때 불편, 불편하시죠?
+S2: 걸레.
+S1: 예.
+S2: 지금도 주먹 쥐면은 요쪽이 다 근육도 그렇고.
+S1: 계속 좀 느껴지시죠? 그전에 그런 거 느끼신 적 전혀 없으세요?
+S2: 없죠. 처음.
+S1: 예. 자, 근데 평상시에는 잘, 평상시에는 잘 못 느끼시겠네요.
+S2: 그렇죠. 의식적으로 이래 안 하면 뭐 그렇게 불편한 건 없는데 이제 뭐 들거나 뭐 이 쥐고 이러하면
+S1: 예. 그때 불편하시죠?
+S2: 와서.
+S1: 예. 알겠습니다. 제가 이 기본 사진 좀 찍어서 확인하는데요. 일단 팔꿈치에 문제가 생기셨고요. 이게 주로 팔을 많이 사용하는 사람 또는 자세가 나빠지는 사람인데, 좀 평상시에 생활하시면서 요 목 주변에 뻐근하진 않으세요?
+S2: 지금은 그렇진 않아요.
+S1: 예. 지금은 그렇지 않지만 과거에는 그러셨어요? 자, 혹시 본인, 다른 사람이 보고 아이고 목이 앞쪽으로 되게 많이 빠지셨다, 그런 이야기 많이 안 들으셨어요?
+S2: 들어본 그런 건 없는데요.
+S1: 다른 사람하고 비교 한번 해 보세요. 여기 요 목 쪽이 많이, 예. 이쪽이 많이 빠지셨고 여기가 되게 긴장이 많이 심하세요. 이게 여기하고 연관이 있으니까 제가 이야기 드립니다. 자, 우선 제가 기본 사진 좀 찍어서 먼저 확인하고 설명드릴게요.
+S3: 들어오세요.
+S2: 네.
+S3: 차트 이쪽입니다.
+S1: 아, 예. 자, 그래서 음... 이쪽하고 저쪽 키하고 반대. 한 장.","S (Subjective):
+- 주호소: 우측 팔꿈치 통증
+- 현병력: 며칠 전부터 발생했으며, 손목을 꺾을 때 통증이 발생함. 평상시에는 통증이 없으나, 청소와 같이 손목을 사용하는 활동 시 통증이 나타남.
+- 과거력: 최근 1년 동안 휴직 중이며, 과거에는 목이 앞쪽으로 빠진 자세를 유지했음.
+- 사회력: 키보드 사용 등 손을 많이 사용하는 직업을 가졌었음.
+- 기타: 최근 운동이나 다친 적 없음.
+
+O (Objective):
+- 신체검진: 우측 팔꿈치 압통 및 긴장 관찰됨.
+- 자세: 목이 뒤쪽으로 빠진 자세 관찰됨.
+
+A (Assessment):
+- 제공된 정보 없음
+
+P (Plan):
+- 제공된 정보 없음","The patient reports discomfort and a stretching sensation in the right elbow area during certain movements.  
+The patient reports that the right elbow area is most painful at a specific point identified by the doctor.  
+The doctor diagnoses the patient with right lateral epicondylitis.  
+The patient reports that the discomfort extends along the muscles of the affected arm.  
+The patient reports a heavy or dull sensation and discomfort in the affected area even at rest.  
+The patient reports pain in the affected area when making a fist tightly.  
+The patient reports that moving household items and carrying loads a few days ago preceded the onset of symptoms.  
+The patient reports that in the past two years they have not been doing hand-intensive work such as keyboard use or moving objects.  
+The patient reports no recent exercise.  
+The patient reports that strong gripping, such as holding a cup tightly, causes pain.  
+The patient reports discomfort in the affected area when cleaning, such as when using a rag.  
+The patient reports that this is the first time they have experienced these symptoms.  
+The patient reports that they do not feel much discomfort during ordinary daily activities unless they lift or grip objects.  
+The doctor notes that the patient’s neck appears to protrude forward compared with others.  
+The doctor notes that the patient has significant muscle tension around the neck area.  
+The doctor states that the neck findings are related to the patient’s elbow problem.  
+The doctor states that there is a problem in the patient’s elbow."

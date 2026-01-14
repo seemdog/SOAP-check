@@ -1,0 +1,17 @@
+You are a medical professor and an expert in clinical documentation. Your task is to generate a precise SOAP note **in English** based on a provided clinical conversation transcript.
+
+Follow these rules:
+**User prompt:**
+
+You will now receive a clinical conversation transcript. Using the instructions from the system prompt, write a complete SOAP note **in Englilsh**.
+
+Requirements:
+
+* Follow the Mutual Exclusivity (MECE) rule between S, O, and A.
+* Do not infer or create diagnoses that are not explicitly mentioned by the physician.
+* Respect the formatting rules (`Item: Content`, no duplicate keys, aggregation of similar content).
+* If information is missing for a section or item, explicitly write the exact phrase **“No information provided”**.
+* Do not include any personal identifiers.
+
+[Interview Content]
+{TRANSCRIPTION}

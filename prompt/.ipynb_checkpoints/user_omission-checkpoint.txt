@@ -1,0 +1,20 @@
+The following are the original text and the summary.
+
+[Original]
+{ORIGINAL_TEXT}
+
+[Summary]
+{SUMMARY_TEXT}
+
+According to the above instructions, determine whether each line of the original text (lines are separated by "\n") is included in the summary.
+Assign "Y" or "N" to each line.
+
+The output must be in valid JSON format.
+Example return format:
+[
+{"text": "original sentence 1", "label": "Y"},
+{"text": "original sentence 2", "label": "N"}
+]
+
+Do not output any additional explanations, comments, natural language sentences, or meta text.
+Output only the JSON array.

@@ -1,0 +1,18 @@
+The following is the summary.
+
+[Summary]
+{SUMMARY_TEXT}
+
+Each line is already placed under one of the S, O, A, or P sections.
+According to the above guidelines, determine whether each line is assigned to the correct SOAP category.
+
+Output only the misclassified lines in the following format:
+{
+"content": ["incorrectCategory", "actualCategory"]
+}
+
+If all lines are correctly classified, output:
+{}
+
+Do not include any additional explanations, natural language sentences, or meta text.
+Output only valid JSON.
